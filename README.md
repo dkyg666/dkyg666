@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- BLOG-POST-LIST:START -->
-- 🦩 [学习周刊-总第175期-2024年第36周](https://wiki.eryajf.net/pages/ad8c56/) 
+- 🦩 [cloudflare worker 搭建一个 Docker 镜像源](http://blog.1996099.xyz/archives/cloudflare-worker-da-jian-yi-ge-docker-jing-xiang-zhan) 
 
-- 🚦 [魔方复原-记录个人理解的教程](https://wiki.eryajf.net/pages/75d978/) 
+- 🚦 [Docker配置网络代理](http://blog.1996099.xyz/archives/dockerpei-zhi-wang-luo-dai-li) 
 
-- 🫶 [分享我的开源项目CloudDnsExporter，妈妈再也不担心我忘换证书了](https://wiki.eryajf.net/pages/a47486/) 
+- 🫶 [OpenWrt 安装nginx 模块化部署](http://blog.1996099.xyz/archives/openwrt-an-zhuang-nginx-mo-kuai-hua-bu-shu) 
 
-- 🦄 [学习周刊-总第174期-2024年第35周](https://wiki.eryajf.net/pages/eb4690/) 
+- 🦄 [Ubuntu编译Openwrt](http://blog.1996099.xyz/archives/ubuntuzi-bian-yi-openwrt) 
 
-- 🐻 [学习周刊-总第173期-2024年第34周](https://wiki.eryajf.net/pages/b52310/) 
+- 🐻 [OpenWrt overlay磁盘扩容](http://blog.1996099.xyz/archives/openwrt-overlay) 
 
-- 🤖 [音乐节惊魂，铭记安全大于一切](https://wiki.eryajf.net/pages/6baaa2/) 
+- 🤖 [CentOS 7 安装Docker环境](http://blog.1996099.xyz/archives/centos-docker) 
 <!-- BLOG-POST-LIST:END -->
 
