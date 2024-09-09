@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [独立开发周记 82：有舍有得，再入轮回](https://www.v2ex.com/t/1071401#reply0) | Mon Sep 09 2024 10:11 AM
-- 🤗 [jar 包制作 exe 文件如何在线升级](https://www.v2ex.com/t/1071397#reply2) | Mon Sep 09 2024 10:02 AM
-- 🎭 [k8s configMap 实时更新问题](https://www.v2ex.com/t/1071390#reply3) | Mon Sep 09 2024 9:21 AM
-- 🥷 [我和 AI 一起写代码创业的这大半年，关于 AI，关于 AI Coding 都在这里了](https://www.v2ex.com/t/1071388#reply6) | Mon Sep 09 2024 9:12 AM
-- 🐵 [用了 cursor，写 sql 终于不用费脑了，思路分享。](https://www.v2ex.com/t/1071382#reply4) | Mon Sep 09 2024 8:55 AM<!-- v2ex:END -->
+- 🥸 [“独立开发者”长期不和他人线下交流，会有什么问题吗？](https://www.v2ex.com/t/1071413#reply2) | Mon Sep 09 2024 10:57 AM
+- 🤗 [请教一个关于 Qt 与 SDL 配合使用的问题](https://www.v2ex.com/t/1071404#reply3) | Mon Sep 09 2024 10:31 AM
+- 🎭 [独立开发周记 82：有舍有得，再入轮回](https://www.v2ex.com/t/1071401#reply0) | Mon Sep 09 2024 10:11 AM
+- 🥷 [jar 包制作 exe 文件如何在线升级](https://www.v2ex.com/t/1071397#reply4) | Mon Sep 09 2024 10:02 AM
+- 🐵 [k8s configMap 实时更新问题](https://www.v2ex.com/t/1071390#reply3) | Mon Sep 09 2024 9:21 AM<!-- v2ex:END -->
 
