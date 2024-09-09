@@ -27,4 +27,6 @@ Here are some ideas to get you started:
 
 - 🤖 [CentOS 7 安装Docker环境](http://blog.1996099.xyz/archives/centos-docker) 
 <!-- BLOG-POST-LIST:END -->
-
+### v2ex-全站热点
+<!-- v2ex:START -->
+<!-- v2ex:END -->
