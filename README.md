@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<details>
+  <summary>【查看详情】</summary>
 <!-- BLOG-POST-LIST:START -->
 - 🦩 [cloudflare worker 搭建一个 Docker 镜像源](http://blog.1996099.xyz/archives/cloudflare-worker-da-jian-yi-ge-docker-jing-xiang-zhan) 
 
@@ -27,6 +29,7 @@ Here are some ideas to get you started:
 
 - 🤖 [CentOS 7 安装Docker环境](http://blog.1996099.xyz/archives/centos-docker) 
 <!-- BLOG-POST-LIST:END -->
+  </details>
 ### v2ex-全站热点
 <!-- v2ex:START -->
 - 🥸 [做了款加密的文件分享软件,有可能会违法吗?](https://www.v2ex.com/t/1071301#reply1) | Mon Sep 09 2024 5:27 AM
