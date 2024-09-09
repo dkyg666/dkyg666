@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [大佬们，有没有免登陆的 ios 虚拟机下载地址](https://www.v2ex.com/t/1071439#reply0) | Mon Sep 09 2024 2:01 PM
-- 🤗 [使用 CF Tunnel 访问内网服务只能走 http 的困扰](https://www.v2ex.com/t/1071432#reply7) | Mon Sep 09 2024 1:02 PM
-- 🎭 [求教；使用模板开发时， vscode 语法提示应该如何配置？（能解决奉上￥ 200 红包）](https://www.v2ex.com/t/1071423#reply3) | Mon Sep 09 2024 12:07 PM
-- 🥷 [“独立开发者”长期不和他人线下交流，会有什么问题吗？](https://www.v2ex.com/t/1071413#reply14) | Mon Sep 09 2024 10:57 AM
-- 🐵 [请教一个关于 Qt 与 SDL 配合使用的问题](https://www.v2ex.com/t/1071404#reply3) | Mon Sep 09 2024 10:31 AM<!-- v2ex:END -->
+- 🥸 [每种语言应用场景、应用领域、以及框架以及他们的竟品大家可以补充一下，我写的也需要大家帮忙补充修改一下，希望可以了解一下当前目前有哪些编程语言，](https://www.v2ex.com/t/1071456#reply1) | Mon Sep 09 2024 3:14 PM
+- 🤗 [个人项目后端技术选型求取经，语言&amp;框架&amp;云](https://www.v2ex.com/t/1071445#reply4) | Mon Sep 09 2024 2:42 PM
+- 🎭 [大佬们，有没有免登陆的 ios 虚拟机下载地址](https://www.v2ex.com/t/1071439#reply0) | Mon Sep 09 2024 2:01 PM
+- 🥷 [使用 CF Tunnel 访问内网服务只能走 http 的困扰](https://www.v2ex.com/t/1071432#reply7) | Mon Sep 09 2024 1:02 PM
+- 🐵 [求教；使用模板开发时， vscode 语法提示应该如何配置？（能解决奉上￥ 200 红包）](https://www.v2ex.com/t/1071423#reply3) | Mon Sep 09 2024 12:07 PM<!-- v2ex:END -->
 
