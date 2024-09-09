@@ -29,4 +29,8 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 ### v2ex-全站热点
 <!-- v2ex:START -->
-<!-- v2ex:END -->
+- 🥸 [大家的代理软件的 rules 是不是默认屏蔽了 百度统计 hm.baidu.com 这个域名](https://www.v2ex.com/t/1071281#reply6) | Mon Sep 09 2024 4:36 AM
+- 🤗 [架构师都是怎样炼成的](https://www.v2ex.com/t/1071252#reply12) | Mon Sep 09 2024 3:29 AM
+- 🎭 [有用过天翼云的朋友吗，谈谈使用体验](https://www.v2ex.com/t/1071225#reply12) | Mon Sep 09 2024 2:42 AM
+- 🥷 [程序员刷手机最好的模式，就是作为电脑端的显示器副屏或远程桌面。](https://www.v2ex.com/t/1071224#reply11) | Mon Sep 09 2024 2:41 AM
+- 🐵 [三星 SCR01 5G WIFI 如何接收短信？](https://www.v2ex.com/t/1071217#reply4) | Mon Sep 09 2024 2:30 AM<!-- v2ex:END -->
