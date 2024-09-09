@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [k8s configMap 实时更新问题](https://www.v2ex.com/t/1071390#reply0) | Mon Sep 09 2024 9:21 AM
-- 🤗 [我和 AI 一起写代码创业的这大半年，关于 AI，关于 AI Coding 都在这里了](https://www.v2ex.com/t/1071388#reply1) | Mon Sep 09 2024 9:12 AM
-- 🎭 [用了 cursor，写 sql 终于不用费脑了，思路分享。](https://www.v2ex.com/t/1071382#reply2) | Mon Sep 09 2024 8:55 AM
-- 🥷 [请问各位大佬，关于网络安全的问题](https://www.v2ex.com/t/1071375#reply0) | Mon Sep 09 2024 8:41 AM
-- 🐵 [为了使用飞书文档，还需要下载整个飞书 IM 工具，被劝退了！](https://www.v2ex.com/t/1071370#reply7) | Mon Sep 09 2024 8:25 AM<!-- v2ex:END -->
+- 🥸 [独立开发周记 82：有舍有得，再入轮回](https://www.v2ex.com/t/1071401#reply0) | Mon Sep 09 2024 10:11 AM
+- 🤗 [jar 包制作 exe 文件如何在线升级](https://www.v2ex.com/t/1071397#reply2) | Mon Sep 09 2024 10:02 AM
+- 🎭 [k8s configMap 实时更新问题](https://www.v2ex.com/t/1071390#reply3) | Mon Sep 09 2024 9:21 AM
+- 🥷 [我和 AI 一起写代码创业的这大半年，关于 AI，关于 AI Coding 都在这里了](https://www.v2ex.com/t/1071388#reply6) | Mon Sep 09 2024 9:12 AM
+- 🐵 [用了 cursor，写 sql 终于不用费脑了，思路分享。](https://www.v2ex.com/t/1071382#reply4) | Mon Sep 09 2024 8:55 AM<!-- v2ex:END -->
 
