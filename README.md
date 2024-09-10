@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [阿里云新加坡-c 区火灾](https://www.v2ex.com/t/1071606#reply1) | Tue Sep 10 2024 4:08 AM
-- 🤗 [LinkedBlockingQueue.offer 为什么阻塞？](https://www.v2ex.com/t/1071602#reply1) | Tue Sep 10 2024 3:59 AM
-- 🎭 [react native 在 2024 年还能打吗？感觉跨平台一致性不如 h5 和 flutter](https://www.v2ex.com/t/1071599#reply3) | Tue Sep 10 2024 3:52 AM
-- 🥷 [nginx 反代 websocket，为什么被代理端写入错误 write: broken pipe ？](https://www.v2ex.com/t/1071584#reply1) | Tue Sep 10 2024 3:19 AM
-- 🐵 [JavaScript 比 C 有更重的心智负担， Jser 们别卷框架了，卷点语言吧](https://www.v2ex.com/t/1071566#reply21) | Tue Sep 10 2024 2:44 AM<!-- v2ex:END -->
+- 🥸 [美国带回的一加 Nord N30 5g，好像国内没有对应版本不能刷成 color os](https://www.v2ex.com/t/1071638#reply0) | Tue Sep 10 2024 6:07 AM
+- 🤗 [请问有没有一键生成单元测试/单元测试报告的工具](https://www.v2ex.com/t/1071634#reply0) | Tue Sep 10 2024 6:00 AM
+- 🎭 [阿里云新加坡-c 区火灾](https://www.v2ex.com/t/1071606#reply11) | Tue Sep 10 2024 4:08 AM
+- 🥷 [LinkedBlockingQueue.offer 为什么阻塞？](https://www.v2ex.com/t/1071602#reply4) | Tue Sep 10 2024 3:59 AM
+- 🐵 [react native 在 2024 年还能打吗？感觉跨平台一致性不如 h5 和 flutter](https://www.v2ex.com/t/1071599#reply9) | Tue Sep 10 2024 3:52 AM<!-- v2ex:END -->
 
