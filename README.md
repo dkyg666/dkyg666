@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [想换一个双肩包用来装 16 寸笔记本电脑](https://www.v2ex.com/t/1071684#reply4) | Tue Sep 10 2024 7:46 AM
-- 🤗 [电脑是中病毒了吗](https://www.v2ex.com/t/1071672#reply2) | Tue Sep 10 2024 7:20 AM
-- 🎭 [win10 开始菜单出现 ms-resource:AppListname 怎么办](https://www.v2ex.com/t/1071654#reply0) | Tue Sep 10 2024 6:37 AM
-- 🥷 [谈谈大家对微前端的看法](https://www.v2ex.com/t/1071651#reply15) | Tue Sep 10 2024 6:34 AM
-- 🐵 [美国带回的一加 Nord N30 5g，好像国内没有对应版本不能刷成 color os](https://www.v2ex.com/t/1071638#reply1) | Tue Sep 10 2024 6:07 AM<!-- v2ex:END -->
+- 🥸 [寻找游戏 UI 搭子](https://www.v2ex.com/t/1071720#reply0) | Tue Sep 10 2024 9:02 AM
+- 🤗 [华为三折叠，各位怎么看？](https://www.v2ex.com/t/1071718#reply17) | Tue Sep 10 2024 9:00 AM
+- 🎭 [jupyter debug](https://www.v2ex.com/t/1071709#reply1) | Tue Sep 10 2024 8:37 AM
+- 🥷 [想问问有没有知情人士，以前官方源换国内镜像源的工具的帖子，怎么 404 了](https://www.v2ex.com/t/1071704#reply4) | Tue Sep 10 2024 8:32 AM
+- 🐵 [想换一个双肩包用来装 16 寸笔记本电脑](https://www.v2ex.com/t/1071684#reply14) | Tue Sep 10 2024 7:46 AM<!-- v2ex:END -->
 
