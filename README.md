@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [有谁在 App store 上架过带 App Clips 的应用吗？](https://www.v2ex.com/t/1071789#reply0) | Tue Sep 10 2024 1:19 PM
-- 🤗 [mac 有没有可以和 E5 比肩的 400 元整机的电脑（不算显示器）](https://www.v2ex.com/t/1071776#reply1) | Tue Sep 10 2024 12:28 PM
+- 🥸 [cursor 真实使用体验（绝不是推广）](https://www.v2ex.com/t/1071797#reply0) | Tue Sep 10 2024 1:46 PM
+- 🤗 [有谁在 App store 上架过带 App Clips 的应用吗？](https://www.v2ex.com/t/1071789#reply0) | Tue Sep 10 2024 1:19 PM
 - 🎭 [神人 Google 把打印页面的 Landscape 翻译成了“风光”](https://www.v2ex.com/t/1071755#reply5) | Tue Sep 10 2024 10:36 AM
 - 🥷 [在 JobRunr OSS 中实现作业池的思路？](https://www.v2ex.com/t/1071740#reply0) | Tue Sep 10 2024 9:47 AM
 - 🐵 [jupyter debug](https://www.v2ex.com/t/1071709#reply1) | Tue Sep 10 2024 8:37 AM<!-- v2ex:END -->
