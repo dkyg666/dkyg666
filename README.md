@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [VSCode 的 Vue - Official 插件有什么可以平替？](https://www.v2ex.com/t/1071490#reply6) | Tue Sep 10 2024 12:35 AM
-- 🤗 [京东的政府补贴有什么好的 5000 内的笔记本推荐么？](https://www.v2ex.com/t/1071463#reply9) | Mon Sep 09 2024 3:29 PM
-- 🎭 [搭建一个网站以绕过 IAP 抽成，销售更低价格的游戏内货币是违规行为吗？为什么我只见过一款游戏 Arcaea 这么搞？另外大部分软件在网站上开的会员都是全平台通用，这个为什么不违规？](https://www.v2ex.com/t/1071459#reply15) | Mon Sep 09 2024 3:23 PM
-- 🥷 [每种语言应用场景、应用领域、以及框架以及他们的竟品大家可以补充一下，我写的也需要大家帮忙补充修改一下，希望可以了解一下当前目前有哪些编程语言，](https://www.v2ex.com/t/1071456#reply5) | Mon Sep 09 2024 3:14 PM
-- 🐵 [个人项目后端技术选型求取经，语言&amp;框架&amp;云](https://www.v2ex.com/t/1071445#reply5) | Mon Sep 09 2024 2:42 PM<!-- v2ex:END -->
+- 🥸 [mac 上 sublime 公司不让用，有啥替代品？](https://www.v2ex.com/t/1071565#reply6) | Tue Sep 10 2024 2:40 AM
+- 🤗 [轻量级开源自动化运维平台，批量执行、在线终端、发布部署一应俱全](https://www.v2ex.com/t/1071555#reply1) | Tue Sep 10 2024 2:30 AM
+- 🎭 [网易有道词典 PC 版的 UI 什么写的？经常闪退。](https://www.v2ex.com/t/1071551#reply3) | Tue Sep 10 2024 2:20 AM
+- 🥷 [[出海记录] 开发新手做的第 6 个新站-AI 拥抱](https://www.v2ex.com/t/1071524#reply9) | Tue Sep 10 2024 1:37 AM
+- 🐵 [现在最尴尬的是不是用 Swift 做 iOS 开发的？](https://www.v2ex.com/t/1071522#reply15) | Tue Sep 10 2024 1:36 AM<!-- v2ex:END -->
 
