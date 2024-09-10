@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 - 🥸 [认真做的接口开发、调试工具，求 star](https://www.v2ex.com/t/1071817#reply0) | Tue Sep 10 2024 3:06 PM
 - 🤗 [ldconfig 凭什么能重置 so 软链](https://www.v2ex.com/t/1071811#reply0) | Tue Sep 10 2024 2:44 PM
 - 🎭 [华为云开源网站内部地址是啥？](https://www.v2ex.com/t/1071809#reply0) | Tue Sep 10 2024 2:25 PM
-- 🥷 [cursor 真实使用体验（绝不是推广）](https://www.v2ex.com/t/1071797#reply20) | Tue Sep 10 2024 1:46 PM
+- 🥷 [cursor 真实使用体验（绝不是推广）](https://www.v2ex.com/t/1071797#reply22) | Tue Sep 10 2024 1:46 PM
 - 🐵 [有谁在 App store 上架过带 App Clips 的应用吗？](https://www.v2ex.com/t/1071789#reply0) | Tue Sep 10 2024 1:19 PM<!-- v2ex:END -->
 
