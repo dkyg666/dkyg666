@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [神人 Google 把打印页面的 Landscape 翻译成了“风光”](https://www.v2ex.com/t/1071755#reply2) | Tue Sep 10 2024 10:36 AM
-- 🤗 [在 JobRunr OSS 中实现作业池的思路？](https://www.v2ex.com/t/1071740#reply0) | Tue Sep 10 2024 9:47 AM
-- 🎭 [jupyter debug](https://www.v2ex.com/t/1071709#reply1) | Tue Sep 10 2024 8:37 AM
-- 🥷 [想问问有没有知情人士，以前官方源换国内镜像源的工具的帖子，怎么 404 了](https://www.v2ex.com/t/1071704#reply4) | Tue Sep 10 2024 8:32 AM
-- 🐵 [想换一个双肩包用来装 16 寸笔记本电脑](https://www.v2ex.com/t/1071684#reply14) | Tue Sep 10 2024 7:46 AM<!-- v2ex:END -->
+- 🥸 [mac 有没有可以和 E5 比肩的 400 元整机的电脑（不算显示器）](https://www.v2ex.com/t/1071776#reply0) | Tue Sep 10 2024 12:28 PM
+- 🤗 [神人 Google 把打印页面的 Landscape 翻译成了“风光”](https://www.v2ex.com/t/1071755#reply5) | Tue Sep 10 2024 10:36 AM
+- 🎭 [在 JobRunr OSS 中实现作业池的思路？](https://www.v2ex.com/t/1071740#reply0) | Tue Sep 10 2024 9:47 AM
+- 🥷 [jupyter debug](https://www.v2ex.com/t/1071709#reply1) | Tue Sep 10 2024 8:37 AM
+- 🐵 [想问问有没有知情人士，以前官方源换国内镜像源的工具的帖子，怎么 404 了](https://www.v2ex.com/t/1071704#reply4) | Tue Sep 10 2024 8:32 AM<!-- v2ex:END -->
 
