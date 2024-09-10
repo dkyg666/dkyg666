@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [认真做的接口开发、调试工具，求 star](https://www.v2ex.com/t/1071817#reply0) | Tue Sep 10 2024 3:06 PM
-- 🤗 [ldconfig 凭什么能重置 so 软链](https://www.v2ex.com/t/1071811#reply0) | Tue Sep 10 2024 2:44 PM
-- 🎭 [华为云开源网站内部地址是啥？](https://www.v2ex.com/t/1071809#reply0) | Tue Sep 10 2024 2:25 PM
-- 🥷 [cursor 真实使用体验（绝不是推广）](https://www.v2ex.com/t/1071797#reply24) | Tue Sep 10 2024 1:46 PM
-- 🐵 [有谁在 App store 上架过带 App Clips 的应用吗？](https://www.v2ex.com/t/1071789#reply0) | Tue Sep 10 2024 1:19 PM<!-- v2ex:END -->
+- 🥸 [100u 有偿请前端老哥实现解密播放 m3u8 文件](https://www.v2ex.com/t/1071836#reply1) | Tue Sep 10 2024 11:05 PM
+- 🤗 [想从 apple 全家桶转为安卓生态，请教下大家](https://www.v2ex.com/t/1071834#reply2) | Tue Sep 10 2024 10:27 PM
+- 🎭 [认真做的接口开发、调试工具，求 star](https://www.v2ex.com/t/1071817#reply0) | Tue Sep 10 2024 3:06 PM
+- 🥷 [ldconfig 凭什么能重置 so 软链](https://www.v2ex.com/t/1071811#reply0) | Tue Sep 10 2024 2:44 PM
+- 🐵 [华为云开源网站内部地址是啥？](https://www.v2ex.com/t/1071809#reply0) | Tue Sep 10 2024 2:25 PM<!-- v2ex:END -->
 
