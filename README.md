@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [京东的政府补贴有什么好的 5000 内的笔记本推荐么？](https://www.v2ex.com/t/1071463#reply5) | Mon Sep 09 2024 3:29 PM
-- 🤗 [搭建一个网站以绕过 IAP 抽成，销售更低价格的游戏内货币是违规行为吗？为什么我只见过一款游戏 Arcaea 这么搞？另外大部分软件在网站上开的会员都是全平台通用，这个为什么不违规？](https://www.v2ex.com/t/1071459#reply11) | Mon Sep 09 2024 3:23 PM
-- 🎭 [每种语言应用场景、应用领域、以及框架以及他们的竟品大家可以补充一下，我写的也需要大家帮忙补充修改一下，希望可以了解一下当前目前有哪些编程语言，](https://www.v2ex.com/t/1071456#reply5) | Mon Sep 09 2024 3:14 PM
-- 🥷 [个人项目后端技术选型求取经，语言&amp;框架&amp;云](https://www.v2ex.com/t/1071445#reply4) | Mon Sep 09 2024 2:42 PM
-- 🐵 [大佬们，有没有免登陆的 ios 虚拟机下载地址](https://www.v2ex.com/t/1071439#reply1) | Mon Sep 09 2024 2:01 PM<!-- v2ex:END -->
+- 🥸 [VSCode 的 Vue - Official 插件有什么可以平替？](https://www.v2ex.com/t/1071490#reply6) | Tue Sep 10 2024 12:35 AM
+- 🤗 [京东的政府补贴有什么好的 5000 内的笔记本推荐么？](https://www.v2ex.com/t/1071463#reply9) | Mon Sep 09 2024 3:29 PM
+- 🎭 [搭建一个网站以绕过 IAP 抽成，销售更低价格的游戏内货币是违规行为吗？为什么我只见过一款游戏 Arcaea 这么搞？另外大部分软件在网站上开的会员都是全平台通用，这个为什么不违规？](https://www.v2ex.com/t/1071459#reply15) | Mon Sep 09 2024 3:23 PM
+- 🥷 [每种语言应用场景、应用领域、以及框架以及他们的竟品大家可以补充一下，我写的也需要大家帮忙补充修改一下，希望可以了解一下当前目前有哪些编程语言，](https://www.v2ex.com/t/1071456#reply5) | Mon Sep 09 2024 3:14 PM
+- 🐵 [个人项目后端技术选型求取经，语言&amp;框架&amp;云](https://www.v2ex.com/t/1071445#reply5) | Mon Sep 09 2024 2:42 PM<!-- v2ex:END -->
 
