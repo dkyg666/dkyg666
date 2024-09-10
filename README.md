@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [nginx 反代 websocket，为什么被代理端写入错误 write: broken pipe ？](https://www.v2ex.com/t/1071584#reply0) | Tue Sep 10 2024 3:19 AM
-- 🤗 [JavaScript 比 C 有更重的心智负担， Jser 们别卷框架了，卷点语言吧](https://www.v2ex.com/t/1071566#reply8) | Tue Sep 10 2024 2:44 AM
-- 🎭 [mac 上 sublime 公司不让用，有啥替代品？](https://www.v2ex.com/t/1071565#reply10) | Tue Sep 10 2024 2:40 AM
-- 🥷 [轻量级开源自动化运维平台，批量执行、在线终端、发布部署一应俱全](https://www.v2ex.com/t/1071555#reply1) | Tue Sep 10 2024 2:30 AM
-- 🐵 [网易有道词典 PC 版的 UI 什么写的？经常闪退。](https://www.v2ex.com/t/1071551#reply3) | Tue Sep 10 2024 2:20 AM<!-- v2ex:END -->
+- 🥸 [阿里云新加坡-c 区火灾](https://www.v2ex.com/t/1071606#reply0) | Tue Sep 10 2024 4:08 AM
+- 🤗 [LinkedBlockingQueue.offer 为什么阻塞？](https://www.v2ex.com/t/1071602#reply0) | Tue Sep 10 2024 3:59 AM
+- 🎭 [react native 在 2024 年还能打吗？感觉跨平台一致性不如 h5 和 flutter](https://www.v2ex.com/t/1071599#reply1) | Tue Sep 10 2024 3:52 AM
+- 🥷 [nginx 反代 websocket，为什么被代理端写入错误 write: broken pipe ？](https://www.v2ex.com/t/1071584#reply1) | Tue Sep 10 2024 3:19 AM
+- 🐵 [JavaScript 比 C 有更重的心智负担， Jser 们别卷框架了，卷点语言吧](https://www.v2ex.com/t/1071566#reply17) | Tue Sep 10 2024 2:44 AM<!-- v2ex:END -->
 
