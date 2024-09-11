@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [100u 有偿请前端老哥实现解密播放 m3u8 文件](https://www.v2ex.com/t/1071836#reply1) | Tue Sep 10 2024 11:05 PM
-- 🤗 [想从 apple 全家桶转为安卓生态，请教下大家](https://www.v2ex.com/t/1071834#reply2) | Tue Sep 10 2024 10:27 PM
-- 🎭 [认真做的接口开发、调试工具，求 star](https://www.v2ex.com/t/1071817#reply0) | Tue Sep 10 2024 3:06 PM
-- 🥷 [ldconfig 凭什么能重置 so 软链](https://www.v2ex.com/t/1071811#reply0) | Tue Sep 10 2024 2:44 PM
-- 🐵 [华为云开源网站内部地址是啥？](https://www.v2ex.com/t/1071809#reply0) | Tue Sep 10 2024 2:25 PM<!-- v2ex:END -->
+- 🥸 [有没有发现 Linux 桌面的操作响应速度全面秒杀 win 11](https://www.v2ex.com/t/1071851#reply9) | Wed Sep 11 2024 12:56 AM
+- 🤗 [这几天被 Python 搞得快崩溃了](https://www.v2ex.com/t/1071840#reply35) | Wed Sep 11 2024 12:26 AM
+- 🎭 [100u 有偿请前端老哥实现解密播放 m3u8 文件](https://www.v2ex.com/t/1071836#reply13) | Tue Sep 10 2024 11:05 PM
+- 🥷 [想从 apple 全家桶转为安卓生态，请教下大家](https://www.v2ex.com/t/1071834#reply18) | Tue Sep 10 2024 10:27 PM
+- 🐵 [认真做的接口开发、调试工具，求 star](https://www.v2ex.com/t/1071817#reply1) | Tue Sep 10 2024 3:06 PM<!-- v2ex:END -->
 
