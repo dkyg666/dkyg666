@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [如何设置 prettier 在不超过 printWidth 长度也能换行](https://www.v2ex.com/t/1071951#reply1) | Wed Sep 11 2024 4:13 AM
-- 🤗 [我最近发现中国大城市的教育质量反而不如 20 多年前我自己读书时候！](https://www.v2ex.com/t/1071947#reply5) | Wed Sep 11 2024 3:59 AM
+- 🥸 [postcss-px-to-viewport-8-plugin 能设置多个配置吗](https://www.v2ex.com/t/1071956#reply0) | Wed Sep 11 2024 4:49 AM
+- 🤗 [如何设置 prettier 在不超过 printWidth 长度也能换行](https://www.v2ex.com/t/1071951#reply2) | Wed Sep 11 2024 4:13 AM
 - 🎭 [求助, 获取 udemy 资源高性价比方案](https://www.v2ex.com/t/1071938#reply0) | Wed Sep 11 2024 3:42 AM
 - 🥷 [有什么工具可以方便收录 ChatGPT/Claude 的对话信息？](https://www.v2ex.com/t/1071918#reply6) | Wed Sep 11 2024 3:14 AM
 - 🐵 [为了测试一个程序，需要在虚拟机中安装 W2Ksp3.exe ，用软件转换成了 iso，提示无法识别系统，这个需要怎么操作才能在虚拟机中成功安装呢？](https://www.v2ex.com/t/1071917#reply0) | Wed Sep 11 2024 3:13 AM<!-- v2ex:END -->
