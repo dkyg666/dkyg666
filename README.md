@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [我宣布 gboard 中文输入是垃圾](https://www.v2ex.com/t/1072110#reply11) | Wed Sep 11 2024 12:50 PM
-- 🤗 [B 站账号突然被禁了, 因为写了个关于怎么使用 Cursor 的文章](https://www.v2ex.com/t/1072107#reply12) | Wed Sep 11 2024 12:21 PM
-- 🎭 [最新的 Windows 升级把 Bing 提示带到微软输入法里了](https://www.v2ex.com/t/1072101#reply7) | Wed Sep 11 2024 12:03 PM
-- 🥷 [c#,winform 感觉学起来提不起劲](https://www.v2ex.com/t/1072098#reply0) | Wed Sep 11 2024 11:58 AM
-- 🐵 [.NET 大牛们，这次遇到了一个涉及知识盲区的 BUG，与 Redis 有关](https://www.v2ex.com/t/1072092#reply2) | Wed Sep 11 2024 11:14 AM<!-- v2ex:END -->
+- 🥸 [Windows 的 DNS 查询乱加域名后缀。如何解决？](https://www.v2ex.com/t/1072123#reply0) | Wed Sep 11 2024 2:12 PM
+- 🤗 [一加官方包 ROM 下载地址如何获取](https://www.v2ex.com/t/1072115#reply2) | Wed Sep 11 2024 1:28 PM
+- 🎭 [我宣布 gboard 中文输入是垃圾](https://www.v2ex.com/t/1072110#reply19) | Wed Sep 11 2024 12:50 PM
+- 🥷 [B 站账号突然被禁了, 因为写了个关于怎么使用 Cursor 的文章](https://www.v2ex.com/t/1072107#reply21) | Wed Sep 11 2024 12:21 PM
+- 🐵 [最新的 Windows 升级把 Bing 提示带到微软输入法里了](https://www.v2ex.com/t/1072101#reply8) | Wed Sep 11 2024 12:03 PM<!-- v2ex:END -->
 
