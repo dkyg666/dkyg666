@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [求教各位独立开发者一些关于发展问题](https://www.v2ex.com/t/1072004#reply0) | Wed Sep 11 2024 7:12 AM
-- 🤗 [你们的 NAS 如何做备份？](https://www.v2ex.com/t/1071996#reply9) | Wed Sep 11 2024 6:51 AM
-- 🎭 [postcss-px-to-viewport-8-plugin 能设置多个配置吗](https://www.v2ex.com/t/1071956#reply2) | Wed Sep 11 2024 4:49 AM
-- 🥷 [如何设置 prettier 在不超过 printWidth 长度也能换行](https://www.v2ex.com/t/1071951#reply2) | Wed Sep 11 2024 4:13 AM
-- 🐵 [求助, 获取 udemy 资源高性价比方案](https://www.v2ex.com/t/1071938#reply1) | Wed Sep 11 2024 3:42 AM<!-- v2ex:END -->
+- 🥸 [35TB 左右的区块链”链数据“，用什么姿势存最合适？](https://www.v2ex.com/t/1072038#reply0) | Wed Sep 11 2024 8:20 AM
+- 🤗 [Jenkins 新人请教一些问题](https://www.v2ex.com/t/1072031#reply0) | Wed Sep 11 2024 8:07 AM
+- 🎭 [江湖救急！公司内网开移动热点问题](https://www.v2ex.com/t/1072020#reply11) | Wed Sep 11 2024 7:37 AM
+- 🥷 [aliyun ecs 如何通过代理访问推特](https://www.v2ex.com/t/1072016#reply2) | Wed Sep 11 2024 7:30 AM
+- 🐵 [求教各位独立开发者一些关于发展问题](https://www.v2ex.com/t/1072004#reply12) | Wed Sep 11 2024 7:12 AM<!-- v2ex:END -->
 
