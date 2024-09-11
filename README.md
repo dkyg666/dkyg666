@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <!-- v2ex:START -->
 - 🥸 [win sql/gorm 如何读取一个加密的 sqlite?](https://www.v2ex.com/t/1072140#reply0) | Wed Sep 11 2024 4:28 PM
 - 🤗 [Win11 UI bug：最大化窗口向左拖动时，顶部会出现白色小横条](https://www.v2ex.com/t/1072136#reply9) | Wed Sep 11 2024 4:17 PM
-- 🎭 [裸 debian NAS + ipv6 pt 的解决方案](https://www.v2ex.com/t/1072134#reply4) | Wed Sep 11 2024 4:00 PM
+- 🎭 [裸 debian NAS + ipv6 pt 的解决方案](https://www.v2ex.com/t/1072134#reply6) | Wed Sep 11 2024 4:00 PM
 - 🥷 [React 中动画的问题](https://www.v2ex.com/t/1072125#reply1) | Wed Sep 11 2024 2:21 PM
 - 🐵 [Windows 的 DNS 查询乱加域名后缀。如何解决？](https://www.v2ex.com/t/1072123#reply6) | Wed Sep 11 2024 2:12 PM<!-- v2ex:END -->
 
