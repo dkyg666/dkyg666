@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [求小主机如何连接机械硬盘？](https://www.v2ex.com/t/1072152#reply0) | Wed Sep 11 2024 8:32 PM
+- 🥸 [求小主机如何连接机械硬盘？](https://www.v2ex.com/t/1072152#reply3) | Wed Sep 11 2024 8:32 PM
 - 🤗 [win sql/gorm 如何读取一个加密的 sqlite?](https://www.v2ex.com/t/1072140#reply0) | Wed Sep 11 2024 4:28 PM
 - 🎭 [Win11 UI bug：最大化窗口向左拖动时，顶部会出现白色小横条](https://www.v2ex.com/t/1072136#reply11) | Wed Sep 11 2024 4:17 PM
 - 🥷 [裸 debian NAS + ipv6 pt 的解决方案](https://www.v2ex.com/t/1072134#reply6) | Wed Sep 11 2024 4:00 PM
