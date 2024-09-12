@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [服务器被注入！发现是一个 Python 进程该怎么办](https://www.v2ex.com/t/1072268#reply4) | Thu Sep 12 2024 4:18 AM
-- 🤗 [AI 能自动把 eslint 所有提醒和报错全部解决就不错了](https://www.v2ex.com/t/1072257#reply0) | Thu Sep 12 2024 3:46 AM
-- 🎭 [时间序列进行异常检测&lpar;通过近 24h 数据&rpar; Python](https://www.v2ex.com/t/1072255#reply1) | Thu Sep 12 2024 3:38 AM
-- 🥷 [如何解决 pc 蓝牙干扰](https://www.v2ex.com/t/1072254#reply5) | Thu Sep 12 2024 3:36 AM
-- 🐵 [需要给一个小孩远程教 javascript，有没有类似 CodePen 这种网站，但有实时协同功能](https://www.v2ex.com/t/1072252#reply4) | Thu Sep 12 2024 3:32 AM<!-- v2ex:END -->
+- 🥸 [想要一个拍人像好看的手机，求推荐](https://www.v2ex.com/t/1072297#reply0) | Thu Sep 12 2024 6:18 AM
+- 🤗 [fsp180 50pla 全汉 这个电源带蜗牛星际四块 4t 硬盘](https://www.v2ex.com/t/1072292#reply0) | Thu Sep 12 2024 6:04 AM
+- 🎭 [有严重的 “被送礼物” 心理障碍怎么排解？](https://www.v2ex.com/t/1072288#reply13) | Thu Sep 12 2024 5:56 AM
+- 🥷 [服务器被注入！发现是一个 Python 进程该怎么办](https://www.v2ex.com/t/1072268#reply4) | Thu Sep 12 2024 4:18 AM
+- 🐵 [AI 能自动把 eslint 所有提醒和报错全部解决就不错了](https://www.v2ex.com/t/1072257#reply0) | Thu Sep 12 2024 3:46 AM<!-- v2ex:END -->
 
