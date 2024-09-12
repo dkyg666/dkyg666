@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [请问如何修改图片属性中的“图像 ID”？](https://www.v2ex.com/t/1072462#reply0) | Thu Sep 12 2024 6:23 PM
+- 🥸 [请问如何修改图片属性中的“图像 ID”？](https://www.v2ex.com/t/1072462#reply2) | Thu Sep 12 2024 6:23 PM
 - 🤗 [有没有类似群晖 cloud sync 的容器？](https://www.v2ex.com/t/1072453#reply0) | Thu Sep 12 2024 3:51 PM
 - 🎭 [开源一个前端 mock 工具](https://www.v2ex.com/t/1072448#reply0) | Thu Sep 12 2024 3:14 PM
 - 🥷 [太相信 ai 了，直接进入未知领域，这几天差点搞崩溃，全在踩坑 😁 ➡️ 😭](https://www.v2ex.com/t/1072443#reply9) | Thu Sep 12 2024 2:45 PM
