@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [计数器的最佳实践是存 Redis，每次启动时统计存量数据吗？用 MySQL 的触发器每次操作都实时写盘影响高并发写性能，用 Redis 断电没写盘会导致计数不准](https://www.v2ex.com/t/1072366#reply2) | Thu Sep 12 2024 8:56 AM
-- 🤗 [说一下这一次阿里云新加坡 C 区火灾](https://www.v2ex.com/t/1072363#reply6) | Thu Sep 12 2024 8:54 AM
-- 🎭 [每天一到下午刷算法题脑子就不转了，困得不行，思考能力极速下降，有什么方法可以破吗](https://www.v2ex.com/t/1072350#reply14) | Thu Sep 12 2024 8:17 AM
-- 🥷 [Web2 的开发者，如何进入 Web3](https://www.v2ex.com/t/1072341#reply0) | Thu Sep 12 2024 8:00 AM
-- 🐵 [爆肝两年！打磨了一款 Vue 3 组件库（很新），欢迎体验 👏](https://www.v2ex.com/t/1072340#reply25) | Thu Sep 12 2024 7:59 AM<!-- v2ex:END -->
+- 🥸 [国内的安卓手机拿到国外用有哪些坑？](https://www.v2ex.com/t/1072390#reply0) | Thu Sep 12 2024 10:13 AM
+- 🤗 [[沉浸式翻译] 这个浏览器扩展的翻译原理是什么样子的](https://www.v2ex.com/t/1072388#reply4) | Thu Sep 12 2024 10:03 AM
+- 🎭 [我花一个月的时间，做了一个 reactjs 的高级课程，并用 cursor 做了一个网站](https://www.v2ex.com/t/1072384#reply0) | Thu Sep 12 2024 9:50 AM
+- 🥷 [计数器的最佳实践是存 Redis，每次启动时统计存量数据吗？用 MySQL 的触发器每次操作都实时写盘影响高并发写性能，用 Redis 断电没写盘会导致计数不准](https://www.v2ex.com/t/1072366#reply5) | Thu Sep 12 2024 8:56 AM
+- 🐵 [说一下这一次阿里云新加坡 C 区火灾](https://www.v2ex.com/t/1072363#reply12) | Thu Sep 12 2024 8:54 AM<!-- v2ex:END -->
 
