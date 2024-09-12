@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <!-- v2ex:START -->
 - 🥸 [有没有类似群晖 cloud sync 的容器？](https://www.v2ex.com/t/1072453#reply0) | Thu Sep 12 2024 3:51 PM
 - 🤗 [开源一个前端 mock 工具](https://www.v2ex.com/t/1072448#reply0) | Thu Sep 12 2024 3:14 PM
-- 🎭 [太相信 ai 了，直接进入未知领域，这几天差点搞崩溃，全在踩坑 😁 ➡️ 😭](https://www.v2ex.com/t/1072443#reply7) | Thu Sep 12 2024 2:45 PM
+- 🎭 [太相信 ai 了，直接进入未知领域，这几天差点搞崩溃，全在踩坑 😁 ➡️ 😭](https://www.v2ex.com/t/1072443#reply8) | Thu Sep 12 2024 2:45 PM
 - 🥷 [求助人大金仓备份 backup 文件数据恢复](https://www.v2ex.com/t/1072425#reply0) | Thu Sep 12 2024 1:06 PM
 - 🐵 [大佬们，有人用 win11 写 go 程序吗？](https://www.v2ex.com/t/1072421#reply9) | Thu Sep 12 2024 12:38 PM<!-- v2ex:END -->
 
