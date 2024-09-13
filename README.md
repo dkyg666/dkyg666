@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [目前国内最高性价比的 postgresql 服务是？](https://www.v2ex.com/t/1072470#reply3) | Thu Sep 12 2024 10:39 PM
-- 🤗 [请问如何修改图片属性中的“图像 ID”？](https://www.v2ex.com/t/1072462#reply2) | Thu Sep 12 2024 6:23 PM
-- 🎭 [有没有类似群晖 cloud sync 的容器？](https://www.v2ex.com/t/1072453#reply0) | Thu Sep 12 2024 3:51 PM
-- 🥷 [开源一个前端 mock 工具](https://www.v2ex.com/t/1072448#reply0) | Thu Sep 12 2024 3:14 PM
-- 🐵 [太相信 ai 了，直接进入未知领域，这几天差点搞崩溃，全在踩坑 😁 ➡️ 😭](https://www.v2ex.com/t/1072443#reply11) | Thu Sep 12 2024 2:45 PM<!-- v2ex:END -->
+- 🥸 [openai o1 有哥们体验吗？说说感受](https://www.v2ex.com/t/1072482#reply10) | Fri Sep 13 2024 12:56 AM
+- 🤗 [目前国内最高性价比的 postgresql 服务是？](https://www.v2ex.com/t/1072470#reply9) | Thu Sep 12 2024 10:39 PM
+- 🎭 [请问如何修改图片属性中的“图像 ID”？](https://www.v2ex.com/t/1072462#reply3) | Thu Sep 12 2024 6:23 PM
+- 🥷 [有没有类似群晖 cloud sync 的容器？](https://www.v2ex.com/t/1072453#reply1) | Thu Sep 12 2024 3:51 PM
+- 🐵 [开源一个前端 mock 工具](https://www.v2ex.com/t/1072448#reply0) | Thu Sep 12 2024 3:14 PM<!-- v2ex:END -->
 
