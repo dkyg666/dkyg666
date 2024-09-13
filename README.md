@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [chrome 插件开发，如何获取浏览器主题颜色](https://www.v2ex.com/t/1072698#reply0) | Fri Sep 13 2024 8:12 AM
-- 🤗 [各位大佬， Java SE 和 Java EE 看完了，还是不会做项目，咋整啊](https://www.v2ex.com/t/1072694#reply9) | Fri Sep 13 2024 8:05 AM
-- 🎭 [分享一个自己用 Cloudflare Workers 实现的 0 运维成本 DNS 方案](https://www.v2ex.com/t/1072693#reply4) | Fri Sep 13 2024 8:01 AM
-- 🥷 [在公网上， SFTP|SMB|WebDAV 哪种文件传输协议是最高效、低延迟的？适合传输大量小文件？](https://www.v2ex.com/t/1072681#reply7) | Fri Sep 13 2024 7:46 AM
-- 🐵 [开源项目首页&lpar;介绍页&rpar;用什么开源项目搭建](https://www.v2ex.com/t/1072680#reply4) | Fri Sep 13 2024 7:45 AM<!-- v2ex:END -->
+- 🥸 [问下有什么办法不用去 gitee 实名可以下载 openHarmony4.0 的源码？](https://www.v2ex.com/t/1072712#reply2) | Fri Sep 13 2024 8:50 AM
+- 🤗 [LLM 大模型产品的前端架构选择 - React vs Vue?](https://www.v2ex.com/t/1072705#reply12) | Fri Sep 13 2024 8:35 AM
+- 🎭 [chrome 插件开发，如何获取浏览器主题颜色](https://www.v2ex.com/t/1072698#reply6) | Fri Sep 13 2024 8:12 AM
+- 🥷 [各位大佬， Java SE 和 Java EE 看完了，还是不会做项目，咋整啊](https://www.v2ex.com/t/1072694#reply15) | Fri Sep 13 2024 8:05 AM
+- 🐵 [分享一个自己用 Cloudflare Workers 实现的 0 运维成本 DNS 方案](https://www.v2ex.com/t/1072693#reply11) | Fri Sep 13 2024 8:01 AM<!-- v2ex:END -->
 
