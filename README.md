@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [关于 OpenAI o1-preview,一点思考](https://www.v2ex.com/t/1072540#reply1) | Fri Sep 13 2024 2:27 AM
-- 🤗 [记一次挑战自己 2 小时上站 openAI o1 的热词站](https://www.v2ex.com/t/1072530#reply0) | Fri Sep 13 2024 2:17 AM
-- 🎭 [win11-23H2 为什么会经常鼠标卡顿](https://www.v2ex.com/t/1072525#reply7) | Fri Sep 13 2024 2:07 AM
-- 🥷 [美区 GooglePLay 个人开发者账号，明年 2 月就到 Deadline 验证时间，怎么办?](https://www.v2ex.com/t/1072522#reply3) | Fri Sep 13 2024 2:02 AM
-- 🐵 [Edge 浏览器打开境外网站似乎比 Chrome 快一些](https://www.v2ex.com/t/1072508#reply4) | Fri Sep 13 2024 1:48 AM<!-- v2ex:END -->
+- 🥸 [win11-23H2 为什么会经常鼠标卡顿](https://www.v2ex.com/t/1072525#reply17) | Fri Sep 13 2024 2:07 AM
+- 🤗 [Edge 浏览器打开境外网站似乎比 Chrome 快一些](https://www.v2ex.com/t/1072508#reply4) | Fri Sep 13 2024 1:48 AM
+- 🎭 [目前国内最高性价比的 postgresql 服务是？](https://www.v2ex.com/t/1072470#reply11) | Thu Sep 12 2024 10:39 PM
+- 🥷 [请问如何修改图片属性中的“图像 ID”？](https://www.v2ex.com/t/1072462#reply4) | Thu Sep 12 2024 6:23 PM
+- 🐵 [有没有类似群晖 cloud sync 的容器？](https://www.v2ex.com/t/1072453#reply1) | Thu Sep 12 2024 3:51 PM<!-- v2ex:END -->
 
