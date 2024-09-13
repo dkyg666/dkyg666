@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [长时间开机的 Windows 11 的防火墙突然失效](https://www.v2ex.com/t/1072764#reply0) | Fri Sep 13 2024 11:30 AM
-- 🤗 [有关前后端交互的协议请教](https://www.v2ex.com/t/1072741#reply9) | Fri Sep 13 2024 9:43 AM
-- 🎭 [求解 springboot+mysql 随机出现的异常延迟](https://www.v2ex.com/t/1072735#reply4) | Fri Sep 13 2024 9:29 AM
-- 🥷 [安卓 QQ（非 NT 版本）清理指定好友或群的聊天图片文件（需 root）](https://www.v2ex.com/t/1072732#reply1) | Fri Sep 13 2024 9:27 AM
-- 🐵 [如何把当前硬盘数据打包成虚拟机镜像](https://www.v2ex.com/t/1072730#reply5) | Fri Sep 13 2024 9:20 AM<!-- v2ex:END -->
+- 🥸 [闲置安卓手机改了直供电 USB 不识别怎么办？](https://www.v2ex.com/t/1072779#reply0) | Fri Sep 13 2024 1:20 PM
+- 🤗 [长时间开机的 Windows 11 的防火墙突然失效](https://www.v2ex.com/t/1072764#reply0) | Fri Sep 13 2024 11:30 AM
+- 🎭 [有关前后端交互的协议请教](https://www.v2ex.com/t/1072741#reply10) | Fri Sep 13 2024 9:43 AM
+- 🥷 [求解 springboot+mysql 随机出现的异常延迟](https://www.v2ex.com/t/1072735#reply10) | Fri Sep 13 2024 9:29 AM
+- 🐵 [安卓 QQ（非 NT 版本）清理指定好友或群的聊天图片文件（需 root）](https://www.v2ex.com/t/1072732#reply2) | Fri Sep 13 2024 9:27 AM<!-- v2ex:END -->
 
