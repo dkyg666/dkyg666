@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [分享一个 DoH 降低延迟的优化小技巧](https://www.v2ex.com/t/1072659#reply0) | Fri Sep 13 2024 7:14 AM
-- 🤗 [一天时间设计了一个即简洁又灵活的工作流引擎](https://www.v2ex.com/t/1072653#reply2) | Fri Sep 13 2024 6:57 AM
-- 🎭 [VS Code Java 8 月更新 - 重要 Gradle 更新！用户体验与入门向导增强](https://www.v2ex.com/t/1072646#reply0) | Fri Sep 13 2024 6:46 AM
-- 🥷 [v 友如何看待延迟退休方案出炉，男 63，女 55？](https://www.v2ex.com/t/1072645#reply45) | Fri Sep 13 2024 6:41 AM
-- 🐵 [Python 该如何进阶学习呢？](https://www.v2ex.com/t/1072634#reply6) | Fri Sep 13 2024 6:22 AM<!-- v2ex:END -->
+- 🥸 [chrome 插件开发，如何获取浏览器主题颜色](https://www.v2ex.com/t/1072698#reply0) | Fri Sep 13 2024 8:12 AM
+- 🤗 [各位大佬， Java SE 和 Java EE 看完了，还是不会做项目，咋整啊](https://www.v2ex.com/t/1072694#reply9) | Fri Sep 13 2024 8:05 AM
+- 🎭 [分享一个自己用 Cloudflare Workers 实现的 0 运维成本 DNS 方案](https://www.v2ex.com/t/1072693#reply4) | Fri Sep 13 2024 8:01 AM
+- 🥷 [在公网上， SFTP|SMB|WebDAV 哪种文件传输协议是最高效、低延迟的？适合传输大量小文件？](https://www.v2ex.com/t/1072681#reply7) | Fri Sep 13 2024 7:46 AM
+- 🐵 [开源项目首页&lpar;介绍页&rpar;用什么开源项目搭建](https://www.v2ex.com/t/1072680#reply4) | Fri Sep 13 2024 7:45 AM<!-- v2ex:END -->
 
