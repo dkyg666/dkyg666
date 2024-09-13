@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [win11-23H2 为什么会经常鼠标卡顿](https://www.v2ex.com/t/1072525#reply17) | Fri Sep 13 2024 2:07 AM
-- 🤗 [Edge 浏览器打开境外网站似乎比 Chrome 快一些](https://www.v2ex.com/t/1072508#reply4) | Fri Sep 13 2024 1:48 AM
-- 🎭 [目前国内最高性价比的 postgresql 服务是？](https://www.v2ex.com/t/1072470#reply11) | Thu Sep 12 2024 10:39 PM
-- 🥷 [请问如何修改图片属性中的“图像 ID”？](https://www.v2ex.com/t/1072462#reply4) | Thu Sep 12 2024 6:23 PM
-- 🐵 [有没有类似群晖 cloud sync 的容器？](https://www.v2ex.com/t/1072453#reply1) | Thu Sep 12 2024 3:51 PM<!-- v2ex:END -->
+- 🥸 [你们搜论文一般在哪搜呀](https://www.v2ex.com/t/1072579#reply1) | Fri Sep 13 2024 3:27 AM
+- 🤗 [ragflow 注册弱密码相关问题](https://www.v2ex.com/t/1072576#reply0) | Fri Sep 13 2024 3:22 AM
+- 🎭 [win11-23H2 为什么会经常鼠标卡顿](https://www.v2ex.com/t/1072525#reply27) | Fri Sep 13 2024 2:07 AM
+- 🥷 [Edge 浏览器打开境外网站似乎比 Chrome 快一些](https://www.v2ex.com/t/1072508#reply4) | Fri Sep 13 2024 1:48 AM
+- 🐵 [目前国内最高性价比的 postgresql 服务是？](https://www.v2ex.com/t/1072470#reply13) | Thu Sep 12 2024 10:39 PM<!-- v2ex:END -->
 
