@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [你们搜论文一般在哪搜呀](https://www.v2ex.com/t/1072579#reply1) | Fri Sep 13 2024 3:27 AM
-- 🤗 [ragflow 注册弱密码相关问题](https://www.v2ex.com/t/1072576#reply0) | Fri Sep 13 2024 3:22 AM
-- 🎭 [win11-23H2 为什么会经常鼠标卡顿](https://www.v2ex.com/t/1072525#reply27) | Fri Sep 13 2024 2:07 AM
-- 🥷 [Edge 浏览器打开境外网站似乎比 Chrome 快一些](https://www.v2ex.com/t/1072508#reply4) | Fri Sep 13 2024 1:48 AM
-- 🐵 [目前国内最高性价比的 postgresql 服务是？](https://www.v2ex.com/t/1072470#reply13) | Thu Sep 12 2024 10:39 PM<!-- v2ex:END -->
+- 🥸 [vscode 有没有能提示或补全导入 golang 标准包的插件](https://www.v2ex.com/t/1072608#reply1) | Fri Sep 13 2024 5:07 AM
+- 🤗 [你们搜论文一般在哪搜呀](https://www.v2ex.com/t/1072579#reply1) | Fri Sep 13 2024 3:27 AM
+- 🎭 [ragflow 注册弱密码相关问题](https://www.v2ex.com/t/1072576#reply0) | Fri Sep 13 2024 3:22 AM
+- 🥷 [win11-23H2 为什么会经常鼠标卡顿](https://www.v2ex.com/t/1072525#reply28) | Fri Sep 13 2024 2:07 AM
+- 🐵 [Edge 浏览器打开境外网站似乎比 Chrome 快一些](https://www.v2ex.com/t/1072508#reply4) | Fri Sep 13 2024 1:48 AM<!-- v2ex:END -->
 
