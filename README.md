@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [花 2 周时间，用 Cursor 开发了一个 AI 处理 EXCEL 工具，能挣钱么？](https://www.v2ex.com/t/1072963#reply1) | Sat Sep 14 2024 6:13 AM
-- 🤗 [群晖 Container Manager&lpar;docker&rpar;注册表也寄了么](https://www.v2ex.com/t/1072940#reply4) | Sat Sep 14 2024 5:18 AM
-- 🎭 [好奇新能源的车辆的哨兵模式纯从技术来讲是通过什么方案实现的](https://www.v2ex.com/t/1072923#reply13) | Sat Sep 14 2024 4:10 AM
-- 🥷 [[求助] 从云服务器到 DIY 全能主机：我的 All-In-One 进化之路](https://www.v2ex.com/t/1072912#reply5) | Sat Sep 14 2024 3:48 AM
-- 🐵 [有没有对币圈小游戏感兴趣，有游戏制作经验的 gg](https://www.v2ex.com/t/1072909#reply1) | Sat Sep 14 2024 3:38 AM<!-- v2ex:END -->
+- 🥸 [前端新人请教，遇到网页打开正常，但是开发者后台提示： 500 Internal Server Error](https://www.v2ex.com/t/1072969#reply5) | Sat Sep 14 2024 6:34 AM
+- 🤗 [花 2 周时间，用 Cursor 开发了一个 AI 处理 EXCEL 工具，能挣钱么？](https://www.v2ex.com/t/1072963#reply10) | Sat Sep 14 2024 6:13 AM
+- 🎭 [群晖 Container Manager&lpar;docker&rpar;注册表也寄了么](https://www.v2ex.com/t/1072940#reply10) | Sat Sep 14 2024 5:18 AM
+- 🥷 [好奇新能源的车辆的哨兵模式纯从技术来讲是通过什么方案实现的](https://www.v2ex.com/t/1072923#reply17) | Sat Sep 14 2024 4:10 AM
+- 🐵 [[求助] 从云服务器到 DIY 全能主机：我的 All-In-One 进化之路](https://www.v2ex.com/t/1072912#reply9) | Sat Sep 14 2024 3:48 AM<!-- v2ex:END -->
 
