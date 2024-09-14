@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [cloudflare ddns 遇到了奇怪的表现](https://www.v2ex.com/t/1073035#reply0) | Sat Sep 14 2024 8:51 AM
-- 🤗 [关于 nas 系统的信息收集](https://www.v2ex.com/t/1073012#reply12) | Sat Sep 14 2024 8:02 AM
-- 🎭 [跟着一本书学完 android 开发基础知识，求推荐适合练手的开源 android 项目](https://www.v2ex.com/t/1073001#reply13) | Sat Sep 14 2024 7:41 AM
-- 🥷 [飞牛 OS 现在支持 GTX950 硬件解码么？](https://www.v2ex.com/t/1072994#reply2) | Sat Sep 14 2024 7:25 AM
-- 🐵 [大家有个人的代码强烈的代码洁癖吗？](https://www.v2ex.com/t/1072992#reply13) | Sat Sep 14 2024 7:22 AM<!-- v2ex:END -->
+- 🥸 [如何减少 NAS 端口暴露至公网](https://www.v2ex.com/t/1073068#reply3) | Sat Sep 14 2024 10:11 AM
+- 🤗 [Mo composer 如何用“钞能力”击败 Cursor 的 composer，这可能大模型的杀手级场景](https://www.v2ex.com/t/1073065#reply1) | Sat Sep 14 2024 9:57 AM
+- 🎭 [用了两个月 34 寸带鱼屏, 真香](https://www.v2ex.com/t/1073058#reply0) | Sat Sep 14 2024 9:48 AM
+- 🥷 [cloudflare ddns 遇到了奇怪的表现](https://www.v2ex.com/t/1073035#reply0) | Sat Sep 14 2024 8:51 AM
+- 🐵 [关于 nas 系统的信息收集](https://www.v2ex.com/t/1073012#reply21) | Sat Sep 14 2024 8:02 AM<!-- v2ex:END -->
 
