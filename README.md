@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [求推荐一款显示器，需要 4k 和反向充电，兼顾 Win 玩游戏](https://www.v2ex.com/t/1073187#reply3) | Sun Sep 15 2024 5:03 AM
-- 🤗 [immich 安卓 app 不支持 https 登录？](https://www.v2ex.com/t/1073181#reply0) | Sun Sep 15 2024 4:18 AM
-- 🎭 [退役老旧电脑，没卖的话，你们会用来干什么？ 2024 版](https://www.v2ex.com/t/1073179#reply17) | Sun Sep 15 2024 4:07 AM
-- 🥷 [技术求助： Python 启动文件识别](https://www.v2ex.com/t/1073175#reply3) | Sun Sep 15 2024 3:51 AM
-- 🐵 [技术求助：如何获取 Webhook URL 被 POST 的内容&lpar;json&rpar;到 Python 保存](https://www.v2ex.com/t/1073163#reply7) | Sun Sep 15 2024 1:33 AM<!-- v2ex:END -->
+- 🥸 [网易云音乐 app 提示检测到在 hook 环境中运行,无法使用](https://www.v2ex.com/t/1073190#reply1) | Sun Sep 15 2024 5:29 AM
+- 🤗 [现在 android 有什么办法熄屏听油管么？](https://www.v2ex.com/t/1073188#reply7) | Sun Sep 15 2024 5:19 AM
+- 🎭 [求推荐一款显示器，需要 4k 和反向充电，兼顾 Win 玩游戏](https://www.v2ex.com/t/1073187#reply13) | Sun Sep 15 2024 5:03 AM
+- 🥷 [immich 安卓 app 不支持 https 登录？](https://www.v2ex.com/t/1073181#reply1) | Sun Sep 15 2024 4:18 AM
+- 🐵 [退役老旧电脑，没卖的话，你们会用来干什么？ 2024 版](https://www.v2ex.com/t/1073179#reply20) | Sun Sep 15 2024 4:07 AM<!-- v2ex:END -->
 
