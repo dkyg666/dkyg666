@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 ### v2ex-全站热点
 <!-- v2ex:START -->
 - 🥸 [Android15 试图推的 16K 内存页究竟能有多少收益](https://www.v2ex.com/t/1073271#reply3) | Sun Sep 15 2024 5:49 PM
-- 🤗 [原本打算换电脑，但是突然觉得还可以再坚持几年](https://www.v2ex.com/t/1073259#reply17) | Sun Sep 15 2024 2:27 PM
-- 🎭 [分享一个群晖部署 WireGuard， iPhone 用 Loon 连接的实例](https://www.v2ex.com/t/1073258#reply4) | Sun Sep 15 2024 2:23 PM
+- 🤗 [原本打算换电脑，但是突然觉得还可以再坚持几年](https://www.v2ex.com/t/1073259#reply19) | Sun Sep 15 2024 2:27 PM
+- 🎭 [分享一个群晖部署 WireGuard， iPhone 用 Loon 连接的实例](https://www.v2ex.com/t/1073258#reply5) | Sun Sep 15 2024 2:23 PM
 - 🥷 [用 Linear 扁平风 + Magic UI 开发简洁美观的个人主页: zmh.me](https://www.v2ex.com/t/1073247#reply13) | Sun Sep 15 2024 12:37 PM
 - 🐵 [自动化操作有哪些推荐的工具？](https://www.v2ex.com/t/1073244#reply8) | Sun Sep 15 2024 12:09 PM<!-- v2ex:END -->
 
