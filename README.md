@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [有用过 SQLSugar 的吗？能说说体验吗？](https://www.v2ex.com/t/1073286#reply0) | Mon Sep 16 2024 1:00 AM
-- 🤗 [一款同时支持 Java &lpar;1.8/17+&rpar;、 Python 、Go 的分布式调度任务平台和分布式任务重试平台](https://www.v2ex.com/t/1073283#reply0) | Mon Sep 16 2024 12:42 AM
-- 🎭 [凹语言打印源码位置信息](https://www.v2ex.com/t/1073276#reply0) | Sun Sep 15 2024 9:43 PM
-- 🥷 [Android15 试图推的 16K 内存页究竟能有多少收益](https://www.v2ex.com/t/1073271#reply6) | Sun Sep 15 2024 5:49 PM
-- 🐵 [原本打算换电脑，但是突然觉得还可以再坚持几年](https://www.v2ex.com/t/1073259#reply26) | Sun Sep 15 2024 2:27 PM<!-- v2ex:END -->
+- 🥸 [怎样恢复 authy 的备份匙](https://www.v2ex.com/t/1073303#reply4) | Mon Sep 16 2024 2:31 AM
+- 🤗 [域名解析的双 ip 停掉一个后，无法通过域名请求接口](https://www.v2ex.com/t/1073301#reply3) | Mon Sep 16 2024 2:17 AM
+- 🎭 [Java on Azure Tooling 的更新 – 2024 年 8 月 在 Azure App Service 上支持 Managed Identity](https://www.v2ex.com/t/1073293#reply0) | Mon Sep 16 2024 1:41 AM
+- 🥷 [有用过 SQLSugar 的吗？能说说体验吗？](https://www.v2ex.com/t/1073286#reply2) | Mon Sep 16 2024 1:00 AM
+- 🐵 [一款同时支持 Java &lpar;1.8/17+&rpar;、 Python 、Go 的分布式调度任务平台和分布式任务重试平台](https://www.v2ex.com/t/1073283#reply0) | Mon Sep 16 2024 12:42 AM<!-- v2ex:END -->
 
