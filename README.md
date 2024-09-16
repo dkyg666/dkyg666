@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [有没有浏览器端挖矿的 js，可以调用 gpu 的](https://www.v2ex.com/t/1073396#reply0) | Mon Sep 16 2024 5:20 PM
+- 🥸 [有没有浏览器端挖矿的 js，可以调用 gpu 的](https://www.v2ex.com/t/1073396#reply2) | Mon Sep 16 2024 5:20 PM
 - 🤗 [分享一下今天使用 Arc 浏览器的感受](https://www.v2ex.com/t/1073394#reply1) | Mon Sep 16 2024 4:43 PM
 - 🎭 [Pixel 8a 无限重启](https://www.v2ex.com/t/1073393#reply0) | Mon Sep 16 2024 4:04 PM
 - 🥷 [被裁第一个月，接私活搞点收入，然后继续用爱发电❤️](https://www.v2ex.com/t/1073388#reply2) | Mon Sep 16 2024 3:16 PM
