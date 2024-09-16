@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [独立开发周记 83：新 App 连续六次被拒](https://www.v2ex.com/t/1073369#reply0) | Mon Sep 16 2024 12:22 PM
-- 🤗 [关于安卓 elnk 设备强制刷新 api](https://www.v2ex.com/t/1073360#reply3) | Mon Sep 16 2024 9:33 AM
-- 🎭 [分享一个罗技 MX 系列鼠标（Master、Anywehre）某些场景下回滚的软件解决方案](https://www.v2ex.com/t/1073358#reply4) | Mon Sep 16 2024 9:09 AM
-- 🥷 [求各位大佬指教一下小弟 Java 开发发展方向](https://www.v2ex.com/t/1073344#reply0) | Mon Sep 16 2024 8:12 AM
-- 🐵 [需要长时开机，又不愿出现高能耗：一个小技巧](https://www.v2ex.com/t/1073340#reply19) | Mon Sep 16 2024 7:25 AM<!-- v2ex:END -->
+- 🥸 [搞了个 ri.bi 域名 有啥好想法参考](https://www.v2ex.com/t/1073371#reply18) | Mon Sep 16 2024 12:47 PM
+- 🤗 [独立开发周记 83：新 App 连续六次被拒](https://www.v2ex.com/t/1073369#reply1) | Mon Sep 16 2024 12:22 PM
+- 🎭 [关于安卓 elnk 设备强制刷新 api](https://www.v2ex.com/t/1073360#reply3) | Mon Sep 16 2024 9:33 AM
+- 🥷 [分享一个罗技 MX 系列鼠标（Master、Anywehre）某些场景下回滚的软件解决方案](https://www.v2ex.com/t/1073358#reply7) | Mon Sep 16 2024 9:09 AM
+- 🐵 [求各位大佬指教一下小弟 Java 开发发展方向](https://www.v2ex.com/t/1073344#reply0) | Mon Sep 16 2024 8:12 AM<!-- v2ex:END -->
 
