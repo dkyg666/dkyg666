@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [想用 NUC9 幽灵峡谷组一台家用全闪 NAS，求推荐 NAS 系统。](https://www.v2ex.com/t/1073472#reply5) | Tue Sep 17 2024 7:10 AM
-- 🤗 [求一个 docker 应用代替群晖 surveillance](https://www.v2ex.com/t/1073466#reply6) | Tue Sep 17 2024 6:22 AM
-- 🎭 [组 EPYC 二代 AIO 家用服务器，选自己攒机 VS 二手品牌服务器？超微 2023US](https://www.v2ex.com/t/1073432#reply8) | Tue Sep 17 2024 2:29 AM
+- 🥸 [想用 NUC9 幽灵峡谷组一台家用全闪 NAS，求推荐 NAS 系统。](https://www.v2ex.com/t/1073472#reply9) | Tue Sep 17 2024 7:10 AM
+- 🤗 [求一个 docker 应用代替群晖 surveillance](https://www.v2ex.com/t/1073466#reply7) | Tue Sep 17 2024 6:22 AM
+- 🎭 [组 EPYC 二代 AIO 家用服务器，选自己攒机 VS 二手品牌服务器？超微 2023US](https://www.v2ex.com/t/1073432#reply9) | Tue Sep 17 2024 2:29 AM
 - 🥷 [大家一起来探讨一下阿里网盘这次的 Bug 是什么导致的](https://www.v2ex.com/t/1073418#reply23) | Tue Sep 17 2024 1:33 AM
-- 🐵 [如果 CVE-2022-25517 对于 mybatis plus 是合适的，那么 mybatis 本身也应该 own 一个类似的 CVE issue](https://www.v2ex.com/t/1073413#reply9) | Tue Sep 17 2024 1:21 AM<!-- v2ex:END -->
+- 🐵 [如果 CVE-2022-25517 对于 mybatis plus 是合适的，那么 mybatis 本身也应该 own 一个类似的 CVE issue](https://www.v2ex.com/t/1073413#reply10) | Tue Sep 17 2024 1:21 AM<!-- v2ex:END -->
 
