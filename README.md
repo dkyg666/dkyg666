@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 ### v2ex-全站热点
 <!-- v2ex:START -->
 - 🥸 [组 EPYC 二代 AIO 家用服务器，选自己攒机 VS 二手品牌服务器？超微 2023US](https://www.v2ex.com/t/1073432#reply1) | Tue Sep 17 2024 2:29 AM
-- 🤗 [大家一起来探讨一下阿里网盘这次的 Bug 是什么导致的](https://www.v2ex.com/t/1073418#reply17) | Tue Sep 17 2024 1:33 AM
-- 🎭 [“安博通”可以精准识别翻墙，并通过翻墙 Ip 反溯、实名到人、精准定位 ？](https://www.v2ex.com/t/1073417#reply23) | Tue Sep 17 2024 1:32 AM
-- 🥷 [如果 CVE-2022-25517 对于 mybatis plus 是合适的，那么 mybatis 本身也应该 own 一个类似的 CVE issue](https://www.v2ex.com/t/1073413#reply5) | Tue Sep 17 2024 1:21 AM
-- 🐵 [有没有浏览器端挖矿的 js，可以调用 gpu 的](https://www.v2ex.com/t/1073396#reply2) | Mon Sep 16 2024 5:20 PM<!-- v2ex:END -->
+- 🤗 [大家一起来探讨一下阿里网盘这次的 Bug 是什么导致的](https://www.v2ex.com/t/1073418#reply21) | Tue Sep 17 2024 1:33 AM
+- 🎭 [如果 CVE-2022-25517 对于 mybatis plus 是合适的，那么 mybatis 本身也应该 own 一个类似的 CVE issue](https://www.v2ex.com/t/1073413#reply6) | Tue Sep 17 2024 1:21 AM
+- 🥷 [有没有浏览器端挖矿的 js，可以调用 gpu 的](https://www.v2ex.com/t/1073396#reply2) | Mon Sep 16 2024 5:20 PM
+- 🐵 [Pixel 8a 无限重启](https://www.v2ex.com/t/1073393#reply3) | Mon Sep 16 2024 4:04 PM<!-- v2ex:END -->
 
