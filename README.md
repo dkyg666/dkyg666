@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [中年高龄开始学习 Deep Learning](https://www.v2ex.com/t/1073641#reply0) | Wed Sep 18 2024 3:16 AM
-- 🤗 [smart-doc 3.0.8 发布， Java 零注解 API 文档生成工具](https://www.v2ex.com/t/1073639#reply0) | Wed Sep 18 2024 3:13 AM
-- 🎭 [prettier 如在一行内声明多个变量不换行？](https://www.v2ex.com/t/1073631#reply1) | Wed Sep 18 2024 2:56 AM
-- 🥷 [Win10 系统“系统中断”进程长期占用 99%+的 cpu 该如何解决？](https://www.v2ex.com/t/1073629#reply2) | Wed Sep 18 2024 2:51 AM
-- 🐵 [不愧是尤大推荐的 ui 库， naive-ui 果然强大。](https://www.v2ex.com/t/1073578#reply24) | Wed Sep 18 2024 1:24 AM<!-- v2ex:END -->
+- 🥸 [大佬们,求一个 follow 的邀请码可好](https://www.v2ex.com/t/1073664#reply1) | Wed Sep 18 2024 3:49 AM
+- 🤗 [记一次收美元的经历，总结就是“非常丝滑， Swift 牛 X”](https://www.v2ex.com/t/1073659#reply1) | Wed Sep 18 2024 3:41 AM
+- 🎭 [中年高龄开始学习 Deep Learning](https://www.v2ex.com/t/1073641#reply1) | Wed Sep 18 2024 3:16 AM
+- 🥷 [smart-doc 3.0.8 发布， Java 零注解 API 文档生成工具](https://www.v2ex.com/t/1073639#reply0) | Wed Sep 18 2024 3:13 AM
+- 🐵 [prettier 如在一行内声明多个变量不换行？](https://www.v2ex.com/t/1073631#reply2) | Wed Sep 18 2024 2:56 AM<!-- v2ex:END -->
 
