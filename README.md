@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [求助一个一键 http 代理脚本](https://www.v2ex.com/t/1073559#reply1) | Tue Sep 17 2024 11:00 PM
-- 🤗 [求助 OneDrive 上的缓存文件如何打开](https://www.v2ex.com/t/1073543#reply2) | Tue Sep 17 2024 4:01 PM
-- 🎭 [一个奇怪的 cloudfront 问题](https://www.v2ex.com/t/1073526#reply1) | Tue Sep 17 2024 2:07 PM
-- 🥷 [NAS 的 docker 无法拉取镜像：](https://www.v2ex.com/t/1073522#reply2) | Tue Sep 17 2024 1:22 PM
-- 🐵 [DNS 服务商知道你解析的整个网址还是一部分？](https://www.v2ex.com/t/1073475#reply6) | Tue Sep 17 2024 7:27 AM<!-- v2ex:END -->
+- 🥸 [不愧是尤大推荐的 ui 库， naive-ui 果然强大。](https://www.v2ex.com/t/1073578#reply0) | Wed Sep 18 2024 1:24 AM
+- 🤗 [JDK 23 发布了](https://www.v2ex.com/t/1073571#reply16) | Wed Sep 18 2024 12:52 AM
+- 🎭 [vscode 现代浅色主题如何导入到 goland](https://www.v2ex.com/t/1073569#reply1) | Wed Sep 18 2024 12:51 AM
+- 🥷 [求助一个一键 http 代理脚本](https://www.v2ex.com/t/1073559#reply5) | Tue Sep 17 2024 11:00 PM
+- 🐵 [求助 OneDrive 上的缓存文件如何打开](https://www.v2ex.com/t/1073543#reply3) | Tue Sep 17 2024 4:01 PM<!-- v2ex:END -->
 
