@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [不愧是尤大推荐的 ui 库， naive-ui 果然强大。](https://www.v2ex.com/t/1073578#reply19) | Wed Sep 18 2024 1:24 AM
-- 🤗 [JDK 23 发布了](https://www.v2ex.com/t/1073571#reply49) | Wed Sep 18 2024 12:52 AM
-- 🎭 [vscode 现代浅色主题如何导入到 goland](https://www.v2ex.com/t/1073569#reply1) | Wed Sep 18 2024 12:51 AM
-- 🥷 [求助一个一键 http 代理脚本](https://www.v2ex.com/t/1073559#reply7) | Tue Sep 17 2024 11:00 PM
-- 🐵 [求助 OneDrive 上的缓存文件如何打开](https://www.v2ex.com/t/1073543#reply3) | Tue Sep 17 2024 4:01 PM<!-- v2ex:END -->
+- 🥸 [中年高龄开始学习 Deep Learning](https://www.v2ex.com/t/1073641#reply0) | Wed Sep 18 2024 3:16 AM
+- 🤗 [smart-doc 3.0.8 发布， Java 零注解 API 文档生成工具](https://www.v2ex.com/t/1073639#reply0) | Wed Sep 18 2024 3:13 AM
+- 🎭 [prettier 如在一行内声明多个变量不换行？](https://www.v2ex.com/t/1073631#reply1) | Wed Sep 18 2024 2:56 AM
+- 🥷 [Win10 系统“系统中断”进程长期占用 99%+的 cpu 该如何解决？](https://www.v2ex.com/t/1073629#reply2) | Wed Sep 18 2024 2:51 AM
+- 🐵 [不愧是尤大推荐的 ui 库， naive-ui 果然强大。](https://www.v2ex.com/t/1073578#reply24) | Wed Sep 18 2024 1:24 AM<!-- v2ex:END -->
 
