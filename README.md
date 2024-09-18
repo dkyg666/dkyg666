@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 - 🥸 [解密 ClassFinal 加密的 Java Jar 包](https://www.v2ex.com/t/1073835#reply0) | Wed Sep 18 2024 11:12 AM
 - 🤗 [问一个关于 nodejs CPU 核心利用的问题](https://www.v2ex.com/t/1073833#reply9) | Wed Sep 18 2024 10:59 AM
 - 🎭 [react 大佬有吗，帮看一个小项目优化的问题 有偿](https://www.v2ex.com/t/1073827#reply2) | Wed Sep 18 2024 10:23 AM
-- 🥷 [装机后不能开机，兄弟们，求个排查方案](https://www.v2ex.com/t/1073821#reply41) | Wed Sep 18 2024 9:51 AM
+- 🥷 [装机后不能开机，兄弟们，求个排查方案](https://www.v2ex.com/t/1073821#reply42) | Wed Sep 18 2024 9:51 AM
 - 🐵 [mingw 具体做了什么？](https://www.v2ex.com/t/1073810#reply3) | Wed Sep 18 2024 9:29 AM<!-- v2ex:END -->
 
