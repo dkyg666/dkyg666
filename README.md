@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ### v2ex-全站热点
 <!-- v2ex:START -->
 - 🥸 [解密 ClassFinal 加密的 Java Jar 包](https://www.v2ex.com/t/1073835#reply0) | Wed Sep 18 2024 11:12 AM
-- 🤗 [问一个关于 nodejs CPU 核心利用的问题](https://www.v2ex.com/t/1073833#reply4) | Wed Sep 18 2024 10:59 AM
+- 🤗 [问一个关于 nodejs CPU 核心利用的问题](https://www.v2ex.com/t/1073833#reply6) | Wed Sep 18 2024 10:59 AM
 - 🎭 [react 大佬有吗，帮看一个小项目优化的问题 有偿](https://www.v2ex.com/t/1073827#reply2) | Wed Sep 18 2024 10:23 AM
 - 🥷 [装机后不能开机，兄弟们，求个排查方案](https://www.v2ex.com/t/1073821#reply38) | Wed Sep 18 2024 9:51 AM
 - 🐵 [mingw 具体做了什么？](https://www.v2ex.com/t/1073810#reply2) | Wed Sep 18 2024 9:29 AM<!-- v2ex:END -->
