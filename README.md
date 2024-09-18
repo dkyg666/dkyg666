@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [大佬们,求一个 follow 的邀请码可好](https://www.v2ex.com/t/1073664#reply1) | Wed Sep 18 2024 3:49 AM
-- 🤗 [记一次收美元的经历，总结就是“非常丝滑， Swift 牛 X”](https://www.v2ex.com/t/1073659#reply1) | Wed Sep 18 2024 3:41 AM
-- 🎭 [中年高龄开始学习 Deep Learning](https://www.v2ex.com/t/1073641#reply1) | Wed Sep 18 2024 3:16 AM
-- 🥷 [smart-doc 3.0.8 发布， Java 零注解 API 文档生成工具](https://www.v2ex.com/t/1073639#reply0) | Wed Sep 18 2024 3:13 AM
-- 🐵 [prettier 如在一行内声明多个变量不换行？](https://www.v2ex.com/t/1073631#reply2) | Wed Sep 18 2024 2:56 AM<!-- v2ex:END -->
+- 🥸 [bark 的 APNs device token 这个月变了两次](https://www.v2ex.com/t/1073729#reply0) | Wed Sep 18 2024 6:27 AM
+- 🤗 [Macos 15 Goland 无法 debug](https://www.v2ex.com/t/1073702#reply0) | Wed Sep 18 2024 5:37 AM
+- 🎭 [mac 里如何运行 ssh 连接进来的终端打开摄像头权限？](https://www.v2ex.com/t/1073699#reply0) | Wed Sep 18 2024 5:33 AM
+- 🥷 [文科生学习编程语言选择 javascript 还是 typescript](https://www.v2ex.com/t/1073686#reply10) | Wed Sep 18 2024 4:44 AM
+- 🐵 [大佬们,求一个 follow 的邀请码可好](https://www.v2ex.com/t/1073664#reply3) | Wed Sep 18 2024 3:49 AM<!-- v2ex:END -->
 
