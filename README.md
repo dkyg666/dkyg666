@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [巧妙实现 iOS 和 Windows 剪贴板双向同步](https://www.v2ex.com/t/1074155#reply1) | Thu Sep 19 2024 10:56 AM
-- 🤗 [问: 一个可执行二进制文件如何打包为群晖 SPK?](https://www.v2ex.com/t/1074150#reply2) | Thu Sep 19 2024 10:39 AM
-- 🎭 [针对没有 root 的 android（12+）真机抓包有什么好办法？](https://www.v2ex.com/t/1074142#reply3) | Thu Sep 19 2024 10:02 AM
-- 🥷 [鼠标求推荐](https://www.v2ex.com/t/1074140#reply18) | Thu Sep 19 2024 9:54 AM
-- 🐵 [大佬们，大问题请教，内存占满](https://www.v2ex.com/t/1074136#reply14) | Thu Sep 19 2024 9:45 AM<!-- v2ex:END -->
+- 🥸 [如何优雅的设置 Windows 中的默认打开方式？](https://www.v2ex.com/t/1074192#reply0) | Thu Sep 19 2024 1:58 PM
+- 🤗 [Cursor 能实现记忆功能吗？](https://www.v2ex.com/t/1074190#reply1) | Thu Sep 19 2024 1:53 PM
+- 🎭 [团队下午茶推荐](https://www.v2ex.com/t/1074186#reply0) | Thu Sep 19 2024 1:30 PM
+- 🥷 [巧妙实现 iOS 和 Windows 剪贴板双向同步](https://www.v2ex.com/t/1074155#reply1) | Thu Sep 19 2024 10:56 AM
+- 🐵 [问: 一个可执行二进制文件如何打包为群晖 SPK?](https://www.v2ex.com/t/1074150#reply2) | Thu Sep 19 2024 10:39 AM<!-- v2ex:END -->
 
