@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [请问没接触过安卓开发的后端开发要怎么学习 Kotlin Compose Multiplatform](https://www.v2ex.com/t/1073992#reply3) | Thu Sep 19 2024 3:38 AM
-- 🤗 [有人玩过 excalidraw 这个开源项目的不](https://www.v2ex.com/t/1073984#reply4) | Thu Sep 19 2024 3:24 AM
-- 🎭 [请教一下， Windows 和 macOS 能共用一个 Windows 虚拟机吗](https://www.v2ex.com/t/1073983#reply3) | Thu Sep 19 2024 3:22 AM
-- 🥷 [本地文件存储引擎有哪些生产可用的包](https://www.v2ex.com/t/1073972#reply9) | Thu Sep 19 2024 2:58 AM
-- 🐵 [在使用 Cursor 时，发现它没有像 PyCharm 那样自动保留代码缩进](https://www.v2ex.com/t/1073970#reply4) | Thu Sep 19 2024 2:56 AM<!-- v2ex:END -->
+- 🥸 [国粹国粹， user data 丢了， firefox 你真行。我乖乖滚回 chrome](https://www.v2ex.com/t/1074017#reply4) | Thu Sep 19 2024 4:54 AM
+- 🤗 [请问没接触过安卓开发的后端开发要怎么学习 Kotlin Compose Multiplatform](https://www.v2ex.com/t/1073992#reply3) | Thu Sep 19 2024 3:38 AM
+- 🎭 [有人玩过 excalidraw 这个开源项目的不](https://www.v2ex.com/t/1073984#reply5) | Thu Sep 19 2024 3:24 AM
+- 🥷 [请教一下， Windows 和 macOS 能共用一个 Windows 虚拟机吗](https://www.v2ex.com/t/1073983#reply3) | Thu Sep 19 2024 3:22 AM
+- 🐵 [本地文件存储引擎有哪些生产可用的包](https://www.v2ex.com/t/1073972#reply14) | Thu Sep 19 2024 2:58 AM<!-- v2ex:END -->
 
