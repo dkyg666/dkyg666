@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [国粹国粹， user data 丢了， firefox 你真行。我乖乖滚回 chrome](https://www.v2ex.com/t/1074017#reply4) | Thu Sep 19 2024 4:54 AM
-- 🤗 [请问没接触过安卓开发的后端开发要怎么学习 Kotlin Compose Multiplatform](https://www.v2ex.com/t/1073992#reply3) | Thu Sep 19 2024 3:38 AM
-- 🎭 [有人玩过 excalidraw 这个开源项目的不](https://www.v2ex.com/t/1073984#reply5) | Thu Sep 19 2024 3:24 AM
-- 🥷 [请教一下， Windows 和 macOS 能共用一个 Windows 虚拟机吗](https://www.v2ex.com/t/1073983#reply3) | Thu Sep 19 2024 3:22 AM
-- 🐵 [本地文件存储引擎有哪些生产可用的包](https://www.v2ex.com/t/1073972#reply14) | Thu Sep 19 2024 2:58 AM<!-- v2ex:END -->
+- 🥸 [小程序里一些秒杀和问卷抢座，能不能用 charles 或 Thor 等抓包工具提高命中率？](https://www.v2ex.com/t/1074050#reply1) | Thu Sep 19 2024 6:18 AM
+- 🤗 [看过很多用前端写 win10 win11 liunx 的 但是好像没见过手机的](https://www.v2ex.com/t/1074048#reply0) | Thu Sep 19 2024 6:09 AM
+- 🎭 [为啥没人推荐微软的 dns？](https://www.v2ex.com/t/1074041#reply0) | Thu Sep 19 2024 6:00 AM
+- 🥷 [V 友们 有没有推荐的 uniapp+ Java 开发的商城系统](https://www.v2ex.com/t/1074037#reply0) | Thu Sep 19 2024 5:57 AM
+- 🐵 [android 有哪些好用的 mod 软件](https://www.v2ex.com/t/1074031#reply2) | Thu Sep 19 2024 5:30 AM<!-- v2ex:END -->
 
