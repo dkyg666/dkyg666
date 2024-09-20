@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [EasySignIpa 1.0.0 发布啦](https://www.v2ex.com/t/1074252#reply0) | Fri Sep 20 2024 1:13 AM
-- 🤗 [搜素文档内的内容，目前在用 textseek，还有其他可以替代的吗](https://www.v2ex.com/t/1074240#reply3) | Fri Sep 20 2024 12:56 AM
-- 🎭 [如何升职，以及如何在公司主导一件事情落地？](https://www.v2ex.com/t/1074236#reply9) | Fri Sep 20 2024 12:48 AM
-- 🥷 [C# .NET framework 4 程序集加载调试 bug](https://www.v2ex.com/t/1074227#reply11) | Fri Sep 20 2024 12:15 AM
-- 🐵 [程序员英国生活三个月总结-工作职场和家庭](https://www.v2ex.com/t/1074226#reply3) | Thu Sep 19 2024 11:41 PM<!-- v2ex:END -->
+- 🥸 [火星 tip : Windows 下禁用火狐自己的自动更新](https://www.v2ex.com/t/1074279#reply2) | Fri Sep 20 2024 2:07 AM
+- 🤗 [给一个公司做了外包项目，但是公司不支付费用，应该怎么办](https://www.v2ex.com/t/1074275#reply18) | Fri Sep 20 2024 1:56 AM
+- 🎭 [神奇的 post Ajax net::err_connection_reset 错误](https://www.v2ex.com/t/1074264#reply5) | Fri Sep 20 2024 1:36 AM
+- 🥷 [EasySignIpa 1.0.0 发布啦](https://www.v2ex.com/t/1074252#reply2) | Fri Sep 20 2024 1:13 AM
+- 🐵 [搜素文档内的内容，目前在用 textseek，还有其他可以替代的吗](https://www.v2ex.com/t/1074240#reply7) | Fri Sep 20 2024 12:56 AM<!-- v2ex:END -->
 
