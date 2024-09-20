@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 ### v2ex-全站热点
 <!-- v2ex:START -->
 - 🥸 [cursor 实践第一弹, 开发一个送码程序](https://www.v2ex.com/t/1074316#reply1) | Fri Sep 20 2024 3:25 AM
-- 🤗 [用 office 365 企业版做域名邮箱太贵了怎么办](https://www.v2ex.com/t/1074314#reply21) | Fri Sep 20 2024 3:24 AM
+- 🤗 [用 office 365 企业版做域名邮箱太贵了怎么办](https://www.v2ex.com/t/1074314#reply26) | Fri Sep 20 2024 3:24 AM
 - 🎭 [element plus el-select-v2 如何单独设置下拉框宽度](https://www.v2ex.com/t/1074313#reply0) | Fri Sep 20 2024 3:23 AM
 - 🥷 [拖拽 VUE 代码生成](https://www.v2ex.com/t/1074293#reply6) | Fri Sep 20 2024 2:48 AM
-- 🐵 [火星 tip : Windows 下禁用火狐自己的自动更新](https://www.v2ex.com/t/1074279#reply8) | Fri Sep 20 2024 2:07 AM<!-- v2ex:END -->
+- 🐵 [火星 tip : Windows 下禁用火狐自己的自动更新](https://www.v2ex.com/t/1074279#reply9) | Fri Sep 20 2024 2:07 AM<!-- v2ex:END -->
 
