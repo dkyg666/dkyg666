@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [火星 tip : Windows 下禁用火狐自己的自动更新](https://www.v2ex.com/t/1074279#reply2) | Fri Sep 20 2024 2:07 AM
-- 🤗 [给一个公司做了外包项目，但是公司不支付费用，应该怎么办](https://www.v2ex.com/t/1074275#reply18) | Fri Sep 20 2024 1:56 AM
-- 🎭 [神奇的 post Ajax net::err_connection_reset 错误](https://www.v2ex.com/t/1074264#reply5) | Fri Sep 20 2024 1:36 AM
+- 🥸 [拖拽 VUE 代码生成](https://www.v2ex.com/t/1074293#reply0) | Fri Sep 20 2024 2:48 AM
+- 🤗 [火星 tip : Windows 下禁用火狐自己的自动更新](https://www.v2ex.com/t/1074279#reply3) | Fri Sep 20 2024 2:07 AM
+- 🎭 [神奇的 post Ajax net::err_connection_reset 错误](https://www.v2ex.com/t/1074264#reply6) | Fri Sep 20 2024 1:36 AM
 - 🥷 [EasySignIpa 1.0.0 发布啦](https://www.v2ex.com/t/1074252#reply2) | Fri Sep 20 2024 1:13 AM
-- 🐵 [搜素文档内的内容，目前在用 textseek，还有其他可以替代的吗](https://www.v2ex.com/t/1074240#reply7) | Fri Sep 20 2024 12:56 AM<!-- v2ex:END -->
+- 🐵 [搜素文档内的内容，目前在用 textseek，还有其他可以替代的吗](https://www.v2ex.com/t/1074240#reply8) | Fri Sep 20 2024 12:56 AM<!-- v2ex:END -->
 
