@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 - 🤗 [有在使用 linkwarden 的家人吗？](https://www.v2ex.com/t/1074633#reply0) | Sat Sep 21 2024 7:58 AM
 - 🎭 [写代码真不能有洁癖](https://www.v2ex.com/t/1074626#reply5) | Sat Sep 21 2024 7:22 AM
 - 🥷 [求一款 VSCode 插件用于高亮 C 语言的宏定义范围](https://www.v2ex.com/t/1074618#reply0) | Sat Sep 21 2024 6:51 AM
-- 🐵 [目前几乎全部的境外 DoH 的域名被 Reset](https://www.v2ex.com/t/1074612#reply4) | Sat Sep 21 2024 6:22 AM<!-- v2ex:END -->
+- 🐵 [目前几乎全部的境外 DoH 的域名被 Reset](https://www.v2ex.com/t/1074612#reply8) | Sat Sep 21 2024 6:22 AM<!-- v2ex:END -->
 
