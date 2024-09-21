@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [GoooQo 文档上线，欢迎交流](https://www.v2ex.com/t/1074596#reply0) | Sat Sep 21 2024 4:55 AM
-- 🤗 [科研访谈对象招募 | 女程序员身份建构与文化认同](https://www.v2ex.com/t/1074595#reply0) | Sat Sep 21 2024 4:53 AM
-- 🎭 [求一个视频流可行的 nas 传输方案](https://www.v2ex.com/t/1074570#reply1) | Sat Sep 21 2024 3:06 AM
-- 🥷 [私有化 Excalidraw，支持多种中文字体选择](https://www.v2ex.com/t/1074564#reply5) | Sat Sep 21 2024 2:45 AM
-- 🐵 [分享一个小小小工具](https://www.v2ex.com/t/1074550#reply0) | Sat Sep 21 2024 2:01 AM<!-- v2ex:END -->
+- 🥸 [目前几乎全部的境外 DoH 的域名被 Reset](https://www.v2ex.com/t/1074612#reply0) | Sat Sep 21 2024 6:22 AM
+- 🤗 [Google Map 评价不了商铺](https://www.v2ex.com/t/1074608#reply2) | Sat Sep 21 2024 5:57 AM
+- 🎭 [九年义务教育漏网之鱼，找不到工作，求捞](https://www.v2ex.com/t/1074605#reply3) | Sat Sep 21 2024 5:51 AM
+- 🥷 [GoooQo 文档上线，欢迎交流](https://www.v2ex.com/t/1074596#reply0) | Sat Sep 21 2024 4:55 AM
+- 🐵 [科研访谈对象招募 | 女程序员身份建构与文化认同](https://www.v2ex.com/t/1074595#reply0) | Sat Sep 21 2024 4:53 AM<!-- v2ex:END -->
 
