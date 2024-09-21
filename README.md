@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [有游戏开发，策划过程中需要 ai 支持的吗？](https://www.v2ex.com/t/1074733#reply0) | Sat Sep 21 2024 5:19 PM
-- 🤗 [不会页面设计，可以用 flux 生成 ui 图](https://www.v2ex.com/t/1074731#reply1) | Sat Sep 21 2024 4:25 PM
-- 🎭 [android 手机 CPU 调频问题](https://www.v2ex.com/t/1074723#reply0) | Sat Sep 21 2024 3:40 PM
-- 🥷 [求助有关 PVE 下的 OpenWRT 做主路由这件事](https://www.v2ex.com/t/1074716#reply7) | Sat Sep 21 2024 2:54 PM
-- 🐵 [救救孩子吧！笔记本蓝屏](https://www.v2ex.com/t/1074702#reply3) | Sat Sep 21 2024 1:56 PM<!-- v2ex:END -->
+- 🥸 [miui 的 build.prop 文件一直修改失败， global 版无法添加内置安全模块](https://www.v2ex.com/t/1074741#reply2) | Sat Sep 21 2024 7:23 PM
+- 🤗 [有游戏开发，策划过程中需要 ai 支持的吗？](https://www.v2ex.com/t/1074733#reply0) | Sat Sep 21 2024 5:19 PM
+- 🎭 [不会页面设计，可以用 flux 生成 ui 图](https://www.v2ex.com/t/1074731#reply1) | Sat Sep 21 2024 4:25 PM
+- 🥷 [android 手机 CPU 调频问题](https://www.v2ex.com/t/1074723#reply0) | Sat Sep 21 2024 3:40 PM
+- 🐵 [求助有关 PVE 下的 OpenWRT 做主路由这件事](https://www.v2ex.com/t/1074716#reply7) | Sat Sep 21 2024 2:54 PM<!-- v2ex:END -->
 
