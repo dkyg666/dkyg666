@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [小型工作室存储选型的一点思考和疑问](https://www.v2ex.com/t/1074658#reply0) | Sat Sep 21 2024 10:11 AM
+- 🥸 [小型工作室存储选型的一点思考和疑问](https://www.v2ex.com/t/1074658#reply4) | Sat Sep 21 2024 10:11 AM
 - 🤗 [抓了下 cursor 的请求， chat 请求的是 deepseek？](https://www.v2ex.com/t/1074655#reply2) | Sat Sep 21 2024 10:06 AM
-- 🎭 [Arc 浏览器的漏洞可使用户访问网站时被植入任意代码（已解决）](https://www.v2ex.com/t/1074653#reply0) | Sat Sep 21 2024 9:50 AM
-- 🥷 [Swift UI 用 Timer 每秒更新 Text 时文字会出现残影](https://www.v2ex.com/t/1074636#reply0) | Sat Sep 21 2024 8:13 AM
-- 🐵 [有在使用 linkwarden 的家人吗？](https://www.v2ex.com/t/1074633#reply0) | Sat Sep 21 2024 7:58 AM<!-- v2ex:END -->
+- 🎭 [Swift UI 用 Timer 每秒更新 Text 时文字会出现残影](https://www.v2ex.com/t/1074636#reply0) | Sat Sep 21 2024 8:13 AM
+- 🥷 [有在使用 linkwarden 的家人吗？](https://www.v2ex.com/t/1074633#reply0) | Sat Sep 21 2024 7:58 AM
+- 🐵 [写代码真不能有洁癖](https://www.v2ex.com/t/1074626#reply11) | Sat Sep 21 2024 7:22 AM<!-- v2ex:END -->
 
