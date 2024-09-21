@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [救救孩子吧！笔记本蓝屏](https://www.v2ex.com/t/1074702#reply1) | Sat Sep 21 2024 1:56 PM
-- 🤗 [求推荐一部外放音质好的安卓机](https://www.v2ex.com/t/1074693#reply2) | Sat Sep 21 2024 1:12 PM
-- 🎭 [以小白视角的 SnailJob 入门级视频教程](https://www.v2ex.com/t/1074680#reply0) | Sat Sep 21 2024 11:56 AM
-- 🥷 [写了一个 epub 轻小说合并工具 epub-merge](https://www.v2ex.com/t/1074678#reply6) | Sat Sep 21 2024 11:47 AM
-- 🐵 [小型工作室存储选型的一点思考和疑问](https://www.v2ex.com/t/1074658#reply5) | Sat Sep 21 2024 10:11 AM<!-- v2ex:END -->
+- 🥸 [求助有关 PVE 下的 OpenWRT 做主路由这件事](https://www.v2ex.com/t/1074716#reply0) | Sat Sep 21 2024 2:54 PM
+- 🤗 [救救孩子吧！笔记本蓝屏](https://www.v2ex.com/t/1074702#reply1) | Sat Sep 21 2024 1:56 PM
+- 🎭 [求推荐一部外放音质好的安卓机](https://www.v2ex.com/t/1074693#reply2) | Sat Sep 21 2024 1:12 PM
+- 🥷 [以小白视角的 SnailJob 入门级视频教程](https://www.v2ex.com/t/1074680#reply0) | Sat Sep 21 2024 11:56 AM
+- 🐵 [写了一个 epub 轻小说合并工具 epub-merge](https://www.v2ex.com/t/1074678#reply6) | Sat Sep 21 2024 11:47 AM<!-- v2ex:END -->
 
