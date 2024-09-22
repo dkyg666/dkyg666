@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [Tabby 的 SSH 主机密钥验证形同虚设，完全无法阻止中间人攻击](https://www.v2ex.com/t/1074838#reply0) | Sun Sep 22 2024 10:54 AM
-- 🤗 [手持小米 13u 是换二手 14u 还是等 15u?](https://www.v2ex.com/t/1074828#reply5) | Sun Sep 22 2024 9:38 AM
-- 🎭 [游戏开发是不是众多工种中开发体验最好的？](https://www.v2ex.com/t/1074815#reply10) | Sun Sep 22 2024 8:30 AM
-- 🥷 [manjaro 折腾 n 卡驱动，误删了 xorg.conf 文件，导致 Super（Win）键失效了](https://www.v2ex.com/t/1074807#reply2) | Sun Sep 22 2024 7:45 AM
-- 🐵 [分享一个我的 nas 解决方案](https://www.v2ex.com/t/1074806#reply4) | Sun Sep 22 2024 7:40 AM<!-- v2ex:END -->
+- 🥸 [凹语言再次点亮 Arduino nano 33](https://www.v2ex.com/t/1074847#reply0) | Sun Sep 22 2024 12:10 PM
+- 🤗 [Tabby 的 SSH 主机密钥验证形同虚设，完全无法阻止中间人攻击](https://www.v2ex.com/t/1074838#reply3) | Sun Sep 22 2024 10:54 AM
+- 🎭 [手持小米 13u 是换二手 14u 还是等 15u?](https://www.v2ex.com/t/1074828#reply8) | Sun Sep 22 2024 9:38 AM
+- 🥷 [游戏开发是不是众多工种中开发体验最好的？](https://www.v2ex.com/t/1074815#reply12) | Sun Sep 22 2024 8:30 AM
+- 🐵 [manjaro 折腾 n 卡驱动，误删了 xorg.conf 文件，导致 Super（Win）键失效了](https://www.v2ex.com/t/1074807#reply2) | Sun Sep 22 2024 7:45 AM<!-- v2ex:END -->
 
