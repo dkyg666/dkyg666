@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [在闲鱼被骂了，如何反制？](https://www.v2ex.com/t/1074869#reply0) | Sun Sep 22 2024 2:13 PM
-- 🤗 [[野路子开发] 不会编程的设计师如何做网站? Cursor AI 带我一周开发 App 图标库](https://www.v2ex.com/t/1074865#reply1) | Sun Sep 22 2024 2:02 PM
-- 🎭 [[开源] HanAnalytics 访问分析 Web 统计托管于（Cloudflare Pages）](https://www.v2ex.com/t/1074856#reply0) | Sun Sep 22 2024 12:43 PM
-- 🥷 [windows 上有不需要共享文件夹，就能在局域网同步的软件？](https://www.v2ex.com/t/1074855#reply3) | Sun Sep 22 2024 12:41 PM
-- 🐵 [凹语言再次点亮 Arduino nano 33](https://www.v2ex.com/t/1074847#reply0) | Sun Sep 22 2024 12:10 PM<!-- v2ex:END -->
+- 🥸 [小米 13 刷了酷安白羊官改的澎湃，其他都正常 网银，云闪付和酷安评论区一点就闪退](https://www.v2ex.com/t/1074880#reply0) | Sun Sep 22 2024 2:55 PM
+- 🤗 [在闲鱼被骂了，如何反制？](https://www.v2ex.com/t/1074869#reply14) | Sun Sep 22 2024 2:13 PM
+- 🎭 [[野路子开发] 不会编程的设计师如何做网站? Cursor AI 带我一周开发 App 图标库](https://www.v2ex.com/t/1074865#reply4) | Sun Sep 22 2024 2:02 PM
+- 🥷 [[开源] HanAnalytics 访问分析 Web 统计托管于（Cloudflare Pages）](https://www.v2ex.com/t/1074856#reply0) | Sun Sep 22 2024 12:43 PM
+- 🐵 [windows 上有不需要共享文件夹，就能在局域网同步的软件？](https://www.v2ex.com/t/1074855#reply5) | Sun Sep 22 2024 12:41 PM<!-- v2ex:END -->
 
