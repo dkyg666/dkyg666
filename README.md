@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 - 🤗 [有游戏开发，策划过程中需要 ai 支持的吗？](https://www.v2ex.com/t/1074733#reply0) | Sat Sep 21 2024 5:19 PM
 - 🎭 [不会页面设计，可以用 flux 生成 ui 图](https://www.v2ex.com/t/1074731#reply2) | Sat Sep 21 2024 4:25 PM
 - 🥷 [android 手机 CPU 调频问题](https://www.v2ex.com/t/1074723#reply2) | Sat Sep 21 2024 3:40 PM
-- 🐵 [求助有关 PVE 下的 OpenWRT 做主路由这件事](https://www.v2ex.com/t/1074716#reply8) | Sat Sep 21 2024 2:54 PM<!-- v2ex:END -->
+- 🐵 [求助有关 PVE 下的 OpenWRT 做主路由这件事](https://www.v2ex.com/t/1074716#reply9) | Sat Sep 21 2024 2:54 PM<!-- v2ex:END -->
 
