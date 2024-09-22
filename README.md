@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [请教 Java 程序如何观测真实的内存使用情况](https://www.v2ex.com/t/1074784#reply2) | Sun Sep 22 2024 4:25 AM
+- 🥸 [请教 Java 程序如何观测真实的内存使用情况](https://www.v2ex.com/t/1074784#reply3) | Sun Sep 22 2024 4:25 AM
 - 🤗 [有游戏开发，策划过程中需要 ai 支持的吗？](https://www.v2ex.com/t/1074733#reply0) | Sat Sep 21 2024 5:19 PM
-- 🎭 [不会页面设计，可以用 flux 生成 ui 图](https://www.v2ex.com/t/1074731#reply3) | Sat Sep 21 2024 4:25 PM
+- 🎭 [不会页面设计，可以用 flux 生成 ui 图](https://www.v2ex.com/t/1074731#reply4) | Sat Sep 21 2024 4:25 PM
 - 🥷 [android 手机 CPU 调频问题](https://www.v2ex.com/t/1074723#reply2) | Sat Sep 21 2024 3:40 PM
 - 🐵 [求助有关 PVE 下的 OpenWRT 做主路由这件事](https://www.v2ex.com/t/1074716#reply9) | Sat Sep 21 2024 2:54 PM<!-- v2ex:END -->
 
