@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [vector 的 vrl 语言，如何消费 kafka 的 [{&quot;a&quot;:1},{&quot;b&quot;:2},{&quot;c&quot;:12},{&quot;z&quot;:83}]这种数据？](https://www.v2ex.com/t/1075134#reply3) | Mon Sep 23 2024 9:04 AM
-- 🤗 [求救， Ubuntu22.04 apt 报错无法安装、更新和卸载软件包...](https://www.v2ex.com/t/1075133#reply2) | Mon Sep 23 2024 8:58 AM
-- 🎭 [有做过 AndroidTV 的兄弟吗？ GooglePlayStrore 提示不兼容](https://www.v2ex.com/t/1075112#reply2) | Mon Sep 23 2024 8:11 AM
-- 🥷 [目前哪个云厂商可以用最少的钱买到最多的 IPv6 地址？](https://www.v2ex.com/t/1075108#reply6) | Mon Sep 23 2024 8:09 AM
-- 🐵 [Go 链路追踪中为什么先调用 otel.GetTracerProvider&lpar;&rpar; 再调用 otel.SetTracerProvider&lpar;&rpar; 也能上报成功?](https://www.v2ex.com/t/1075100#reply0) | Mon Sep 23 2024 7:48 AM<!-- v2ex:END -->
+- 🥸 [抖音到底是如何识别 Android 设备的](https://www.v2ex.com/t/1075162#reply0) | Mon Sep 23 2024 10:19 AM
+- 🤗 [真的觉得有些单身的人真的是有原因的，光打嘴炮，还有被迫害妄想症，觉得所有的做生意的人都是坏人](https://www.v2ex.com/t/1075157#reply1) | Mon Sep 23 2024 10:00 AM
+- 🎭 [96 年， 28 岁了](https://www.v2ex.com/t/1075153#reply6) | Mon Sep 23 2024 9:48 AM
+- 🥷 [铁威马推出 F8 SSD &lpar;Plus&rpar; 八盘位全闪 NAS，提供单 10G 电口](https://www.v2ex.com/t/1075150#reply1) | Mon Sep 23 2024 9:45 AM
+- 🐵 [vector 的 vrl 语言，如何消费 kafka 的 [{&quot;a&quot;:1},{&quot;b&quot;:2},{&quot;c&quot;:12},{&quot;z&quot;:83}]这种数据？](https://www.v2ex.com/t/1075134#reply3) | Mon Sep 23 2024 9:04 AM<!-- v2ex:END -->
 
