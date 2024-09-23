@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [有没有能把流量卡转换成 WIFI 的设备？](https://www.v2ex.com/t/1075221#reply5) | Mon Sep 23 2024 3:26 PM
-- 🤗 [主力机倒下了，老龙王可有趁手的兵器？](https://www.v2ex.com/t/1075219#reply4) | Mon Sep 23 2024 3:22 PM
+- 🥸 [有没有能把流量卡转换成 WIFI 的设备？](https://www.v2ex.com/t/1075221#reply9) | Mon Sep 23 2024 3:26 PM
+- 🤗 [主力机倒下了，老龙王可有趁手的兵器？](https://www.v2ex.com/t/1075219#reply5) | Mon Sep 23 2024 3:22 PM
 - 🎭 [阿里云函数计算 https 无法访问](https://www.v2ex.com/t/1075202#reply2) | Mon Sep 23 2024 2:18 PM
 - 🥷 [请问代理 ip 的合适价格是多少？](https://www.v2ex.com/t/1075195#reply3) | Mon Sep 23 2024 1:24 PM
-- 🐵 [群晖 in pve 安装的时候最低需要多少磁盘空间](https://www.v2ex.com/t/1075189#reply3) | Mon Sep 23 2024 12:56 PM<!-- v2ex:END -->
+- 🐵 [群晖 in pve 安装的时候最低需要多少磁盘空间](https://www.v2ex.com/t/1075189#reply4) | Mon Sep 23 2024 12:56 PM<!-- v2ex:END -->
 
