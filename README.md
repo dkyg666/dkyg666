@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [有做过 AndroidTV 的兄弟吗？ GooglePlayStrore 提示不兼容](https://www.v2ex.com/t/1075112#reply0) | Mon Sep 23 2024 8:11 AM
-- 🤗 [目前哪个云厂商可以用最少的钱买到最多的 IPv6 地址？](https://www.v2ex.com/t/1075108#reply3) | Mon Sep 23 2024 8:09 AM
-- 🎭 [Go 链路追踪中为什么先调用 otel.GetTracerProvider&lpar;&rpar; 再调用 otel.SetTracerProvider&lpar;&rpar; 也能上报成功?](https://www.v2ex.com/t/1075100#reply0) | Mon Sep 23 2024 7:48 AM
-- 🥷 [vscode 要闪瞎我的双眼啊，本来视力就不好](https://www.v2ex.com/t/1075093#reply2) | Mon Sep 23 2024 7:38 AM
-- 🐵 [新手求教 为啥我的 qBittorrent 会自己定时下载某个特定的文件？](https://www.v2ex.com/t/1075090#reply1) | Mon Sep 23 2024 7:33 AM<!-- v2ex:END -->
+- 🥸 [vector 的 vrl 语言，如何消费 kafka 的 [{&quot;a&quot;:1},{&quot;b&quot;:2},{&quot;c&quot;:12},{&quot;z&quot;:83}]这种数据？](https://www.v2ex.com/t/1075134#reply3) | Mon Sep 23 2024 9:04 AM
+- 🤗 [求救， Ubuntu22.04 apt 报错无法安装、更新和卸载软件包...](https://www.v2ex.com/t/1075133#reply2) | Mon Sep 23 2024 8:58 AM
+- 🎭 [有做过 AndroidTV 的兄弟吗？ GooglePlayStrore 提示不兼容](https://www.v2ex.com/t/1075112#reply2) | Mon Sep 23 2024 8:11 AM
+- 🥷 [目前哪个云厂商可以用最少的钱买到最多的 IPv6 地址？](https://www.v2ex.com/t/1075108#reply6) | Mon Sep 23 2024 8:09 AM
+- 🐵 [Go 链路追踪中为什么先调用 otel.GetTracerProvider&lpar;&rpar; 再调用 otel.SetTracerProvider&lpar;&rpar; 也能上报成功?](https://www.v2ex.com/t/1075100#reply0) | Mon Sep 23 2024 7:48 AM<!-- v2ex:END -->
 
