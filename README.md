@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [小白用户的 NAS（威联通）数据备份方案，求点评](https://www.v2ex.com/t/1075175#reply3) | Mon Sep 23 2024 12:14 PM
-- 🤗 [现在 Java 还适合 Android 开发吗？](https://www.v2ex.com/t/1075173#reply4) | Mon Sep 23 2024 11:36 AM
-- 🎭 [请教一个会议门口屏的需求，大约多少￥](https://www.v2ex.com/t/1075167#reply6) | Mon Sep 23 2024 10:51 AM
-- 🥷 [抖音到底是如何识别 Android 设备的](https://www.v2ex.com/t/1075162#reply24) | Mon Sep 23 2024 10:19 AM
-- 🐵 [96 年， 28 岁了](https://www.v2ex.com/t/1075153#reply6) | Mon Sep 23 2024 9:48 AM<!-- v2ex:END -->
+- 🥸 [请问代理 ip 的合适价格是多少？](https://www.v2ex.com/t/1075195#reply0) | Mon Sep 23 2024 1:24 PM
+- 🤗 [群晖 in pve 安装的时候最低需要多少磁盘空间](https://www.v2ex.com/t/1075189#reply2) | Mon Sep 23 2024 12:56 PM
+- 🎭 [使用 socket 做进程间通信的架构师属于什么水平](https://www.v2ex.com/t/1075187#reply11) | Mon Sep 23 2024 12:56 PM
+- 🥷 [小白用户的 NAS（威联通）数据备份方案，求点评](https://www.v2ex.com/t/1075175#reply3) | Mon Sep 23 2024 12:14 PM
+- 🐵 [现在 Java 还适合 Android 开发吗？](https://www.v2ex.com/t/1075173#reply8) | Mon Sep 23 2024 11:36 AM<!-- v2ex:END -->
 
