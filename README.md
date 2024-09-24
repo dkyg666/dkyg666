@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [也是醉了，从 pip 学习到 pipenv，再切换到 poetry，最后还是用回 pip](https://www.v2ex.com/t/1075372#reply16) | Tue Sep 24 2024 5:11 AM
-- 🤗 [求助：怎么使用 go 实现 pdf 的数字签名与校验](https://www.v2ex.com/t/1075355#reply3) | Tue Sep 24 2024 4:00 AM
-- 🎭 [有人用过 macOS Sequoia 中自带的 Passwords 应用登录 Github 成功的么 ？](https://www.v2ex.com/t/1075352#reply0) | Tue Sep 24 2024 3:46 AM
-- 🥷 [vscode 如何写 markdown 笔记?](https://www.v2ex.com/t/1075350#reply4) | Tue Sep 24 2024 3:44 AM
-- 🐵 [求一位会写 dma 固件的大佬，价格私聊](https://www.v2ex.com/t/1075346#reply3) | Tue Sep 24 2024 3:38 AM<!-- v2ex:END -->
+- 🥸 [有什么开源的，可以自己部署在 nas 上的笔记应用推荐吗？](https://www.v2ex.com/t/1075393#reply2) | Tue Sep 24 2024 6:30 AM
+- 🤗 [也是醉了，从 pip 学习到 pipenv，再切换到 poetry，最后还是用回 pip](https://www.v2ex.com/t/1075372#reply16) | Tue Sep 24 2024 5:11 AM
+- 🎭 [求助：怎么使用 go 实现 pdf 的数字签名与校验](https://www.v2ex.com/t/1075355#reply3) | Tue Sep 24 2024 4:00 AM
+- 🥷 [有人用过 macOS Sequoia 中自带的 Passwords 应用登录 Github 成功的么 ？](https://www.v2ex.com/t/1075352#reply1) | Tue Sep 24 2024 3:46 AM
+- 🐵 [vscode 如何写 markdown 笔记?](https://www.v2ex.com/t/1075350#reply10) | Tue Sep 24 2024 3:44 AM<!-- v2ex:END -->
 
