@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [有没有能把流量卡转换成 WIFI 的设备？](https://www.v2ex.com/t/1075221#reply11) | Mon Sep 23 2024 3:26 PM
-- 🤗 [主力机倒下了，老龙王可有趁手的兵器？](https://www.v2ex.com/t/1075219#reply5) | Mon Sep 23 2024 3:22 PM
-- 🎭 [阿里云函数计算 https 无法访问](https://www.v2ex.com/t/1075202#reply3) | Mon Sep 23 2024 2:18 PM
-- 🥷 [请问代理 ip 的合适价格是多少？](https://www.v2ex.com/t/1075195#reply3) | Mon Sep 23 2024 1:24 PM
-- 🐵 [群晖 in pve 安装的时候最低需要多少磁盘空间](https://www.v2ex.com/t/1075189#reply4) | Mon Sep 23 2024 12:56 PM<!-- v2ex:END -->
+- 🥸 [今天见识到什么叫 0 基础前端使用 gpt 开发并且直接写到生产代码上了](https://www.v2ex.com/t/1075261#reply13) | Tue Sep 24 2024 1:08 AM
+- 🤗 [继续学练 Deep Learning](https://www.v2ex.com/t/1075254#reply5) | Tue Sep 24 2024 12:41 AM
+- 🎭 [有没有能把流量卡转换成 WIFI 的设备？](https://www.v2ex.com/t/1075221#reply35) | Mon Sep 23 2024 3:26 PM
+- 🥷 [主力机倒下了，老龙王可有趁手的兵器？](https://www.v2ex.com/t/1075219#reply11) | Mon Sep 23 2024 3:22 PM
+- 🐵 [阿里云函数计算 https 无法访问](https://www.v2ex.com/t/1075202#reply3) | Mon Sep 23 2024 2:18 PM<!-- v2ex:END -->
 
