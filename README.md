@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [关于自动生成 ssl 证书的问题](https://www.v2ex.com/t/1075671#reply0) | Wed Sep 25 2024 6:20 AM
-- 🤗 [snail-job 和 xxljob 有啥区别, 持续给大家介绍 snail-job 的使用](https://www.v2ex.com/t/1075669#reply0) | Wed Sep 25 2024 6:16 AM
-- 🎭 [国别域名的 Google search 在登录谷歌帐号的前提下已经无法修改界面语言](https://www.v2ex.com/t/1075666#reply1) | Wed Sep 25 2024 6:10 AM
-- 🥷 [不懂就问，有什么好用的可以自定义定时用于推送的工具（不限网站 app）](https://www.v2ex.com/t/1075658#reply5) | Wed Sep 25 2024 5:41 AM
-- 🐵 [yt-dlp 相同参数下载下来的文件每次都不一样，是不是有什么追踪数据？藏在哪里？](https://www.v2ex.com/t/1075650#reply0) | Wed Sep 25 2024 5:24 AM<!-- v2ex:END -->
+- 🥸 [ProcessOn 为什么导出有水印！（利用 SVG 转 PNG 处理）](https://www.v2ex.com/t/1075698#reply0) | Wed Sep 25 2024 7:13 AM
+- 🤗 [Visual Studio Code 中的 Python – 2024 年 8 月版本 Django 单元测试支持、使用 Pylance 从 inlay 提示转到定义](https://www.v2ex.com/t/1075680#reply1) | Wed Sep 25 2024 6:36 AM
+- 🎭 [关于自动生成 ssl 证书的问题](https://www.v2ex.com/t/1075671#reply9) | Wed Sep 25 2024 6:20 AM
+- 🥷 [snail-job 和 xxljob 有啥区别, 持续给大家介绍 snail-job 的使用](https://www.v2ex.com/t/1075669#reply0) | Wed Sep 25 2024 6:16 AM
+- 🐵 [国别域名的 Google search 在登录谷歌帐号的前提下已经无法修改界面语言](https://www.v2ex.com/t/1075666#reply2) | Wed Sep 25 2024 6:10 AM<!-- v2ex:END -->
 
