@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [Avast 没有经过微软的根证书验证是否有安全隐患？](https://www.v2ex.com/t/1075758#reply0) | Wed Sep 25 2024 9:40 AM
-- 🤗 [写个 base64 编码解密小脚本方便大家使用](https://www.v2ex.com/t/1075745#reply6) | Wed Sep 25 2024 9:07 AM
-- 🎭 [[求助] NAS 上 docker 安装的 miniflux 配合 iPad / iPhone 客户端使用的问题](https://www.v2ex.com/t/1075744#reply2) | Wed Sep 25 2024 9:04 AM
-- 🥷 [⭐AWS+阿里云国际站+腾讯云/华为云稳定代充，可实名可付 U⭐](https://www.v2ex.com/t/1075740#reply0) | Wed Sep 25 2024 8:52 AM
-- 🐵 [oppo 手机开发安卓， logcat 日志不打印](https://www.v2ex.com/t/1075724#reply7) | Wed Sep 25 2024 8:08 AM<!-- v2ex:END -->
+- 🥸 [面试受挫! 这种架构算法类问题要回答的好真的好难啊!](https://www.v2ex.com/t/1075772#reply1) | Wed Sep 25 2024 10:42 AM
+- 🤗 [Avast 没有经过微软的根证书验证是否有安全隐患？](https://www.v2ex.com/t/1075758#reply1) | Wed Sep 25 2024 9:40 AM
+- 🎭 [写个 base64 编码解密小脚本方便大家使用](https://www.v2ex.com/t/1075745#reply9) | Wed Sep 25 2024 9:07 AM
+- 🥷 [[求助] NAS 上 docker 安装的 miniflux 配合 iPad / iPhone 客户端使用的问题](https://www.v2ex.com/t/1075744#reply2) | Wed Sep 25 2024 9:04 AM
+- 🐵 [⭐AWS+阿里云国际站+腾讯云/华为云稳定代充，可实名可付 U⭐](https://www.v2ex.com/t/1075740#reply0) | Wed Sep 25 2024 8:52 AM<!-- v2ex:END -->
 
