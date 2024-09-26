@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [VUE3，页面加了 keepAlive 之后 table 组件的 v-loading 失效](https://www.v2ex.com/t/1076040#reply0) | Thu Sep 26 2024 8:21 AM
-- 🤗 [Moonlight v6.1 已支持 YUV4:4:4](https://www.v2ex.com/t/1076039#reply0) | Thu Sep 26 2024 8:20 AM
-- 🎭 [慢讯：官方 qq 机器人所有人可使用群聊了。 [群聊+ChatGPT]](https://www.v2ex.com/t/1076038#reply0) | Thu Sep 26 2024 8:19 AM
-- 🥷 [华为云，要脸不，刚注册不到 24 小时就把个人实名注册信息随便泄露出去了](https://www.v2ex.com/t/1076037#reply6) | Thu Sep 26 2024 8:18 AM
-- 🐵 [&lt;HERMES&gt; - 赫耳墨斯 - 我的新 pt 站](https://www.v2ex.com/t/1076015#reply5) | Thu Sep 26 2024 7:15 AM<!-- v2ex:END -->
+- 🥸 [有没有 .NET 大神帮忙看看困扰了好几个大神一年的内存泄露问题，优化了一年越变越严重，现在一小时崩一次](https://www.v2ex.com/t/1076054#reply1) | Thu Sep 26 2024 9:00 AM
+- 🤗 [我把生产服务器干烂的后续](https://www.v2ex.com/t/1076051#reply1) | Thu Sep 26 2024 8:49 AM
+- 🎭 [github 上这个仓库的免费节点能用吗，重金求答](https://www.v2ex.com/t/1076050#reply0) | Thu Sep 26 2024 8:48 AM
+- 🥷 [一键生成隐私政策工具分享，无需 AI～](https://www.v2ex.com/t/1076047#reply4) | Thu Sep 26 2024 8:35 AM
+- 🐵 [现在已可以在 Chrome 正式版中使用 Chrome 本地版 AI](https://www.v2ex.com/t/1076045#reply7) | Thu Sep 26 2024 8:29 AM<!-- v2ex:END -->
 
