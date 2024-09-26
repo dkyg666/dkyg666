@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [组件用:change 实现监听效果是什么原理， vue 里面不行 uniapp 里可以](https://www.v2ex.com/t/1075922#reply1) | Thu Sep 26 2024 3:15 AM
-- 🤗 [chrome 使用 adguard 扩展，无法正常浏览页面](https://www.v2ex.com/t/1075918#reply2) | Thu Sep 26 2024 2:57 AM
-- 🎭 [开源了个 postgresql 工具，欢迎大家试试](https://www.v2ex.com/t/1075915#reply1) | Thu Sep 26 2024 2:45 AM
-- 🥷 [百思不解 , Mac 软件 CleanMyMac X 这种单独突出一块的 UI 布局是如何做到的 ??](https://www.v2ex.com/t/1075905#reply2) | Thu Sep 26 2024 2:29 AM
-- 🐵 [大佬求助， mysql8.0.22 的漏洞哪里下载](https://www.v2ex.com/t/1075883#reply4) | Thu Sep 26 2024 1:55 AM<!-- v2ex:END -->
+- 🥸 [pg 的毫秒级时间戳转换](https://www.v2ex.com/t/1075950#reply1) | Thu Sep 26 2024 4:12 AM
+- 🤗 [有没有剪贴板历史记录的软件](https://www.v2ex.com/t/1075949#reply2) | Thu Sep 26 2024 4:06 AM
+- 🎭 [RTX4090 机器--9.9 元五天，薅羊毛](https://www.v2ex.com/t/1075946#reply0) | Thu Sep 26 2024 3:53 AM
+- 🥷 [想问下各位 Javaer，现在都是怎么做 AIGC 相关开发的啊？](https://www.v2ex.com/t/1075945#reply1) | Thu Sep 26 2024 3:52 AM
+- 🐵 [辣鸡 gitee 又挂了？](https://www.v2ex.com/t/1075941#reply2) | Thu Sep 26 2024 3:46 AM<!-- v2ex:END -->
 
