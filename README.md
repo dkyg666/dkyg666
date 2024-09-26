@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [&lt;HERMES&gt; - 赫耳墨斯 - 我的新 pt 站](https://www.v2ex.com/t/1076015#reply0) | Thu Sep 26 2024 7:15 AM
-- 🤗 [国内的 Teams 与国外的 Teams 还能交流吗？](https://www.v2ex.com/t/1075999#reply5) | Thu Sep 26 2024 6:42 AM
-- 🎭 [Haystack Editor source-available](https://www.v2ex.com/t/1075981#reply0) | Thu Sep 26 2024 6:06 AM
-- 🥷 [请教谷歌浏览器自动填充](https://www.v2ex.com/t/1075961#reply1) | Thu Sep 26 2024 4:38 AM
-- 🐵 [亲戚上小学一年级的女儿问我这个程序为什么不能运行](https://www.v2ex.com/t/1075959#reply41) | Thu Sep 26 2024 4:36 AM<!-- v2ex:END -->
+- 🥸 [VUE3，页面加了 keepAlive 之后 table 组件的 v-loading 失效](https://www.v2ex.com/t/1076040#reply0) | Thu Sep 26 2024 8:21 AM
+- 🤗 [Moonlight v6.1 已支持 YUV4:4:4](https://www.v2ex.com/t/1076039#reply0) | Thu Sep 26 2024 8:20 AM
+- 🎭 [慢讯：官方 qq 机器人所有人可使用群聊了。 [群聊+ChatGPT]](https://www.v2ex.com/t/1076038#reply0) | Thu Sep 26 2024 8:19 AM
+- 🥷 [华为云，要脸不，刚注册不到 24 小时就把个人实名注册信息随便泄露出去了](https://www.v2ex.com/t/1076037#reply6) | Thu Sep 26 2024 8:18 AM
+- 🐵 [&lt;HERMES&gt; - 赫耳墨斯 - 我的新 pt 站](https://www.v2ex.com/t/1076015#reply5) | Thu Sep 26 2024 7:15 AM<!-- v2ex:END -->
 
