@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [推荐下性价比高的在线文本转语音服务 tts，用作听小说](https://www.v2ex.com/t/1076387#reply0) | Fri Sep 27 2024 9:20 AM
-- 🤗 [萌新笔记本安装 Linux 接连受挫 斗胆前来请教前辈](https://www.v2ex.com/t/1076385#reply1) | Fri Sep 27 2024 9:16 AM
-- 🎭 [vs code 的智能提示补全不行呀](https://www.v2ex.com/t/1076378#reply1) | Fri Sep 27 2024 9:00 AM
-- 🥷 [国内运营商支持手机 esim 吗](https://www.v2ex.com/t/1076371#reply8) | Fri Sep 27 2024 8:43 AM
-- 🐵 [有钓鱼佬吗？](https://www.v2ex.com/t/1076360#reply4) | Fri Sep 27 2024 8:28 AM<!-- v2ex:END -->
+- 🥸 [分享：泛型+context 自动根据类型生成 ctx key](https://www.v2ex.com/t/1076403#reply0) | Fri Sep 27 2024 10:00 AM
+- 🤗 [windows 使用 IDEA，通过 maven 打包一个开源项目的求助](https://www.v2ex.com/t/1076400#reply2) | Fri Sep 27 2024 9:51 AM
+- 🎭 [推荐下性价比高的在线文本转语音服务 tts，用作听小说](https://www.v2ex.com/t/1076387#reply3) | Fri Sep 27 2024 9:20 AM
+- 🥷 [萌新笔记本安装 Linux 接连受挫 斗胆前来请教前辈](https://www.v2ex.com/t/1076385#reply19) | Fri Sep 27 2024 9:16 AM
+- 🐵 [Windows 输入法设置问题](https://www.v2ex.com/t/1076383#reply0) | Fri Sep 27 2024 9:14 AM<!-- v2ex:END -->
 
