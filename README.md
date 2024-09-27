@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 - 🥸 [关于某类用途程序开发的平台，价值性很大的探讨！](https://www.v2ex.com/t/1076254#reply0) | Fri Sep 27 2024 4:10 AM
 - 🤗 [Unraid 是否支持二级目录的共享设置](https://www.v2ex.com/t/1076253#reply0) | Fri Sep 27 2024 4:09 AM
 - 🎭 [org.slf4j:slf4j-android 大家推荐什么替代啊？](https://www.v2ex.com/t/1076227#reply0) | Fri Sep 27 2024 3:06 AM
-- 🥷 [向量数据库对中文模糊检索的支持如何](https://www.v2ex.com/t/1076221#reply0) | Fri Sep 27 2024 2:59 AM
+- 🥷 [向量数据库对中文模糊检索的支持如何](https://www.v2ex.com/t/1076221#reply1) | Fri Sep 27 2024 2:59 AM
 - 🐵 [如何对视频内容自动进行识别裁剪?](https://www.v2ex.com/t/1076206#reply1) | Fri Sep 27 2024 2:29 AM<!-- v2ex:END -->
 
