@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [iPad 扫码登录 mac wx 客户端， 扫码授权时 提取令牌 token ，做出有报酬](https://www.v2ex.com/t/1076356#reply0) | Fri Sep 27 2024 8:22 AM
-- 🤗 [BestBlogs.dev 精选文章 第 20 期](https://www.v2ex.com/t/1076348#reply0) | Fri Sep 27 2024 8:11 AM
-- 🎭 [请教下不同容量的硬盘可以组 zfs 吗？](https://www.v2ex.com/t/1076346#reply1) | Fri Sep 27 2024 8:06 AM
-- 🥷 [有生产环境用 ozone 的朋友吗 有没有遇到过什么坑？](https://www.v2ex.com/t/1076345#reply0) | Fri Sep 27 2024 8:03 AM
-- 🐵 [k8s nfs 文件系统解压慢的问题有办法解决吗？](https://www.v2ex.com/t/1076337#reply1) | Fri Sep 27 2024 7:48 AM<!-- v2ex:END -->
+- 🥸 [推荐下性价比高的在线文本转语音服务 tts，用作听小说](https://www.v2ex.com/t/1076387#reply0) | Fri Sep 27 2024 9:20 AM
+- 🤗 [萌新笔记本安装 Linux 接连受挫 斗胆前来请教前辈](https://www.v2ex.com/t/1076385#reply1) | Fri Sep 27 2024 9:16 AM
+- 🎭 [vs code 的智能提示补全不行呀](https://www.v2ex.com/t/1076378#reply1) | Fri Sep 27 2024 9:00 AM
+- 🥷 [国内运营商支持手机 esim 吗](https://www.v2ex.com/t/1076371#reply8) | Fri Sep 27 2024 8:43 AM
+- 🐵 [有钓鱼佬吗？](https://www.v2ex.com/t/1076360#reply4) | Fri Sep 27 2024 8:28 AM<!-- v2ex:END -->
 
