@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [基于硬盘做的图片和视频应用，比如我插上硬盘，硬盘内就能打开此应用去浏览照片和视频](https://www.v2ex.com/t/1076313#reply3) | Fri Sep 27 2024 6:51 AM
-- 🤗 [Cloudflare 的国际化](https://www.v2ex.com/t/1076306#reply3) | Fri Sep 27 2024 6:45 AM
-- 🎭 [腾讯云全线产品可做](https://www.v2ex.com/t/1076305#reply2) | Fri Sep 27 2024 6:42 AM
-- 🥷 [独立站点或开发者如果防御 DDoS 攻击？](https://www.v2ex.com/t/1076301#reply10) | Fri Sep 27 2024 6:29 AM
-- 🐵 [SpringBoot 有没有自动生成单元测试的工具](https://www.v2ex.com/t/1076291#reply1) | Fri Sep 27 2024 6:07 AM<!-- v2ex:END -->
+- 🥸 [iPad 扫码登录 mac wx 客户端， 扫码授权时 提取令牌 token ，做出有报酬](https://www.v2ex.com/t/1076356#reply0) | Fri Sep 27 2024 8:22 AM
+- 🤗 [BestBlogs.dev 精选文章 第 20 期](https://www.v2ex.com/t/1076348#reply0) | Fri Sep 27 2024 8:11 AM
+- 🎭 [请教下不同容量的硬盘可以组 zfs 吗？](https://www.v2ex.com/t/1076346#reply1) | Fri Sep 27 2024 8:06 AM
+- 🥷 [有生产环境用 ozone 的朋友吗 有没有遇到过什么坑？](https://www.v2ex.com/t/1076345#reply0) | Fri Sep 27 2024 8:03 AM
+- 🐵 [k8s nfs 文件系统解压慢的问题有办法解决吗？](https://www.v2ex.com/t/1076337#reply1) | Fri Sep 27 2024 7:48 AM<!-- v2ex:END -->
 
