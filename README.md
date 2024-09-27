@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [群晖 Drive 套件有平替的软件吗？](https://www.v2ex.com/t/1076461#reply0) | Fri Sep 27 2024 4:59 PM
+- 🥸 [群晖 Drive 套件有平替的软件吗？](https://www.v2ex.com/t/1076461#reply3) | Fri Sep 27 2024 4:59 PM
 - 🤗 [有人做 webpack 还原的么？](https://www.v2ex.com/t/1076458#reply1) | Fri Sep 27 2024 4:20 PM
-- 🎭 [随身 wifi 怎么修改 dns 让手机开启 wifi calling](https://www.v2ex.com/t/1076455#reply0) | Fri Sep 27 2024 3:44 PM
+- 🎭 [随身 wifi 怎么修改 dns 让手机开启 wifi calling](https://www.v2ex.com/t/1076455#reply1) | Fri Sep 27 2024 3:44 PM
 - 🥷 [大家平时都去 stackoverflow 浏览什么：](https://www.v2ex.com/t/1076452#reply1) | Fri Sep 27 2024 3:37 PM
 - 🐵 [time machine 备份速度优化技巧求助： 备份到 pve 里的群晖 nas](https://www.v2ex.com/t/1076443#reply1) | Fri Sep 27 2024 2:46 PM<!-- v2ex:END -->
 
