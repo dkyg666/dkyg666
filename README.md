@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [vscode 的 autopep8 插件怎么了？ 100%CPU](https://www.v2ex.com/t/1076420#reply1) | Fri Sep 27 2024 12:24 PM
-- 🤗 [第三方 rom DerpFest android 15 已经出来了。](https://www.v2ex.com/t/1076413#reply4) | Fri Sep 27 2024 11:22 AM
-- 🎭 [装了 Windows 的主机，要用 Linux 跑大模型，推荐 wsl 还是 Ubuntu 双系统来跑呢？](https://www.v2ex.com/t/1076410#reply6) | Fri Sep 27 2024 11:02 AM
-- 🥷 [分享：泛型+context 自动根据类型生成 ctx key](https://www.v2ex.com/t/1076403#reply0) | Fri Sep 27 2024 10:00 AM
-- 🐵 [windows 使用 IDEA，通过 maven 打包一个开源项目的求助](https://www.v2ex.com/t/1076400#reply7) | Fri Sep 27 2024 9:51 AM<!-- v2ex:END -->
+- 🥸 [time machine 备份速度优化技巧求助： 备份到 pve 里的群晖 nas](https://www.v2ex.com/t/1076443#reply1) | Fri Sep 27 2024 2:46 PM
+- 🤗 [为什么 Serverless 生态目前普遍支持最好的是 JavaScript？](https://www.v2ex.com/t/1076440#reply9) | Fri Sep 27 2024 2:36 PM
+- 🎭 [vscode 的 autopep8 插件怎么了？ 100%CPU](https://www.v2ex.com/t/1076420#reply1) | Fri Sep 27 2024 12:24 PM
+- 🥷 [第三方 rom DerpFest android 15 已经出来了。](https://www.v2ex.com/t/1076413#reply4) | Fri Sep 27 2024 11:22 AM
+- 🐵 [装了 Windows 的主机，要用 Linux 跑大模型，推荐 wsl 还是 Ubuntu 双系统来跑呢？](https://www.v2ex.com/t/1076410#reply8) | Fri Sep 27 2024 11:02 AM<!-- v2ex:END -->
 
