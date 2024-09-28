@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [今晚电脑自动升级到 win11 了，结果 refs 系统的 D 盘打不开了](https://www.v2ex.com/t/1076624#reply1) | Sat Sep 28 2024 3:03 PM
-- 🤗 [ColorOS 的 5 个后台限制 OPPO 的工程师都是单线程超人吗](https://www.v2ex.com/t/1076622#reply3) | Sat Sep 28 2024 2:46 PM
-- 🎭 [IP/DNS Detect 检测 DNS 泄露](https://www.v2ex.com/t/1076618#reply1) | Sat Sep 28 2024 2:15 PM
-- 🥷 [求推荐轻量级日志 GUI 平台](https://www.v2ex.com/t/1076615#reply2) | Sat Sep 28 2024 2:02 PM
-- 🐵 [无联网主机远程控制](https://www.v2ex.com/t/1076595#reply6) | Sat Sep 28 2024 12:20 PM<!-- v2ex:END -->
+- 🥸 [[疑问求解] 刚买了群晖 DS423+和 16tb+12tb 两块盘（酷狼翻新和全新银河 exos）](https://www.v2ex.com/t/1076637#reply0) | Sat Sep 28 2024 5:11 PM
+- 🤗 [今晚电脑自动升级到 win11 了，结果 refs 系统的 D 盘打不开了](https://www.v2ex.com/t/1076624#reply1) | Sat Sep 28 2024 3:03 PM
+- 🎭 [ColorOS 的 5 个后台限制 OPPO 的工程师都是单线程超人吗](https://www.v2ex.com/t/1076622#reply3) | Sat Sep 28 2024 2:46 PM
+- 🥷 [IP/DNS Detect 检测 DNS 泄露](https://www.v2ex.com/t/1076618#reply1) | Sat Sep 28 2024 2:15 PM
+- 🐵 [求推荐轻量级日志 GUI 平台](https://www.v2ex.com/t/1076615#reply3) | Sat Sep 28 2024 2:02 PM<!-- v2ex:END -->
 
