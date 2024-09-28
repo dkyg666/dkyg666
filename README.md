@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [求推荐轻量级日志 GUI 平台](https://www.v2ex.com/t/1076615#reply0) | Sat Sep 28 2024 2:02 PM
-- 🤗 [无联网主机远程控制](https://www.v2ex.com/t/1076595#reply4) | Sat Sep 28 2024 12:20 PM
-- 🎭 [我做了一个浏览器聊天扩展，意指为每个网站增加聊天室功能](https://www.v2ex.com/t/1076581#reply7) | Sat Sep 28 2024 11:12 AM
-- 🥷 [代理检测：在线检测您是否在使用 Clash](https://www.v2ex.com/t/1076579#reply46) | Sat Sep 28 2024 10:55 AM
-- 🐵 [有没有佬会用 lidarr](https://www.v2ex.com/t/1076577#reply0) | Sat Sep 28 2024 10:22 AM<!-- v2ex:END -->
+- 🥸 [今晚电脑自动升级到 win11 了，结果 refs 系统的 D 盘打不开了](https://www.v2ex.com/t/1076624#reply0) | Sat Sep 28 2024 3:03 PM
+- 🤗 [ColorOS 的 5 个后台限制 OPPO 的工程师都是单线程超人吗](https://www.v2ex.com/t/1076622#reply2) | Sat Sep 28 2024 2:46 PM
+- 🎭 [IP/DNS Detect 检测 DNS 泄露](https://www.v2ex.com/t/1076618#reply0) | Sat Sep 28 2024 2:15 PM
+- 🥷 [求推荐轻量级日志 GUI 平台](https://www.v2ex.com/t/1076615#reply2) | Sat Sep 28 2024 2:02 PM
+- 🐵 [无联网主机远程控制](https://www.v2ex.com/t/1076595#reply6) | Sat Sep 28 2024 12:20 PM<!-- v2ex:END -->
 
