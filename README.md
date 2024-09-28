@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [有可以刷完系统回锁 bl 的手机吗](https://www.v2ex.com/t/1076487#reply2) | Sat Sep 28 2024 2:00 AM
-- 🤗 [Arch 前途/钱途 加分， Arch Linux 宣布与 Valve 直接合作](https://www.v2ex.com/t/1076475#reply4) | Sat Sep 28 2024 1:10 AM
-- 🎭 [老挝 2.5 年牢端求捞](https://www.v2ex.com/t/1076473#reply20) | Sat Sep 28 2024 1:04 AM
+- 🥸 [有可以刷完系统回锁 bl 的手机吗](https://www.v2ex.com/t/1076487#reply3) | Sat Sep 28 2024 2:00 AM
+- 🤗 [Arch 前途/钱途 加分， Arch Linux 宣布与 Valve 直接合作](https://www.v2ex.com/t/1076475#reply5) | Sat Sep 28 2024 1:10 AM
+- 🎭 [老挝 2.5 年牢端求捞](https://www.v2ex.com/t/1076473#reply23) | Sat Sep 28 2024 1:04 AM
 - 🥷 [凹语言中使用 Chrome 本地版 AI](https://www.v2ex.com/t/1076469#reply0) | Fri Sep 27 2024 11:12 PM
 - 🐵 [群晖 Drive 套件有平替的软件吗？](https://www.v2ex.com/t/1076461#reply12) | Fri Sep 27 2024 4:59 PM<!-- v2ex:END -->
 
