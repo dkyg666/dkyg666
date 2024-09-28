@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [mysql 有没有什么中间件能模拟 mongodb?](https://www.v2ex.com/t/1076510#reply3) | Sat Sep 28 2024 3:52 AM
-- 🤗 [ChatGPT 输入完账号后，跳转了重置密码](https://www.v2ex.com/t/1076504#reply3) | Sat Sep 28 2024 3:38 AM
-- 🎭 [百度云确实会屏蔽加密文件](https://www.v2ex.com/t/1076501#reply18) | Sat Sep 28 2024 3:29 AM
-- 🥷 [有可以刷完系统回锁 bl 的手机吗](https://www.v2ex.com/t/1076487#reply3) | Sat Sep 28 2024 2:00 AM
-- 🐵 [Arch 前途/钱途 加分， Arch Linux 宣布与 Valve 直接合作](https://www.v2ex.com/t/1076475#reply6) | Sat Sep 28 2024 1:10 AM<!-- v2ex:END -->
+- 🥸 [付费解决微信小程序报错： TypeError: Cannot read property &#39;id&#39; of undefined](https://www.v2ex.com/t/1076522#reply5) | Sat Sep 28 2024 5:27 AM
+- 🤗 [mysql 有没有什么中间件能模拟 mongodb?](https://www.v2ex.com/t/1076510#reply5) | Sat Sep 28 2024 3:52 AM
+- 🎭 [ChatGPT 输入完账号后，跳转了重置密码](https://www.v2ex.com/t/1076504#reply4) | Sat Sep 28 2024 3:38 AM
+- 🥷 [百度云确实会屏蔽加密文件](https://www.v2ex.com/t/1076501#reply19) | Sat Sep 28 2024 3:29 AM
+- 🐵 [有可以刷完系统回锁 bl 的手机吗](https://www.v2ex.com/t/1076487#reply3) | Sat Sep 28 2024 2:00 AM<!-- v2ex:END -->
 
