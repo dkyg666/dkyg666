@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [无联网主机远程控制](https://www.v2ex.com/t/1076595#reply1) | Sat Sep 28 2024 12:20 PM
-- 🤗 [我做了一个浏览器聊天扩展，意指为每个网站增加聊天室功能](https://www.v2ex.com/t/1076581#reply4) | Sat Sep 28 2024 11:12 AM
-- 🎭 [代理检测：在线检测您是否在使用 Clash](https://www.v2ex.com/t/1076579#reply37) | Sat Sep 28 2024 10:55 AM
-- 🥷 [有没有佬会用 lidarr](https://www.v2ex.com/t/1076577#reply0) | Sat Sep 28 2024 10:22 AM
-- 🐵 [求助：请问各位 AdSense 到了 10 美金之后的 PIN 码邮寄邮件怎么提高收到率](https://www.v2ex.com/t/1076576#reply6) | Sat Sep 28 2024 10:21 AM<!-- v2ex:END -->
+- 🥸 [A 股牛市来了](https://www.v2ex.com/t/1076602#reply2) | Sat Sep 28 2024 12:42 PM
+- 🤗 [无联网主机远程控制](https://www.v2ex.com/t/1076595#reply3) | Sat Sep 28 2024 12:20 PM
+- 🎭 [我做了一个浏览器聊天扩展，意指为每个网站增加聊天室功能](https://www.v2ex.com/t/1076581#reply5) | Sat Sep 28 2024 11:12 AM
+- 🥷 [代理检测：在线检测您是否在使用 Clash](https://www.v2ex.com/t/1076579#reply42) | Sat Sep 28 2024 10:55 AM
+- 🐵 [有没有佬会用 lidarr](https://www.v2ex.com/t/1076577#reply0) | Sat Sep 28 2024 10:22 AM<!-- v2ex:END -->
 
