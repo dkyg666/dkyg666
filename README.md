@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [c++多线程如何配置环境看线程的调试信息](https://www.v2ex.com/t/1076956#reply0) | Sun Sep 29 2024 4:18 PM
-- 🤗 [IDEA 在 Mac 下如何用命令行打开：](https://www.v2ex.com/t/1076955#reply0) | Sun Sep 29 2024 4:17 PM
+- 🥸 [c++多线程如何配置环境看线程的调试信息](https://www.v2ex.com/t/1076956#reply1) | Sun Sep 29 2024 4:18 PM
+- 🤗 [IDEA 在 Mac 下如何用命令行打开：](https://www.v2ex.com/t/1076955#reply2) | Sun Sep 29 2024 4:17 PM
 - 🎭 [日行一善 之给开发文档纠错](https://www.v2ex.com/t/1076948#reply0) | Sun Sep 29 2024 3:19 PM
 - 🥷 [NAS 方案求指点](https://www.v2ex.com/t/1076942#reply0) | Sun Sep 29 2024 2:32 PM
 - 🐵 [子模块依赖父模块后调用 maven 的 clean 命令报错问题求指点](https://www.v2ex.com/t/1076941#reply1) | Sun Sep 29 2024 2:31 PM<!-- v2ex:END -->
