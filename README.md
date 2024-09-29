@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [NAS 方案求指点](https://www.v2ex.com/t/1076942#reply0) | Sun Sep 29 2024 2:32 PM
-- 🤗 [子模块依赖父模块后调用 maven 的 clean 命令报错问题求指点](https://www.v2ex.com/t/1076941#reply1) | Sun Sep 29 2024 2:31 PM
-- 🎭 [华为 pad 是否能安装安卓应用？？](https://www.v2ex.com/t/1076940#reply6) | Sun Sep 29 2024 2:29 PM
-- 🥷 [直接 SHA1&lpar;签名明文后面拼接密钥&rpar; 和 HMAC-SHA1 安全性有区别吗？为什么？](https://www.v2ex.com/t/1076930#reply1) | Sun Sep 29 2024 1:39 PM
-- 🐵 [求助：前辈们可以分享一下你们觉得比较良好写 golang 代码的习惯吗](https://www.v2ex.com/t/1076928#reply7) | Sun Sep 29 2024 1:25 PM<!-- v2ex:END -->
+- 🥸 [c++多线程如何配置环境看线程的调试信息](https://www.v2ex.com/t/1076956#reply0) | Sun Sep 29 2024 4:18 PM
+- 🤗 [IDEA 在 Mac 下如何用命令行打开：](https://www.v2ex.com/t/1076955#reply0) | Sun Sep 29 2024 4:17 PM
+- 🎭 [日行一善 之给开发文档纠错](https://www.v2ex.com/t/1076948#reply0) | Sun Sep 29 2024 3:19 PM
+- 🥷 [NAS 方案求指点](https://www.v2ex.com/t/1076942#reply0) | Sun Sep 29 2024 2:32 PM
+- 🐵 [子模块依赖父模块后调用 maven 的 clean 命令报错问题求指点](https://www.v2ex.com/t/1076941#reply1) | Sun Sep 29 2024 2:31 PM<!-- v2ex:END -->
 
