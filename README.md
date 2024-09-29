@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <!-- v2ex:START -->
 - 🥸 [Clash 检测工具的原理](https://www.v2ex.com/t/1076961#reply0) | Sun Sep 29 2024 8:02 PM
 - 🤗 [c++多线程如何配置环境看线程的调试信息](https://www.v2ex.com/t/1076956#reply6) | Sun Sep 29 2024 4:18 PM
-- 🎭 [IDEA 在 Mac 下如何用命令行打开：](https://www.v2ex.com/t/1076955#reply4) | Sun Sep 29 2024 4:17 PM
+- 🎭 [IDEA 在 Mac 下如何用命令行打开：](https://www.v2ex.com/t/1076955#reply5) | Sun Sep 29 2024 4:17 PM
 - 🥷 [日行一善 之给开发文档纠错](https://www.v2ex.com/t/1076948#reply0) | Sun Sep 29 2024 3:19 PM
 - 🐵 [NAS 方案求指点](https://www.v2ex.com/t/1076942#reply3) | Sun Sep 29 2024 2:32 PM<!-- v2ex:END -->
 
