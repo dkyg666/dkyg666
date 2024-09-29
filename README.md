@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [到底什么是奋斗](https://www.v2ex.com/t/1076867#reply26) | Sun Sep 29 2024 8:42 AM
-- 🤗 [2024 年了，网站独立评论系统还有人用吗？](https://www.v2ex.com/t/1076862#reply3) | Sun Sep 29 2024 8:30 AM
-- 🎭 [关于自己做一个笔记网站（涉及到中英文翻译&rpar;](https://www.v2ex.com/t/1076856#reply0) | Sun Sep 29 2024 8:11 AM
-- 🥷 [controller 的 url 要区分大小写不？](https://www.v2ex.com/t/1076850#reply15) | Sun Sep 29 2024 8:04 AM
-- 🐵 [搞一台 4090 服务器放客厅怎么样？](https://www.v2ex.com/t/1076836#reply30) | Sun Sep 29 2024 7:20 AM<!-- v2ex:END -->
+- 🥸 [专业的 Claude 中转 api 平台](https://www.v2ex.com/t/1076898#reply3) | Sun Sep 29 2024 10:12 AM
+- 🤗 [为 DOH 增加 edns_client_subnet 获得更好的 CDN 体验](https://www.v2ex.com/t/1076892#reply0) | Sun Sep 29 2024 10:00 AM
+- 🎭 [到底什么是奋斗](https://www.v2ex.com/t/1076867#reply36) | Sun Sep 29 2024 8:42 AM
+- 🥷 [2024 年了，网站独立评论系统还有人用吗？](https://www.v2ex.com/t/1076862#reply13) | Sun Sep 29 2024 8:30 AM
+- 🐵 [关于自己做一个笔记网站（涉及到中英文翻译&rpar;](https://www.v2ex.com/t/1076856#reply0) | Sun Sep 29 2024 8:11 AM<!-- v2ex:END -->
 
