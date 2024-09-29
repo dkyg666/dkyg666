@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [[3 折租 GPU] 转让谷歌云算力， GPU&amp;服务器等都可用， 100k 美元，无门槛](https://www.v2ex.com/t/1076916#reply0) | Sun Sep 29 2024 12:28 PM
-- 🤗 [NAStool 如何添加非私有站点](https://www.v2ex.com/t/1076912#reply1) | Sun Sep 29 2024 11:30 AM
-- 🎭 [求 AI 生图教程推荐, 以及学习路线 Stable Diffusion | Flux](https://www.v2ex.com/t/1076911#reply1) | Sun Sep 29 2024 11:29 AM
-- 🥷 [安卓系统是否存在滥用软键盘关闭的功能](https://www.v2ex.com/t/1076906#reply2) | Sun Sep 29 2024 11:12 AM
-- 🐵 [为 DOH 增加 edns_client_subnet 获得更好的 CDN 体验](https://www.v2ex.com/t/1076892#reply0) | Sun Sep 29 2024 10:00 AM<!-- v2ex:END -->
+- 🥸 [以明文形式存储数亿个密码， Meta 被罚 1 亿美元](https://www.v2ex.com/t/1076926#reply1) | Sun Sep 29 2024 1:07 PM
+- 🤗 [[3 折租 GPU] 转让谷歌云算力， GPU&amp;服务器等都可用， 100k 美元，无门槛](https://www.v2ex.com/t/1076916#reply0) | Sun Sep 29 2024 12:28 PM
+- 🎭 [NAStool 如何添加非私有站点](https://www.v2ex.com/t/1076912#reply2) | Sun Sep 29 2024 11:30 AM
+- 🥷 [求 AI 生图教程推荐, 以及学习路线 Stable Diffusion | Flux](https://www.v2ex.com/t/1076911#reply3) | Sun Sep 29 2024 11:29 AM
+- 🐵 [安卓系统是否存在滥用软键盘关闭的功能](https://www.v2ex.com/t/1076906#reply2) | Sun Sep 29 2024 11:12 AM<!-- v2ex:END -->
 
