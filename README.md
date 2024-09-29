@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [如何自己打包 win 系统镜像？](https://www.v2ex.com/t/1076756#reply6) | Sun Sep 29 2024 3:31 AM
-- 🤗 [请教爬虫代理方案，成本太高了！](https://www.v2ex.com/t/1076743#reply9) | Sun Sep 29 2024 3:05 AM
-- 🎭 [React 绘制类似 Git 版本分支提交图时，出现无法显示分支图的 问题](https://www.v2ex.com/t/1076738#reply1) | Sun Sep 29 2024 3:03 AM
-- 🥷 [claude api 和 gemini api，有没有类似于 Azure OpenAI 服务一样稳定的大陆可访问渠道？](https://www.v2ex.com/t/1076724#reply2) | Sun Sep 29 2024 2:45 AM
-- 🐵 [&lpar;&rpar; =&gt; void = &lpar;&rpar;: void =&gt;是什么意思：](https://www.v2ex.com/t/1076716#reply4) | Sun Sep 29 2024 2:29 AM<!-- v2ex:END -->
+- 🥸 [这个应用是为旧版 Android 打造的,因此不含最新 的隐私保护功能](https://www.v2ex.com/t/1076803#reply1) | Sun Sep 29 2024 5:59 AM
+- 🤗 [我想了解一个 Linux 发行版是怎么构建的，在哪里能看到 Debian、Fedora、Arch 这类发行版从源码、补丁到发布到软件源和打包 ISO 的构建流程？](https://www.v2ex.com/t/1076796#reply5) | Sun Sep 29 2024 5:46 AM
+- 🎭 [市占率这么高的 Windows 7 为什么没有人做类似 KernelEx 这样的项目？](https://www.v2ex.com/t/1076793#reply3) | Sun Sep 29 2024 5:38 AM
+- 🥷 [如何自己打包 win 系统镜像？](https://www.v2ex.com/t/1076756#reply8) | Sun Sep 29 2024 3:31 AM
+- 🐵 [请教爬虫代理方案，成本太高了！](https://www.v2ex.com/t/1076743#reply13) | Sun Sep 29 2024 3:05 AM<!-- v2ex:END -->
 
