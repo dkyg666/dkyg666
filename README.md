@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [有什么硬件可以把某个声音推送到厨房播放](https://www.v2ex.com/t/1077138#reply6) | Mon Sep 30 2024 8:04 AM
-- 🤗 [🎉 husky-rs： Rust 版 Git Hooks 工具](https://www.v2ex.com/t/1077125#reply2) | Mon Sep 30 2024 7:35 AM
-- 🎭 [处理 Flutter 在 Xcode16 环境无法构建问题](https://www.v2ex.com/t/1077124#reply0) | Mon Sep 30 2024 7:26 AM
-- 🥷 [2 分钟完成文件上传接口， 3 分钟完成一个 CURD 接口，轻量框架 fast-qjs（开源）](https://www.v2ex.com/t/1077106#reply0) | Mon Sep 30 2024 6:50 AM
-- 🐵 [用 AWS 部署 Twikoo 评论和说说系统](https://www.v2ex.com/t/1077076#reply1) | Mon Sep 30 2024 4:51 AM<!-- v2ex:END -->
+- 🥸 [分享并开源一个自己写的电视直播 APP - WebView 电视](https://www.v2ex.com/t/1077160#reply1) | Mon Sep 30 2024 9:08 AM
+- 🤗 [各位 V 友大佬们下午好，请教个算法的小白问题，关于 SM2 算法。](https://www.v2ex.com/t/1077150#reply3) | Mon Sep 30 2024 8:39 AM
+- 🎭 [有什么硬件可以把某个声音推送到厨房播放](https://www.v2ex.com/t/1077138#reply20) | Mon Sep 30 2024 8:04 AM
+- 🥷 [🎉 husky-rs： Rust 版 Git Hooks 工具](https://www.v2ex.com/t/1077125#reply3) | Mon Sep 30 2024 7:35 AM
+- 🐵 [处理 Flutter 在 Xcode16 环境无法构建问题](https://www.v2ex.com/t/1077124#reply1) | Mon Sep 30 2024 7:26 AM<!-- v2ex:END -->
 
