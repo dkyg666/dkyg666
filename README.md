@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [分享并开源一个自己写的电视直播 APP - WebView 电视](https://www.v2ex.com/t/1077160#reply1) | Mon Sep 30 2024 9:08 AM
-- 🤗 [各位 V 友大佬们下午好，请教个算法的小白问题，关于 SM2 算法。](https://www.v2ex.com/t/1077150#reply3) | Mon Sep 30 2024 8:39 AM
-- 🎭 [有什么硬件可以把某个声音推送到厨房播放](https://www.v2ex.com/t/1077138#reply20) | Mon Sep 30 2024 8:04 AM
-- 🥷 [🎉 husky-rs： Rust 版 Git Hooks 工具](https://www.v2ex.com/t/1077125#reply3) | Mon Sep 30 2024 7:35 AM
-- 🐵 [处理 Flutter 在 Xcode16 环境无法构建问题](https://www.v2ex.com/t/1077124#reply1) | Mon Sep 30 2024 7:26 AM<!-- v2ex:END -->
+- 🥸 [🔥 重磅推出！ Innicdata AI 数据库工具——全面免费开放！每月 1000 次 AI 调用免费享！](https://www.v2ex.com/t/1077179#reply0) | Mon Sep 30 2024 10:16 AM
+- 🤗 [Win11 长时间不关机导致，资源管理器卡死，求助](https://www.v2ex.com/t/1077177#reply1) | Mon Sep 30 2024 10:11 AM
+- 🎭 [请教一个解密方面的问题](https://www.v2ex.com/t/1077174#reply3) | Mon Sep 30 2024 9:47 AM
+- 🥷 [JDK 8、11、17、21](https://www.v2ex.com/t/1077172#reply0) | Mon Sep 30 2024 9:45 AM
+- 🐵 [分享并开源一个自己写的电视直播 APP - WebView 电视](https://www.v2ex.com/t/1077160#reply7) | Mon Sep 30 2024 9:08 AM<!-- v2ex:END -->
 
