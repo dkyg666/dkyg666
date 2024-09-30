@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [[求助] macos15 新增了 iPhone 镜像功能， app 如何检测当前是否在镜像中](https://www.v2ex.com/t/1077016#reply3) | Mon Sep 30 2024 2:12 AM
-- 🤗 [如果把 GitHub 的 GIST 作为一个大文件存储， 并且用 api 提供出来有大量下载访问会被封号吗？](https://www.v2ex.com/t/1077012#reply6) | Mon Sep 30 2024 2:06 AM
-- 🎭 [大佬们， Spring 和 Spring Boot 和 Spring Cloud 这 3 个怎么学啊，是找开源项目跟着实战吗，还是怎么学啊](https://www.v2ex.com/t/1076993#reply19) | Mon Sep 30 2024 1:34 AM
-- 🥷 [分享一套 chrome 插件的模板 Plasmo+Typescript+Tailwind+Shadcn](https://www.v2ex.com/t/1076989#reply4) | Mon Sep 30 2024 1:22 AM
-- 🐵 [做了个小站 Zzo,有几点迷惑,真心请教](https://www.v2ex.com/t/1076966#reply13) | Mon Sep 30 2024 12:13 AM<!-- v2ex:END -->
+- 🥸 [Thymeleaf 做的系统想做前后端分离有大神给个方案吗？](https://www.v2ex.com/t/1077045#reply1) | Mon Sep 30 2024 3:12 AM
+- 🤗 [[求助] macos15 新增了 iPhone 镜像功能， app 如何检测当前是否在镜像中](https://www.v2ex.com/t/1077016#reply4) | Mon Sep 30 2024 2:12 AM
+- 🎭 [如果把 GitHub 的 GIST 作为一个大文件存储， 并且用 api 提供出来有大量下载访问会被封号吗？](https://www.v2ex.com/t/1077012#reply10) | Mon Sep 30 2024 2:06 AM
+- 🥷 [大佬们， Spring 和 Spring Boot 和 Spring Cloud 这 3 个怎么学啊，是找开源项目跟着实战吗，还是怎么学啊](https://www.v2ex.com/t/1076993#reply32) | Mon Sep 30 2024 1:34 AM
+- 🐵 [分享一套 chrome 插件的模板 Plasmo+Typescript+Tailwind+Shadcn](https://www.v2ex.com/t/1076989#reply4) | Mon Sep 30 2024 1:22 AM<!-- v2ex:END -->
 
