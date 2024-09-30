@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [Clash 检测工具的原理](https://www.v2ex.com/t/1076961#reply0) | Sun Sep 29 2024 8:02 PM
-- 🤗 [c++多线程如何配置环境看线程的调试信息](https://www.v2ex.com/t/1076956#reply6) | Sun Sep 29 2024 4:18 PM
-- 🎭 [IDEA 在 Mac 下如何用命令行打开：](https://www.v2ex.com/t/1076955#reply5) | Sun Sep 29 2024 4:17 PM
-- 🥷 [日行一善 之给开发文档纠错](https://www.v2ex.com/t/1076948#reply0) | Sun Sep 29 2024 3:19 PM
-- 🐵 [NAS 方案求指点](https://www.v2ex.com/t/1076942#reply3) | Sun Sep 29 2024 2:32 PM<!-- v2ex:END -->
+- 🥸 [大佬们， Spring 和 Spring Boot 和 Spring Cloud 这 3 个怎么学啊，是找开源项目跟着实战吗，还是怎么学啊](https://www.v2ex.com/t/1076993#reply2) | Mon Sep 30 2024 1:34 AM
+- 🤗 [分享一套 chrome 插件的模板 Plasmo+Typescript+Tailwind+Shadcn](https://www.v2ex.com/t/1076989#reply1) | Mon Sep 30 2024 1:22 AM
+- 🎭 [做了个小站 Zzo,有几点迷惑,真心请教](https://www.v2ex.com/t/1076966#reply8) | Mon Sep 30 2024 12:13 AM
+- 🥷 [Clash 检测工具的原理](https://www.v2ex.com/t/1076961#reply14) | Sun Sep 29 2024 8:02 PM
+- 🐵 [c++多线程如何配置环境看线程的调试信息](https://www.v2ex.com/t/1076956#reply7) | Sun Sep 29 2024 4:18 PM<!-- v2ex:END -->
 
