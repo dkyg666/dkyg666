@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [Linux mv 拷贝文件夹时移动文件导致文件丢失](https://www.v2ex.com/t/1077345#reply0) | Tue Oct 01 2024 7:27 PM
+- 🥸 [Linux mv 拷贝文件夹时移动文件导致文件丢失](https://www.v2ex.com/t/1077345#reply1) | Tue Oct 01 2024 7:27 PM
 - 🤗 [微软将开始官方提供 ARM 版 Windows .iso 安装映像](https://www.v2ex.com/t/1077343#reply3) | Tue Oct 01 2024 5:38 PM
 - 🎭 [用户中心，移动端 H5 脚手架求推介](https://www.v2ex.com/t/1077323#reply2) | Tue Oct 01 2024 2:13 PM
 - 🥷 [分享一个独立开发/出海开发技术栈及工具收录](https://www.v2ex.com/t/1077314#reply2) | Tue Oct 01 2024 1:38 PM
