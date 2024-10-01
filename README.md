@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 ### v2ex-全站热点
 <!-- v2ex:START -->
 - 🥸 [妄想 Github Starstruck x3 &lpar;512 个星星&rpar;](https://www.v2ex.com/t/1077262#reply2) | Tue Oct 01 2024 4:59 AM
-- 🤗 [系统非 root 账号，安装了 xxxapp 后，运行权限是属于 root? 还是所有 users?](https://www.v2ex.com/t/1077260#reply3) | Tue Oct 01 2024 4:19 AM
-- 🎭 [NAS 升级求指导](https://www.v2ex.com/t/1077248#reply2) | Tue Oct 01 2024 3:30 AM
-- 🥷 [疑似某团信息泄露，昨天出现不少外卡被盗刷](https://www.v2ex.com/t/1077233#reply37) | Tue Oct 01 2024 12:23 AM
-- 🐵 [求推荐个轻薄手机](https://www.v2ex.com/t/1077228#reply26) | Mon Sep 30 2024 11:15 PM<!-- v2ex:END -->
+- 🤗 [系统非 root 账号，安装了 xxxapp 后，运行权限是属于 root? 还是所有 users?](https://www.v2ex.com/t/1077260#reply4) | Tue Oct 01 2024 4:19 AM
+- 🎭 [NAS 升级求指导](https://www.v2ex.com/t/1077248#reply3) | Tue Oct 01 2024 3:30 AM
+- 🥷 [疑似某团信息泄露，昨天出现不少外卡被盗刷](https://www.v2ex.com/t/1077233#reply39) | Tue Oct 01 2024 12:23 AM
+- 🐵 [求推荐个轻薄手机](https://www.v2ex.com/t/1077228#reply28) | Mon Sep 30 2024 11:15 PM<!-- v2ex:END -->
 
