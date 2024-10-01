@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [求推荐个轻薄手机](https://www.v2ex.com/t/1077228#reply9) | Mon Sep 30 2024 11:15 PM
-- 🤗 [后端学前端的无力感](https://www.v2ex.com/t/1077205#reply36) | Mon Sep 30 2024 1:57 PM
-- 🎭 [老人家玩手机扣了 120 的话费](https://www.v2ex.com/t/1077204#reply40) | Mon Sep 30 2024 1:30 PM
-- 🥷 [独立开发周记 86：大喜&amp;大喜](https://www.v2ex.com/t/1077201#reply1) | Mon Sep 30 2024 1:15 PM
-- 🐵 [请问一下， macOS 上用于显示资源使用/网络状态的这是什么软件？还有其他值得推荐的吗？](https://www.v2ex.com/t/1077195#reply10) | Mon Sep 30 2024 12:22 PM<!-- v2ex:END -->
+- 🥸 [系统非 root 账号，安装了 xxxapp 后，运行权限是属于 root? 还是所有 users?](https://www.v2ex.com/t/1077260#reply0) | Tue Oct 01 2024 4:19 AM
+- 🤗 [NAS 升级求指导](https://www.v2ex.com/t/1077248#reply1) | Tue Oct 01 2024 3:30 AM
+- 🎭 [疑似某团信息泄露，昨天出现不少外卡被盗刷](https://www.v2ex.com/t/1077233#reply26) | Tue Oct 01 2024 12:23 AM
+- 🥷 [求推荐个轻薄手机](https://www.v2ex.com/t/1077228#reply19) | Mon Sep 30 2024 11:15 PM
+- 🐵 [后端学前端的无力感](https://www.v2ex.com/t/1077205#reply37) | Mon Sep 30 2024 1:57 PM<!-- v2ex:END -->
 
