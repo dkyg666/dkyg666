@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [cmake 交叉编译有大佬懂吗？](https://www.v2ex.com/t/1077285#reply1) | Tue Oct 01 2024 8:46 AM
-- 🤗 [免费资源搭建 api 真好玩](https://www.v2ex.com/t/1077284#reply0) | Tue Oct 01 2024 8:31 AM
-- 🎭 [妄想 Github Starstruck x3 &lpar;512 个星星&rpar;](https://www.v2ex.com/t/1077262#reply2) | Tue Oct 01 2024 4:59 AM
-- 🥷 [系统非 root 账号，安装了 xxxapp 后，运行权限是属于 root? 还是所有 users?](https://www.v2ex.com/t/1077260#reply4) | Tue Oct 01 2024 4:19 AM
-- 🐵 [NAS 升级求指导](https://www.v2ex.com/t/1077248#reply7) | Tue Oct 01 2024 3:30 AM<!-- v2ex:END -->
+- 🥸 [求推荐廉价服务器](https://www.v2ex.com/t/1077295#reply15) | Tue Oct 01 2024 10:39 AM
+- 🤗 [cmake 交叉编译有大佬懂吗？](https://www.v2ex.com/t/1077285#reply6) | Tue Oct 01 2024 8:46 AM
+- 🎭 [免费资源搭建 api 真好玩](https://www.v2ex.com/t/1077284#reply0) | Tue Oct 01 2024 8:31 AM
+- 🥷 [妄想 Github Starstruck x3 &lpar;512 个星星&rpar;](https://www.v2ex.com/t/1077262#reply2) | Tue Oct 01 2024 4:59 AM
+- 🐵 [系统非 root 账号，安装了 xxxapp 后，运行权限是属于 root? 还是所有 users?](https://www.v2ex.com/t/1077260#reply4) | Tue Oct 01 2024 4:19 AM<!-- v2ex:END -->
 
