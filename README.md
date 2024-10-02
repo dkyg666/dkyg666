@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [claude 3.5 sonnet 有多强？我佩服了！](https://www.v2ex.com/t/1077399#reply2) | Wed Oct 02 2024 7:07 AM
-- 🤗 [想收购一套包含包含阅后即焚的 IM 软件](https://www.v2ex.com/t/1077397#reply2) | Wed Oct 02 2024 6:41 AM
-- 🎭 [Windows11 24H2 各种正式版下载](https://www.v2ex.com/t/1077394#reply0) | Wed Oct 02 2024 4:58 AM
-- 🥷 [SpringBoot 项目启动报 Error starting Tomcat context. Exception 问题求解决](https://www.v2ex.com/t/1077393#reply2) | Wed Oct 02 2024 4:56 AM
-- 🐵 [区块链 blockchain 有&lpar;钱&rpar;前景吗?](https://www.v2ex.com/t/1077392#reply5) | Wed Oct 02 2024 4:18 AM<!-- v2ex:END -->
+- 🥸 [备份 ext4 分区的服务器应该用什么工具？ tar -czvp 还是 GHOST 好？问 GPT4 让我用 dd 命令，带 trim 的 SSD 空扇区里面的数据都是 00 ，这样我还要再压缩一遍来把 00 排除掉，还不如用 GHOST](https://www.v2ex.com/t/1077411#reply0) | Wed Oct 02 2024 8:21 AM
+- 🤗 [带路由模块的 SPA 跳转 id=&quot;example&quot; 这个 div 的最佳实践是什么？例如 Angular，用 #example 直接跳转到了 ./example 这个路由](https://www.v2ex.com/t/1077404#reply0) | Wed Oct 02 2024 7:45 AM
+- 🎭 [分享一个 Java 开发的并发编程工具包](https://www.v2ex.com/t/1077402#reply0) | Wed Oct 02 2024 7:31 AM
+- 🥷 [想收购一套包含包含阅后即焚的 IM 软件](https://www.v2ex.com/t/1077397#reply3) | Wed Oct 02 2024 6:41 AM
+- 🐵 [Windows11 24H2 各种正式版下载](https://www.v2ex.com/t/1077394#reply0) | Wed Oct 02 2024 4:58 AM<!-- v2ex:END -->
 
