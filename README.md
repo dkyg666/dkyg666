@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <!-- v2ex:START -->
 - 🥸 [安卓工作模式银行 app 闪退](https://www.v2ex.com/t/1077454#reply0) | Wed Oct 02 2024 2:57 PM
 - 🤗 [[讨论及求助] 容器化下的 cpu 调度问题](https://www.v2ex.com/t/1077447#reply1) | Wed Oct 02 2024 2:19 PM
-- 🎭 [网页 META 中的 keywords 参数是否已经过时了？ Facebook Twitter Quora Reddit 的 META 都没有 keywords 参数](https://www.v2ex.com/t/1077439#reply5) | Wed Oct 02 2024 1:28 PM
+- 🎭 [网页 META 中的 keywords 参数是否已经过时了？ Facebook Twitter Quora Reddit 的 META 都没有 keywords 参数](https://www.v2ex.com/t/1077439#reply6) | Wed Oct 02 2024 1:28 PM
 - 🥷 [为啥 vivo iqoo 的 Origin os 把以太网网络共享这个功能删掉了](https://www.v2ex.com/t/1077436#reply4) | Wed Oct 02 2024 1:05 PM
 - 🐵 [请教 JSEncrypt.js 的一个代码问题](https://www.v2ex.com/t/1077431#reply1) | Wed Oct 02 2024 12:08 PM<!-- v2ex:END -->
 
