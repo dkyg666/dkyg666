@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [区块链 blockchain 有&lpar;钱&rpar;前景吗?](https://www.v2ex.com/t/1077392#reply0) | Wed Oct 02 2024 4:18 AM
-- 🤗 [Windows 11 Enterprise LTSC 2024 更新了](https://www.v2ex.com/t/1077388#reply1) | Wed Oct 02 2024 4:10 AM
-- 🎭 [aws lambda 里怎么实现 waituntil](https://www.v2ex.com/t/1077369#reply9) | Wed Oct 02 2024 1:32 AM
-- 🥷 [请教 SQLServer 迁移到 MySQL 方案， 1W+DB](https://www.v2ex.com/t/1077367#reply20) | Wed Oct 02 2024 1:12 AM
-- 🐵 [将论文变成语音对话的工具](https://www.v2ex.com/t/1077352#reply0) | Tue Oct 01 2024 10:56 PM<!-- v2ex:END -->
+- 🥸 [Windows11 24H2 各种正式版下载](https://www.v2ex.com/t/1077394#reply0) | Wed Oct 02 2024 4:58 AM
+- 🤗 [SpringBoot 项目启动报 Error starting Tomcat context. Exception 问题求解决](https://www.v2ex.com/t/1077393#reply0) | Wed Oct 02 2024 4:56 AM
+- 🎭 [区块链 blockchain 有&lpar;钱&rpar;前景吗?](https://www.v2ex.com/t/1077392#reply0) | Wed Oct 02 2024 4:18 AM
+- 🥷 [Windows 11 Enterprise LTSC 2024 更新了](https://www.v2ex.com/t/1077388#reply9) | Wed Oct 02 2024 4:10 AM
+- 🐵 [安卓怎么彻底删除 app](https://www.v2ex.com/t/1077378#reply6) | Wed Oct 02 2024 3:28 AM<!-- v2ex:END -->
 
