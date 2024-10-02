@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ### v2ex-全站热点
 <!-- v2ex:START -->
 - 🥸 [aws lambda 里怎么实现 waituntil](https://www.v2ex.com/t/1077369#reply6) | Wed Oct 02 2024 1:32 AM
-- 🤗 [请教 SQLServer 迁移到 MySQL 方案， 1W+DB](https://www.v2ex.com/t/1077367#reply15) | Wed Oct 02 2024 1:12 AM
+- 🤗 [请教 SQLServer 迁移到 MySQL 方案， 1W+DB](https://www.v2ex.com/t/1077367#reply17) | Wed Oct 02 2024 1:12 AM
 - 🎭 [将论文变成语音对话的工具](https://www.v2ex.com/t/1077352#reply0) | Tue Oct 01 2024 10:56 PM
 - 🥷 [Linux mv 拷贝文件夹时移动文件导致文件丢失](https://www.v2ex.com/t/1077345#reply3) | Tue Oct 01 2024 7:27 PM
 - 🐵 [微软将开始官方提供 ARM 版 Windows .iso 安装映像](https://www.v2ex.com/t/1077343#reply9) | Tue Oct 01 2024 5:38 PM<!-- v2ex:END -->
