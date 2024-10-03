@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [[MIUI]如何关闭冷启动时的启动画面&lpar;SplashScreen &rpar;](https://www.v2ex.com/t/1077475#reply1) | Thu Oct 03 2024 2:55 AM
-- 🤗 [想知道迅雷快鸟是如何获取到宽带账号的？什么原理？](https://www.v2ex.com/t/1077466#reply6) | Wed Oct 02 2024 6:53 PM
-- 🎭 [安卓工作模式银行 app 闪退](https://www.v2ex.com/t/1077454#reply1) | Wed Oct 02 2024 2:57 PM
-- 🥷 [[讨论及求助] 容器化下的 cpu 调度问题](https://www.v2ex.com/t/1077447#reply7) | Wed Oct 02 2024 2:19 PM
-- 🐵 [网页 META 中的 keywords 参数是否已经过时了？ Facebook Twitter Quora Reddit 的 META 都没有 keywords 参数](https://www.v2ex.com/t/1077439#reply9) | Wed Oct 02 2024 1:28 PM<!-- v2ex:END -->
+- 🥸 [Claude 开了 pro 还是不够用? 是因为我问了太多文档的问题吗](https://www.v2ex.com/t/1077481#reply2) | Thu Oct 03 2024 3:40 AM
+- 🤗 [[MIUI]如何关闭冷启动时的启动画面&lpar;SplashScreen &rpar;](https://www.v2ex.com/t/1077475#reply2) | Thu Oct 03 2024 2:55 AM
+- 🎭 [想知道迅雷快鸟是如何获取到宽带账号的？什么原理？](https://www.v2ex.com/t/1077466#reply6) | Wed Oct 02 2024 6:53 PM
+- 🥷 [安卓工作模式银行 app 闪退](https://www.v2ex.com/t/1077454#reply1) | Wed Oct 02 2024 2:57 PM
+- 🐵 [[讨论及求助] 容器化下的 cpu 调度问题](https://www.v2ex.com/t/1077447#reply9) | Wed Oct 02 2024 2:19 PM<!-- v2ex:END -->
 
