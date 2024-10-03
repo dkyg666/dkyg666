@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [为什么从 a.zzz.com 请求 b.zzz.com ，用 credentials: &#39;include&#39; 可以拿到登录状态，从 xxx.com 请求 b.zzz.com 就拿不到？已设置 access-control](https://www.v2ex.com/t/1077498#reply4) | Thu Oct 03 2024 5:35 AM
-- 🤗 [Claude 开了 pro 还是不够用? 是因为我问了太多文档的问题吗](https://www.v2ex.com/t/1077481#reply6) | Thu Oct 03 2024 3:40 AM
-- 🎭 [[MIUI]如何关闭冷启动时的启动画面&lpar;SplashScreen &rpar;](https://www.v2ex.com/t/1077475#reply3) | Thu Oct 03 2024 2:55 AM
-- 🥷 [想知道迅雷快鸟是如何获取到宽带账号的？什么原理？](https://www.v2ex.com/t/1077466#reply7) | Wed Oct 02 2024 6:53 PM
-- 🐵 [安卓工作模式银行 app 闪退](https://www.v2ex.com/t/1077454#reply2) | Wed Oct 02 2024 2:57 PM<!-- v2ex:END -->
+- 🥸 [有没有什么物理蓝牙遥控器可以控制安卓上的油管的播放暂停，前进后退](https://www.v2ex.com/t/1077509#reply0) | Thu Oct 03 2024 7:10 AM
+- 🤗 [为什么从 a.zzz.com 请求 b.zzz.com ，用 credentials: &#39;include&#39; 可以拿到登录状态，从 xxx.com 请求 b.zzz.com 就拿不到？已设置 access-control](https://www.v2ex.com/t/1077498#reply5) | Thu Oct 03 2024 5:35 AM
+- 🎭 [Claude 开了 pro 还是不够用? 是因为我问了太多文档的问题吗](https://www.v2ex.com/t/1077481#reply7) | Thu Oct 03 2024 3:40 AM
+- 🥷 [[MIUI]如何关闭冷启动时的启动画面&lpar;SplashScreen &rpar;](https://www.v2ex.com/t/1077475#reply3) | Thu Oct 03 2024 2:55 AM
+- 🐵 [想知道迅雷快鸟是如何获取到宽带账号的？什么原理？](https://www.v2ex.com/t/1077466#reply7) | Wed Oct 02 2024 6:53 PM<!-- v2ex:END -->
 
