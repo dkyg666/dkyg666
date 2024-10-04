@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [Go 项目的调试、测试](https://www.v2ex.com/t/1077686#reply0) | Fri Oct 04 2024 12:27 PM
-- 🤗 [有没有什么办法可以让安卓的浏览器看油管视频时，启用桌面模式，并且，字幕面板在视频右边，现在在视频下面，普通的桌面模式做不到。](https://www.v2ex.com/t/1077680#reply1) | Fri Oct 04 2024 11:25 AM
-- 🎭 [解决 Windows 11 24H2 上无法像之前一样使用 SMB 共享的问题](https://www.v2ex.com/t/1077675#reply1) | Fri Oct 04 2024 10:57 AM
-- 🥷 [最新声卡驱动没有增强选项](https://www.v2ex.com/t/1077673#reply0) | Fri Oct 04 2024 10:25 AM
-- 🐵 [登录谷歌帐号之后 Chrome 里的 Google 显示的字体变成微软雅黑了](https://www.v2ex.com/t/1077672#reply4) | Fri Oct 04 2024 10:25 AM<!-- v2ex:END -->
+- 🥸 [影视仓、tvbox 如何查看已配置源地址？](https://www.v2ex.com/t/1077688#reply0) | Fri Oct 04 2024 1:08 PM
+- 🤗 [Go 项目的调试、测试](https://www.v2ex.com/t/1077686#reply1) | Fri Oct 04 2024 12:27 PM
+- 🎭 [有没有什么办法可以让安卓的浏览器看油管视频时，启用桌面模式，并且，字幕面板在视频右边，现在在视频下面，普通的桌面模式做不到。](https://www.v2ex.com/t/1077680#reply1) | Fri Oct 04 2024 11:25 AM
+- 🥷 [解决 Windows 11 24H2 上无法像之前一样使用 SMB 共享的问题](https://www.v2ex.com/t/1077675#reply1) | Fri Oct 04 2024 10:57 AM
+- 🐵 [最新声卡驱动没有增强选项](https://www.v2ex.com/t/1077673#reply0) | Fri Oct 04 2024 10:25 AM<!-- v2ex:END -->
 
