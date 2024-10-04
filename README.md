@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ### v2ex-全站热点
 <!-- v2ex:START -->
 - 🥸 [审核不通过：小程序涉及提供音乐在线播放等服务，请补充选择：文娱-音乐类目？](https://www.v2ex.com/t/1077690#reply0) | Fri Oct 04 2024 1:56 PM
-- 🤗 [自建了个国内的 DoH，有兴趣的欢迎来看看](https://www.v2ex.com/t/1077689#reply1) | Fri Oct 04 2024 1:55 PM
+- 🤗 [自建了个国内的 DoH，有兴趣的欢迎来看看](https://www.v2ex.com/t/1077689#reply2) | Fri Oct 04 2024 1:55 PM
 - 🎭 [影视仓、tvbox 如何查看已配置源地址？](https://www.v2ex.com/t/1077688#reply1) | Fri Oct 04 2024 1:08 PM
 - 🥷 [Go 项目的调试、测试](https://www.v2ex.com/t/1077686#reply2) | Fri Oct 04 2024 12:27 PM
 - 🐵 [有没有什么办法可以让安卓的浏览器看油管视频时，启用桌面模式，并且，字幕面板在视频右边，现在在视频下面，普通的桌面模式做不到。](https://www.v2ex.com/t/1077680#reply1) | Fri Oct 04 2024 11:25 AM<!-- v2ex:END -->
