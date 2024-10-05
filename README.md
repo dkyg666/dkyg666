@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [牛市了, 有 v2er 做了什么有助于看盘炒股分析的工具分享下阿](https://www.v2ex.com/t/1077774#reply0) | Sat Oct 05 2024 9:14 AM
-- 🤗 [华为笔记本 win11，系统可选更新里有一个 HUAWEI-firmare 更新？是什么呢？](https://www.v2ex.com/t/1077767#reply1) | Sat Oct 05 2024 7:52 AM
-- 🎭 [Google voice 互保](https://www.v2ex.com/t/1077759#reply26) | Sat Oct 05 2024 6:23 AM
+- 🥸 [牛市了, 有 v2er 做了什么有助于看盘炒股分析的工具分享下阿](https://www.v2ex.com/t/1077774#reply3) | Sat Oct 05 2024 9:14 AM
+- 🤗 [华为笔记本 win11，系统可选更新里有一个 HUAWEI-firmare 更新？是什么呢？](https://www.v2ex.com/t/1077767#reply2) | Sat Oct 05 2024 7:52 AM
+- 🎭 [Google voice 互保](https://www.v2ex.com/t/1077759#reply32) | Sat Oct 05 2024 6:23 AM
 - 🥷 [sdk 低版本的平台上使用 deprecated 的 api 受到警告的意义何在？](https://www.v2ex.com/t/1077749#reply4) | Sat Oct 05 2024 4:33 AM
-- 🐵 [哪个牌子的 nas 好用？群辉 绿联 海康？](https://www.v2ex.com/t/1077745#reply43) | Sat Oct 05 2024 4:06 AM<!-- v2ex:END -->
+- 🐵 [哪个牌子的 nas 好用？群辉 绿联 海康？](https://www.v2ex.com/t/1077745#reply47) | Sat Oct 05 2024 4:06 AM<!-- v2ex:END -->
 
