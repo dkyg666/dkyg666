@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [有没有 Android 免费没广告的多开 APP 推荐？](https://www.v2ex.com/t/1077824#reply0) | Sat Oct 05 2024 4:50 PM
-- 🤗 [求个有官方压制组的 pt 药](https://www.v2ex.com/t/1077816#reply2) | Sat Oct 05 2024 3:11 PM
+- 🥸 [有没有 Android 免费没广告的多开 APP 推荐？](https://www.v2ex.com/t/1077824#reply1) | Sat Oct 05 2024 4:50 PM
+- 🤗 [求个有官方压制组的 pt 药](https://www.v2ex.com/t/1077816#reply3) | Sat Oct 05 2024 3:11 PM
 - 🎭 [北上广深程序员的职业生涯长吗，该怎么规划呀](https://www.v2ex.com/t/1077811#reply1) | Sat Oct 05 2024 2:13 PM
 - 🥷 [今天測試了一下 Win11 24H2 LTSC, 沒想到微軟拉了坨大的...](https://www.v2ex.com/t/1077807#reply6) | Sat Oct 05 2024 1:54 PM
 - 🐵 [关于 Microsoft Compatibility Telemetry 正在试图 访问恶意工具这档事](https://www.v2ex.com/t/1077806#reply1) | Sat Oct 05 2024 1:54 PM<!-- v2ex:END -->
