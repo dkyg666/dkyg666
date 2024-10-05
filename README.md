@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [哪个牌子的 nas 好用？群辉 绿联 海康？](https://www.v2ex.com/t/1077745#reply8) | Sat Oct 05 2024 4:06 AM
-- 🤗 [这两天用 Windows 11 24H2 下来发现 Thinkpad 的触控板驱动或有问题](https://www.v2ex.com/t/1077744#reply0) | Sat Oct 05 2024 3:51 AM
-- 🎭 [小程序后台登录的时候不仅要扫码还要输入密码？](https://www.v2ex.com/t/1077742#reply1) | Sat Oct 05 2024 3:26 AM
-- 🥷 [请问大佬，网站安装了 google analytics，就自动安装了谷歌证书？](https://www.v2ex.com/t/1077720#reply9) | Sat Oct 05 2024 12:11 AM
-- 🐵 [MyLittleOCR：简单的热门 ocr 库包装](https://www.v2ex.com/t/1077718#reply2) | Fri Oct 04 2024 11:19 PM<!-- v2ex:END -->
+- 🥸 [sdk 低版本的平台上使用 deprecated 的 api 受到警告的意义何在？](https://www.v2ex.com/t/1077749#reply3) | Sat Oct 05 2024 4:33 AM
+- 🤗 [哪个牌子的 nas 好用？群辉 绿联 海康？](https://www.v2ex.com/t/1077745#reply15) | Sat Oct 05 2024 4:06 AM
+- 🎭 [这两天用 Windows 11 24H2 下来发现 Thinkpad 的触控板驱动或有问题](https://www.v2ex.com/t/1077744#reply1) | Sat Oct 05 2024 3:51 AM
+- 🥷 [小程序后台登录的时候不仅要扫码还要输入密码？](https://www.v2ex.com/t/1077742#reply1) | Sat Oct 05 2024 3:26 AM
+- 🐵 [请问大佬，网站安装了 google analytics，就自动安装了谷歌证书？](https://www.v2ex.com/t/1077720#reply9) | Sat Oct 05 2024 12:11 AM<!-- v2ex:END -->
 
