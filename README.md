@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [Google voice 互保](https://www.v2ex.com/t/1077759#reply13) | Sat Oct 05 2024 6:23 AM
-- 🤗 [sdk 低版本的平台上使用 deprecated 的 api 受到警告的意义何在？](https://www.v2ex.com/t/1077749#reply4) | Sat Oct 05 2024 4:33 AM
-- 🎭 [哪个牌子的 nas 好用？群辉 绿联 海康？](https://www.v2ex.com/t/1077745#reply30) | Sat Oct 05 2024 4:06 AM
-- 🥷 [这两天用 Windows 11 24H2 下来发现 Thinkpad 的触控板驱动或有问题](https://www.v2ex.com/t/1077744#reply1) | Sat Oct 05 2024 3:51 AM
-- 🐵 [小程序后台登录的时候不仅要扫码还要输入密码？](https://www.v2ex.com/t/1077742#reply1) | Sat Oct 05 2024 3:26 AM<!-- v2ex:END -->
+- 🥸 [华为笔记本 win11，系统可选更新里有一个 HUAWEI-firmare 更新？是什么呢？](https://www.v2ex.com/t/1077767#reply1) | Sat Oct 05 2024 7:52 AM
+- 🤗 [Google voice 互保](https://www.v2ex.com/t/1077759#reply21) | Sat Oct 05 2024 6:23 AM
+- 🎭 [sdk 低版本的平台上使用 deprecated 的 api 受到警告的意义何在？](https://www.v2ex.com/t/1077749#reply4) | Sat Oct 05 2024 4:33 AM
+- 🥷 [哪个牌子的 nas 好用？群辉 绿联 海康？](https://www.v2ex.com/t/1077745#reply35) | Sat Oct 05 2024 4:06 AM
+- 🐵 [这两天用 Windows 11 24H2 下来发现 Thinkpad 的触控板驱动或有问题](https://www.v2ex.com/t/1077744#reply2) | Sat Oct 05 2024 3:51 AM<!-- v2ex:END -->
 
