@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [有人拿到 o1 copilot 的 waitlist 邀请了吗？](https://www.v2ex.com/t/1077881#reply0) | Sun Oct 06 2024 5:13 AM
-- 🤗 [为什么 npm pip nuget 这些包管理器不在下载冷门包（下载数量 &lt;300k）的时候弹出提示？经常弄错包名，不仅浪费了时间还很危险，长得像热门包的假包很多有恶意代码。](https://www.v2ex.com/t/1077876#reply0) | Sun Oct 06 2024 4:38 AM
-- 🎭 [请问一下， CCNA CCNP CCIE 这些证书有用吗？如果要考，是一步步考上去，还是直接学习完去考 CCIE？](https://www.v2ex.com/t/1077860#reply11) | Sun Oct 06 2024 3:20 AM
-- 🥷 [推荐一个平铺化桌面 Niri](https://www.v2ex.com/t/1077859#reply2) | Sun Oct 06 2024 3:18 AM
-- 🐵 [vscode terminal 字体显示不正常，间隙特别大](https://www.v2ex.com/t/1077848#reply9) | Sun Oct 06 2024 2:02 AM<!-- v2ex:END -->
+- 🥸 [functools.partial 和 partialmethod 的困惑](https://www.v2ex.com/t/1077892#reply0) | Sun Oct 06 2024 6:14 AM
+- 🤗 [继续送一个 follow](https://www.v2ex.com/t/1077884#reply2) | Sun Oct 06 2024 5:31 AM
+- 🎭 [picgo 上传图片提示 &quot;unable to verify the first certificate&quot;](https://www.v2ex.com/t/1077882#reply1) | Sun Oct 06 2024 5:24 AM
+- 🥷 [有人拿到 o1 copilot 的 waitlist 邀请了吗？](https://www.v2ex.com/t/1077881#reply2) | Sun Oct 06 2024 5:13 AM
+- 🐵 [为什么 npm pip nuget 这些包管理器不在下载冷门包（下载数量 &lt;300k）的时候弹出提示？经常弄错包名，不仅浪费了时间还很危险，长得像热门包的假包很多有恶意代码。](https://www.v2ex.com/t/1077876#reply4) | Sun Oct 06 2024 4:38 AM<!-- v2ex:END -->
 
