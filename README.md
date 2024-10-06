@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [vscode terminal 字体显示不正常，间隙特别大](https://www.v2ex.com/t/1077848#reply5) | Sun Oct 06 2024 2:02 AM
-- 🤗 [有没有 Android 免费没广告的多开 APP 推荐？](https://www.v2ex.com/t/1077824#reply2) | Sat Oct 05 2024 4:50 PM
-- 🎭 [北上广深程序员的职业生涯长吗，该怎么规划呀](https://www.v2ex.com/t/1077811#reply3) | Sat Oct 05 2024 2:13 PM
-- 🥷 [今天測試了一下 Win11 24H2 LTSC, 沒想到微軟拉了坨大的...](https://www.v2ex.com/t/1077807#reply8) | Sat Oct 05 2024 1:54 PM
-- 🐵 [关于 Microsoft Compatibility Telemetry 正在试图 访问恶意工具这档事](https://www.v2ex.com/t/1077806#reply3) | Sat Oct 05 2024 1:54 PM<!-- v2ex:END -->
+- 🥸 [请问一下， CCNA CCNP CCIE 这些证书有用吗？如果要考，是一步步考上去，还是直接学习完去考 CCIE？](https://www.v2ex.com/t/1077860#reply0) | Sun Oct 06 2024 3:20 AM
+- 🤗 [推荐一个平铺化桌面 Niri](https://www.v2ex.com/t/1077859#reply0) | Sun Oct 06 2024 3:18 AM
+- 🎭 [vscode terminal 字体显示不正常，间隙特别大](https://www.v2ex.com/t/1077848#reply8) | Sun Oct 06 2024 2:02 AM
+- 🥷 [越来越觉得程序员是个苦力活](https://www.v2ex.com/t/1077840#reply16) | Sun Oct 06 2024 1:36 AM
+- 🐵 [有没有 Android 免费没广告的多开 APP 推荐？](https://www.v2ex.com/t/1077824#reply2) | Sat Oct 05 2024 4:50 PM<!-- v2ex:END -->
 
