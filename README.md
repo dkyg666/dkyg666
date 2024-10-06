@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <!-- v2ex:START -->
 - 🥸 [求助，红米， iQOO， Realme 怎么选？](https://www.v2ex.com/t/1077932#reply10) | Sun Oct 06 2024 1:06 PM
 - 🤗 [微软 Edge 浏览器在 Linux （fedora）主机名变更后拒绝启动](https://www.v2ex.com/t/1077919#reply2) | Sun Oct 06 2024 10:12 AM
-- 🎭 [发布了人生第一个真人出镜的抖音视频](https://www.v2ex.com/t/1077909#reply19) | Sun Oct 06 2024 8:30 AM
+- 🎭 [发布了人生第一个真人出镜的抖音视频](https://www.v2ex.com/t/1077909#reply20) | Sun Oct 06 2024 8:30 AM
 - 🥷 [寻找一份远程工作](https://www.v2ex.com/t/1077908#reply2) | Sun Oct 06 2024 8:15 AM
-- 🐵 [求指导，帮忙看看自主 NAS 配置合理不？](https://www.v2ex.com/t/1077905#reply27) | Sun Oct 06 2024 8:03 AM<!-- v2ex:END -->
+- 🐵 [求指导，帮忙看看自主 NAS 配置合理不？](https://www.v2ex.com/t/1077905#reply29) | Sun Oct 06 2024 8:03 AM<!-- v2ex:END -->
 
