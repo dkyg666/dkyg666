@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [兼职: 小软件，自动化处理中国发票 PDF 文件的 Windows 软件](https://www.v2ex.com/t/1077899#reply0) | Sun Oct 06 2024 6:59 AM
-- 🤗 [functools.partial 和 partialmethod 的困惑](https://www.v2ex.com/t/1077892#reply0) | Sun Oct 06 2024 6:14 AM
-- 🎭 [继续送一个 follow](https://www.v2ex.com/t/1077884#reply2) | Sun Oct 06 2024 5:31 AM
-- 🥷 [picgo 上传图片提示 &quot;unable to verify the first certificate&quot;](https://www.v2ex.com/t/1077882#reply1) | Sun Oct 06 2024 5:24 AM
-- 🐵 [有人拿到 o1 copilot 的 waitlist 邀请了吗？](https://www.v2ex.com/t/1077881#reply2) | Sun Oct 06 2024 5:13 AM<!-- v2ex:END -->
+- 🥸 [寻找一份远程工作](https://www.v2ex.com/t/1077908#reply0) | Sun Oct 06 2024 8:15 AM
+- 🤗 [求指导，帮忙看看自主 NAS 配置合理不？](https://www.v2ex.com/t/1077905#reply2) | Sun Oct 06 2024 8:03 AM
+- 🎭 [要做实时登出的客户端 API，是不是完全不适合 JWT 鉴权？每个请求都要验证 token 有效性，传输和验证签名看起来是在浪费资源](https://www.v2ex.com/t/1077902#reply2) | Sun Oct 06 2024 7:48 AM
+- 🥷 [functools.partial 和 partialmethod 的困惑](https://www.v2ex.com/t/1077892#reply0) | Sun Oct 06 2024 6:14 AM
+- 🐵 [继续送一个 follow](https://www.v2ex.com/t/1077884#reply2) | Sun Oct 06 2024 5:31 AM<!-- v2ex:END -->
 
