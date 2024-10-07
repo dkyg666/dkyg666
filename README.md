@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [独立开发周记 87： 9 月数据总结](https://www.v2ex.com/t/1078087#reply0) | Mon Oct 07 2024 1:04 PM
-- 🤗 [24H2 更新之后一个奇怪的 BUG, 手柄输入其中个 USB 麦克风就会掉设备](https://www.v2ex.com/t/1078078#reply0) | Mon Oct 07 2024 12:21 PM
-- 🎭 [markdown 嵌入固定内容](https://www.v2ex.com/t/1078076#reply0) | Mon Oct 07 2024 11:55 AM
-- 🥷 [写了个安卓小程序，实时转发短信和未接来电](https://www.v2ex.com/t/1078071#reply9) | Mon Oct 07 2024 11:30 AM
-- 🐵 [求助： ubuntu 现在 ssh 不能直接 root 账户登录了？](https://www.v2ex.com/t/1078064#reply6) | Mon Oct 07 2024 10:52 AM<!-- v2ex:END -->
+- 🥸 [程序员们，还有当初的技术热情么？](https://www.v2ex.com/t/1078099#reply5) | Mon Oct 07 2024 1:57 PM
+- 🤗 [研究安卓 APP 逆向用什么手机最合适？](https://www.v2ex.com/t/1078097#reply1) | Mon Oct 07 2024 1:53 PM
+- 🎭 [不想自己搭建, 去哪个站的体验 FLUX 最好啊?](https://www.v2ex.com/t/1078096#reply0) | Mon Oct 07 2024 1:46 PM
+- 🥷 [方便解锁 BL 的机器（探讨）](https://www.v2ex.com/t/1078095#reply2) | Mon Oct 07 2024 1:43 PM
+- 🐵 [独立开发周记 87： 9 月数据总结](https://www.v2ex.com/t/1078087#reply0) | Mon Oct 07 2024 1:04 PM<!-- v2ex:END -->
 
