@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [股票回测平台（Demo）](https://www.v2ex.com/t/1078016#reply0) | Mon Oct 07 2024 4:56 AM
-- 🤗 [推荐自己翻译的《自己动手写 Git》 教程](https://www.v2ex.com/t/1077983#reply5) | Mon Oct 07 2024 2:20 AM
-- 🎭 [adb shell dumpsys battery 疑问求解答](https://www.v2ex.com/t/1077980#reply5) | Mon Oct 07 2024 2:13 AM
-- 🥷 [业余时间弄了一个 Linux 嵌入式应用开发框架，看看有没有其他人需要。](https://www.v2ex.com/t/1077979#reply2) | Mon Oct 07 2024 2:12 AM
-- 🐵 [现在安卓手机的锁屏能被破解吗](https://www.v2ex.com/t/1077976#reply27) | Mon Oct 07 2024 1:58 AM<!-- v2ex:END -->
+- 🥸 [现在的高端安卓机摄像头都那么丑, 一大坨在后面](https://www.v2ex.com/t/1078022#reply5) | Mon Oct 07 2024 6:06 AM
+- 🤗 [股票回测平台（Demo）](https://www.v2ex.com/t/1078016#reply0) | Mon Oct 07 2024 4:56 AM
+- 🎭 [推荐自己翻译的《自己动手写 Git》 教程](https://www.v2ex.com/t/1077983#reply5) | Mon Oct 07 2024 2:20 AM
+- 🥷 [adb shell dumpsys battery 疑问求解答](https://www.v2ex.com/t/1077980#reply5) | Mon Oct 07 2024 2:13 AM
+- 🐵 [业余时间弄了一个 Linux 嵌入式应用开发框架，看看有没有其他人需要。](https://www.v2ex.com/t/1077979#reply2) | Mon Oct 07 2024 2:12 AM<!-- v2ex:END -->
 
