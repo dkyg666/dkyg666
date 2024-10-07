@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [推荐自己翻译的《自己动手写 Git》 教程](https://www.v2ex.com/t/1077983#reply1) | Mon Oct 07 2024 2:20 AM
-- 🤗 [adb shell dumpsys battery 疑问求解答](https://www.v2ex.com/t/1077980#reply3) | Mon Oct 07 2024 2:13 AM
+- 🥸 [推荐自己翻译的《自己动手写 Git》 教程](https://www.v2ex.com/t/1077983#reply3) | Mon Oct 07 2024 2:20 AM
+- 🤗 [adb shell dumpsys battery 疑问求解答](https://www.v2ex.com/t/1077980#reply4) | Mon Oct 07 2024 2:13 AM
 - 🎭 [业余时间弄了一个 Linux 嵌入式应用开发框架，看看有没有其他人需要。](https://www.v2ex.com/t/1077979#reply1) | Mon Oct 07 2024 2:12 AM
-- 🥷 [大家在写代码的时候听些啥音乐呢？](https://www.v2ex.com/t/1077977#reply6) | Mon Oct 07 2024 2:05 AM
-- 🐵 [现在安卓手机的锁屏能被破解吗](https://www.v2ex.com/t/1077976#reply15) | Mon Oct 07 2024 1:58 AM<!-- v2ex:END -->
+- 🥷 [现在安卓手机的锁屏能被破解吗](https://www.v2ex.com/t/1077976#reply20) | Mon Oct 07 2024 1:58 AM
+- 🐵 [用 Lavf 作为 User-Agent 是什么软件/设备](https://www.v2ex.com/t/1077975#reply2) | Mon Oct 07 2024 1:57 AM<!-- v2ex:END -->
 
