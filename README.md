@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [求助： ubuntu 现在 ssh 不能直接 root 账户登录了？](https://www.v2ex.com/t/1078064#reply1) | Mon Oct 07 2024 10:52 AM
-- 🤗 [大佬们搞 LevelDB 时都用什么工具查看调试？ Mac](https://www.v2ex.com/t/1078050#reply0) | Mon Oct 07 2024 8:54 AM
-- 🎭 [移动端 chrome（包括 iOS）的 [探索] 动态消息卡片功能，不能在桌面端使用吗？](https://www.v2ex.com/t/1078046#reply0) | Mon Oct 07 2024 8:12 AM
-- 🥷 [现在的高端安卓机摄像头都那么丑, 一大坨在后面](https://www.v2ex.com/t/1078022#reply28) | Mon Oct 07 2024 6:06 AM
-- 🐵 [股票回测平台（Demo）](https://www.v2ex.com/t/1078016#reply1) | Mon Oct 07 2024 4:56 AM<!-- v2ex:END -->
+- 🥸 [24H2 更新之后一个奇怪的 BUG, 手柄输入其中个 USB 麦克风就会掉设备](https://www.v2ex.com/t/1078078#reply0) | Mon Oct 07 2024 12:21 PM
+- 🤗 [markdown 嵌入固定内容](https://www.v2ex.com/t/1078076#reply0) | Mon Oct 07 2024 11:55 AM
+- 🎭 [写了个安卓小程序，实时转发短信和未接来电](https://www.v2ex.com/t/1078071#reply6) | Mon Oct 07 2024 11:30 AM
+- 🥷 [求助： ubuntu 现在 ssh 不能直接 root 账户登录了？](https://www.v2ex.com/t/1078064#reply4) | Mon Oct 07 2024 10:52 AM
+- 🐵 [大佬们搞 LevelDB 时都用什么工具查看调试？ Mac](https://www.v2ex.com/t/1078050#reply2) | Mon Oct 07 2024 8:54 AM<!-- v2ex:END -->
 
