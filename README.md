@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ### v2ex-全站热点
 <!-- v2ex:START -->
 - 🥸 [Oblivious DNS over HTTPS &lpar;ODoH&rpar; 为什么没有了后续？](https://www.v2ex.com/t/1078120#reply1) | Mon Oct 07 2024 5:35 PM
-- 🤗 [推荐一个自己写的短信转发 App](https://www.v2ex.com/t/1078110#reply1) | Mon Oct 07 2024 3:14 PM
+- 🤗 [推荐一个自己写的短信转发 App](https://www.v2ex.com/t/1078110#reply2) | Mon Oct 07 2024 3:14 PM
 - 🎭 [研究安卓 APP 逆向用什么手机最合适？](https://www.v2ex.com/t/1078097#reply5) | Mon Oct 07 2024 1:53 PM
 - 🥷 [不想自己搭建, 去哪个站的体验 FLUX 最好啊?](https://www.v2ex.com/t/1078096#reply0) | Mon Oct 07 2024 1:46 PM
 - 🐵 [方便解锁 BL 的机器（探讨）](https://www.v2ex.com/t/1078095#reply11) | Mon Oct 07 2024 1:43 PM<!-- v2ex:END -->
