@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [Java 大佬们 ,来来来做题了？ 看看是否能够在心里直接做出来。](https://www.v2ex.com/t/1077955#reply0) | Sun Oct 06 2024 5:49 PM
-- 🤗 [大家是怎么看待开源项目的 typo 类 pr 的](https://www.v2ex.com/t/1077956#reply4) | Sun Oct 06 2024 5:49 PM
-- 🎭 [全面屏潮流毁掉了安卓中低端手机的正面美感](https://www.v2ex.com/t/1077954#reply7) | Sun Oct 06 2024 4:52 PM
-- 🥷 [求助，红米， iQOO， Realme 怎么选？](https://www.v2ex.com/t/1077932#reply17) | Sun Oct 06 2024 1:06 PM
-- 🐵 [微软 Edge 浏览器在 Linux （fedora）主机名变更后拒绝启动](https://www.v2ex.com/t/1077919#reply2) | Sun Oct 06 2024 10:12 AM<!-- v2ex:END -->
+- 🥸 [推荐自己翻译的《自己动手写 Git》 教程](https://www.v2ex.com/t/1077983#reply1) | Mon Oct 07 2024 2:20 AM
+- 🤗 [adb shell dumpsys battery 疑问求解答](https://www.v2ex.com/t/1077980#reply3) | Mon Oct 07 2024 2:13 AM
+- 🎭 [业余时间弄了一个 Linux 嵌入式应用开发框架，看看有没有其他人需要。](https://www.v2ex.com/t/1077979#reply1) | Mon Oct 07 2024 2:12 AM
+- 🥷 [大家在写代码的时候听些啥音乐呢？](https://www.v2ex.com/t/1077977#reply6) | Mon Oct 07 2024 2:05 AM
+- 🐵 [现在安卓手机的锁屏能被破解吗](https://www.v2ex.com/t/1077976#reply15) | Mon Oct 07 2024 1:58 AM<!-- v2ex:END -->
 
