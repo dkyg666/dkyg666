@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [程序员们，还有当初的技术热情么？](https://www.v2ex.com/t/1078099#reply5) | Mon Oct 07 2024 1:57 PM
-- 🤗 [研究安卓 APP 逆向用什么手机最合适？](https://www.v2ex.com/t/1078097#reply1) | Mon Oct 07 2024 1:53 PM
+- 🥸 [推荐一个自己写的短信转发 App](https://www.v2ex.com/t/1078110#reply0) | Mon Oct 07 2024 3:14 PM
+- 🤗 [研究安卓 APP 逆向用什么手机最合适？](https://www.v2ex.com/t/1078097#reply5) | Mon Oct 07 2024 1:53 PM
 - 🎭 [不想自己搭建, 去哪个站的体验 FLUX 最好啊?](https://www.v2ex.com/t/1078096#reply0) | Mon Oct 07 2024 1:46 PM
-- 🥷 [方便解锁 BL 的机器（探讨）](https://www.v2ex.com/t/1078095#reply2) | Mon Oct 07 2024 1:43 PM
-- 🐵 [独立开发周记 87： 9 月数据总结](https://www.v2ex.com/t/1078087#reply0) | Mon Oct 07 2024 1:04 PM<!-- v2ex:END -->
+- 🥷 [方便解锁 BL 的机器（探讨）](https://www.v2ex.com/t/1078095#reply6) | Mon Oct 07 2024 1:43 PM
+- 🐵 [独立开发周记 87： 9 月数据总结](https://www.v2ex.com/t/1078087#reply2) | Mon Oct 07 2024 1:04 PM<!-- v2ex:END -->
 
