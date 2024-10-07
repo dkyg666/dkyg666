@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [移动端 chrome（包括 iOS）的 [探索] 动态消息卡片功能，不能在桌面端使用吗？](https://www.v2ex.com/t/1078046#reply0) | Mon Oct 07 2024 8:12 AM
-- 🤗 [现在的高端安卓机摄像头都那么丑, 一大坨在后面](https://www.v2ex.com/t/1078022#reply18) | Mon Oct 07 2024 6:06 AM
-- 🎭 [股票回测平台（Demo）](https://www.v2ex.com/t/1078016#reply0) | Mon Oct 07 2024 4:56 AM
-- 🥷 [推荐自己翻译的《自己动手写 Git》 教程](https://www.v2ex.com/t/1077983#reply5) | Mon Oct 07 2024 2:20 AM
-- 🐵 [adb shell dumpsys battery 疑问求解答](https://www.v2ex.com/t/1077980#reply5) | Mon Oct 07 2024 2:13 AM<!-- v2ex:END -->
+- 🥸 [大佬们搞 LevelDB 时都用什么工具查看调试？ Mac](https://www.v2ex.com/t/1078050#reply0) | Mon Oct 07 2024 8:54 AM
+- 🤗 [移动端 chrome（包括 iOS）的 [探索] 动态消息卡片功能，不能在桌面端使用吗？](https://www.v2ex.com/t/1078046#reply0) | Mon Oct 07 2024 8:12 AM
+- 🎭 [现在的高端安卓机摄像头都那么丑, 一大坨在后面](https://www.v2ex.com/t/1078022#reply22) | Mon Oct 07 2024 6:06 AM
+- 🥷 [股票回测平台（Demo）](https://www.v2ex.com/t/1078016#reply0) | Mon Oct 07 2024 4:56 AM
+- 🐵 [推荐自己翻译的《自己动手写 Git》 教程](https://www.v2ex.com/t/1077983#reply5) | Mon Oct 07 2024 2:20 AM<!-- v2ex:END -->
 
