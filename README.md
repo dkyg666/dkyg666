@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [在家里的宽带只有公网 IPV6 的情况下，有没有更优雅的方法实现在外网访问 NAS？](https://www.v2ex.com/t/1078352#reply2) | Tue Oct 08 2024 10:59 AM
-- 🤗 [AWS 折扣！ AWS 优惠！具体折扣可谈](https://www.v2ex.com/t/1078320#reply0) | Tue Oct 08 2024 9:16 AM
-- 🎭 [ios 如何实现跳转一个应用再跳转回来呢](https://www.v2ex.com/t/1078308#reply14) | Tue Oct 08 2024 8:37 AM
-- 🥷 [使用 golang 可以开发一套监控系统吗](https://www.v2ex.com/t/1078298#reply27) | Tue Oct 08 2024 8:14 AM
-- 🐵 [如何看待 Evan You 创办的新公司 VoidZero，已募集 4.6M$](https://www.v2ex.com/t/1078290#reply6) | Tue Oct 08 2024 7:48 AM<!-- v2ex:END -->
+- 🥸 [cloudcone 的 ip 是都被墙了嘛](https://www.v2ex.com/t/1078364#reply2) | Tue Oct 08 2024 12:14 PM
+- 🤗 [在家里的宽带只有公网 IPV6 的情况下，有没有更优雅的方法实现在外网访问 NAS？](https://www.v2ex.com/t/1078352#reply6) | Tue Oct 08 2024 10:59 AM
+- 🎭 [AWS 折扣！ AWS 优惠！具体折扣可谈](https://www.v2ex.com/t/1078320#reply0) | Tue Oct 08 2024 9:16 AM
+- 🥷 [ios 如何实现跳转一个应用再跳转回来呢](https://www.v2ex.com/t/1078308#reply14) | Tue Oct 08 2024 8:37 AM
+- 🐵 [使用 golang 可以开发一套监控系统吗](https://www.v2ex.com/t/1078298#reply27) | Tue Oct 08 2024 8:14 AM<!-- v2ex:END -->
 
