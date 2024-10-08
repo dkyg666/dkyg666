@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [Windows 系统，插入 USB 设备电脑会蓝屏](https://www.v2ex.com/t/1078271#reply3) | Tue Oct 08 2024 7:02 AM
-- 🤗 [终于找到了 SMB 跑不满千兆的原因](https://www.v2ex.com/t/1078247#reply8) | Tue Oct 08 2024 5:24 AM
-- 🎭 [哪款 Android 手机可以长时间拍摄 4K 60hz 视频？](https://www.v2ex.com/t/1078246#reply6) | Tue Oct 08 2024 5:22 AM
-- 🥷 [交个朋友，持续赠送 Follow 邀请码](https://www.v2ex.com/t/1078241#reply0) | Tue Oct 08 2024 4:50 AM
-- 🐵 [不是很懂 NAS，有点问题想问一下。](https://www.v2ex.com/t/1078236#reply26) | Tue Oct 08 2024 4:35 AM<!-- v2ex:END -->
+- 🥸 [使用 golang 可以开发一套监控系统吗](https://www.v2ex.com/t/1078298#reply2) | Tue Oct 08 2024 8:14 AM
+- 🤗 [无数个熬夜的作品，通用型分布式即时通讯 v2（IM）正式发布。](https://www.v2ex.com/t/1078292#reply8) | Tue Oct 08 2024 7:52 AM
+- 🎭 [如何看待 Evan You 创办的新公司 VoidZero，已募集 4.6M$](https://www.v2ex.com/t/1078290#reply4) | Tue Oct 08 2024 7:48 AM
+- 🥷 [Windows 系统，插入 USB 设备电脑会蓝屏](https://www.v2ex.com/t/1078271#reply10) | Tue Oct 08 2024 7:02 AM
+- 🐵 [终于找到了 SMB 跑不满千兆的原因](https://www.v2ex.com/t/1078247#reply10) | Tue Oct 08 2024 5:24 AM<!-- v2ex:END -->
 
