@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [送一枚 follow 邀请码， RSS 重度用户请举手](https://www.v2ex.com/t/1078189#reply4) | Tue Oct 08 2024 2:40 AM
-- 🤗 [[远程] 5 年实际工作经验前端求一份兼职/全职](https://www.v2ex.com/t/1078172#reply2) | Tue Oct 08 2024 2:12 AM
-- 🎭 [用过阿里云国际版的看看自己有没有产生快照费用吧](https://www.v2ex.com/t/1078166#reply0) | Tue Oct 08 2024 2:00 AM
-- 🥷 [android 的生态会因为 Java 9 的问题而被隔离么？](https://www.v2ex.com/t/1078155#reply4) | Tue Oct 08 2024 1:42 AM
-- 🐵 [Oblivious DNS over HTTPS &lpar;ODoH&rpar; 为什么没有了后续？](https://www.v2ex.com/t/1078120#reply1) | Mon Oct 07 2024 5:35 PM<!-- v2ex:END -->
+- 🥸 [大码牛仔裤求推荐](https://www.v2ex.com/t/1078212#reply0) | Tue Oct 08 2024 3:26 AM
+- 🤗 [我写了一本拙作，求一波读感/建议](https://www.v2ex.com/t/1078204#reply1) | Tue Oct 08 2024 3:10 AM
+- 🎭 [送一枚 follow 邀请码， RSS 重度用户请举手](https://www.v2ex.com/t/1078189#reply28) | Tue Oct 08 2024 2:40 AM
+- 🥷 [[远程] 5 年实际工作经验前端求一份兼职/全职](https://www.v2ex.com/t/1078172#reply2) | Tue Oct 08 2024 2:12 AM
+- 🐵 [用过阿里云国际版的看看自己有没有产生快照费用吧](https://www.v2ex.com/t/1078166#reply2) | Tue Oct 08 2024 2:00 AM<!-- v2ex:END -->
 
