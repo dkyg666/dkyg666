@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [如果要设计一个用户注册系统只需要用户名和密码，除了设置问题和答案外还有什么更好的方式帮助用户找回密码。](https://www.v2ex.com/t/1078378#reply13) | Tue Oct 08 2024 1:10 PM
+- 🥸 [如果要设计一个用户注册系统只需要用户名和密码，除了设置问题和答案外还有什么更好的方式帮助用户找回密码。](https://www.v2ex.com/t/1078378#reply14) | Tue Oct 08 2024 1:10 PM
 - 🤗 [LLM 是不是适合用来翻译小说？看起来已经具备固定人名、地名的能力了，这种场景不需要太准确，只要意思偏差不大就可以， LLM 经常胡编事实影响也不大，显卡成本再怎么贵也比人工翻译便宜太多了吧](https://www.v2ex.com/t/1078372#reply4) | Tue Oct 08 2024 12:41 PM
-- 🎭 [cloudcone 的 ip 是都被墙了嘛](https://www.v2ex.com/t/1078364#reply6) | Tue Oct 08 2024 12:14 PM
-- 🥷 [在家里的宽带只有公网 IPV6 的情况下，有没有更优雅的方法实现在外网访问 NAS？](https://www.v2ex.com/t/1078352#reply8) | Tue Oct 08 2024 10:59 AM
-- 🐵 [ios 如何实现跳转一个应用再跳转回来呢](https://www.v2ex.com/t/1078308#reply16) | Tue Oct 08 2024 8:37 AM<!-- v2ex:END -->
+- 🎭 [在家里的宽带只有公网 IPV6 的情况下，有没有更优雅的方法实现在外网访问 NAS？](https://www.v2ex.com/t/1078352#reply8) | Tue Oct 08 2024 10:59 AM
+- 🥷 [ios 如何实现跳转一个应用再跳转回来呢](https://www.v2ex.com/t/1078308#reply16) | Tue Oct 08 2024 8:37 AM
+- 🐵 [使用 golang 可以开发一套监控系统吗](https://www.v2ex.com/t/1078298#reply27) | Tue Oct 08 2024 8:14 AM<!-- v2ex:END -->
 
