@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [请问 pip 虚拟环境与--user 比有什么优势吗？](https://www.v2ex.com/t/1078725#reply3) | Wed Oct 09 2024 4:36 PM
+- 🥸 [请问 pip 虚拟环境与--user 比有什么优势吗？](https://www.v2ex.com/t/1078725#reply4) | Wed Oct 09 2024 4:36 PM
 - 🤗 [腾讯云函数计算开启函数 URL 后有莫名奇妙的调用](https://www.v2ex.com/t/1078715#reply3) | Wed Oct 09 2024 3:30 PM
 - 🎭 [移动端 rive vs lottie](https://www.v2ex.com/t/1078714#reply1) | Wed Oct 09 2024 3:26 PM
 - 🥷 [Windows11 24H2 中的 explorer 强制 recall 作为 dependency](https://www.v2ex.com/t/1078706#reply6) | Wed Oct 09 2024 2:21 PM
