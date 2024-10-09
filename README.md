@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [有偿请教 Swift + revenuecat + firebase](https://www.v2ex.com/t/1078410#reply0) | Tue Oct 08 2024 7:32 PM
-- 🤗 [如果要设计一个用户注册系统只需要用户名和密码，除了设置问题和答案外还有什么更好的方式帮助用户找回密码。](https://www.v2ex.com/t/1078378#reply21) | Tue Oct 08 2024 1:10 PM
-- 🎭 [LLM 是不是适合用来翻译小说？看起来已经具备固定人名、地名的能力了，这种场景不需要太准确，只要意思偏差不大就可以， LLM 经常胡编事实影响也不大，显卡成本再怎么贵也比人工翻译便宜太多了吧](https://www.v2ex.com/t/1078372#reply6) | Tue Oct 08 2024 12:41 PM
-- 🥷 [在家里的宽带只有公网 IPV6 的情况下，有没有更优雅的方法实现在外网访问 NAS？](https://www.v2ex.com/t/1078352#reply8) | Tue Oct 08 2024 10:59 AM
-- 🐵 [ios 如何实现跳转一个应用再跳转回来呢](https://www.v2ex.com/t/1078308#reply16) | Tue Oct 08 2024 8:37 AM<!-- v2ex:END -->
+- 🥸 [有没有网络大佬 请教个判断 TCP Segment 的问题](https://www.v2ex.com/t/1078436#reply1) | Wed Oct 09 2024 1:10 AM
+- 🤗 [基于 Dopamine 越狱环境开发的 XcodeAnyDebugRootless 插件，让你能够使用 Xcode 调试任意 iOS 应用。](https://www.v2ex.com/t/1078431#reply2) | Wed Oct 09 2024 1:01 AM
+- 🎭 [Win11 copilot 大陆地区不可用的问题，有比较简单的解决方法了吗？](https://www.v2ex.com/t/1078416#reply8) | Wed Oct 09 2024 12:17 AM
+- 🥷 [帮我老爸清理手机，震惊了，后台安装了无数垃圾 APP](https://www.v2ex.com/t/1078415#reply36) | Wed Oct 09 2024 12:11 AM
+- 🐵 [如果要设计一个用户注册系统只需要用户名和密码，除了设置问题和答案外还有什么更好的方式帮助用户找回密码。](https://www.v2ex.com/t/1078378#reply25) | Tue Oct 08 2024 1:10 PM<!-- v2ex:END -->
 
