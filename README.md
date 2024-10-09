@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [字节跳动 AI 技术训练营，开启报名](https://www.v2ex.com/t/1078711#reply0) | Wed Oct 09 2024 2:58 PM
-- 🤗 [Windows11 24H2 中的 explorer 强制 recall 作为 dependency](https://www.v2ex.com/t/1078706#reply5) | Wed Oct 09 2024 2:21 PM
-- 🎭 [问下各位大佬, 关于数据库类型 bigint](https://www.v2ex.com/t/1078696#reply3) | Wed Oct 09 2024 1:38 PM
-- 🥷 [谷歌账号的钱真的就收不回来了吗？](https://www.v2ex.com/t/1078693#reply0) | Wed Oct 09 2024 1:08 PM
-- 🐵 [Windows 有什么好的电源策略给推荐](https://www.v2ex.com/t/1078691#reply2) | Wed Oct 09 2024 1:01 PM<!-- v2ex:END -->
+- 🥸 [腾讯云函数计算开启函数 URL 后有莫名奇妙的调用](https://www.v2ex.com/t/1078715#reply0) | Wed Oct 09 2024 3:30 PM
+- 🤗 [移动端 rive vs lottie](https://www.v2ex.com/t/1078714#reply1) | Wed Oct 09 2024 3:26 PM
+- 🎭 [字节跳动 AI 技术训练营，开启报名](https://www.v2ex.com/t/1078711#reply0) | Wed Oct 09 2024 2:58 PM
+- 🥷 [Windows11 24H2 中的 explorer 强制 recall 作为 dependency](https://www.v2ex.com/t/1078706#reply6) | Wed Oct 09 2024 2:21 PM
+- 🐵 [问下各位大佬, 关于数据库类型 bigint](https://www.v2ex.com/t/1078696#reply4) | Wed Oct 09 2024 1:38 PM<!-- v2ex:END -->
 
