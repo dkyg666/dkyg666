@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [Google Voice 失效了还能找回吗](https://www.v2ex.com/t/1078858#reply3) | Thu Oct 10 2024 5:53 AM
-- 🤗 [Waydroid 或者 Android Studio 的模拟器如何通过 SafetyNet 或者 Play Integrity 检测？](https://www.v2ex.com/t/1078852#reply0) | Thu Oct 10 2024 5:40 AM
-- 🎭 [安卓手机音量键和电源键都在一侧，是优点还是缺点？](https://www.v2ex.com/t/1078848#reply11) | Thu Oct 10 2024 5:17 AM
-- 🥷 [求助:Mysql 数据文件夹如何被新安装的 Mysql 读取](https://www.v2ex.com/t/1078844#reply1) | Thu Oct 10 2024 4:59 AM
-- 🐵 [[出海记录] 开发新手做的第 7 个新站-flux 图片站](https://www.v2ex.com/t/1078840#reply1) | Thu Oct 10 2024 4:38 AM<!-- v2ex:END -->
+- 🥸 [被裁程序员，第一次下海创业，希望大家支持一下，多多提意见！](https://www.v2ex.com/t/1078899#reply0) | Thu Oct 10 2024 7:11 AM
+- 🤗 [webstorm 创建文件后的模版内容如何修改](https://www.v2ex.com/t/1078888#reply6) | Thu Oct 10 2024 6:50 AM
+- 🎭 [关于 moviepilot 的使用问题](https://www.v2ex.com/t/1078878#reply1) | Thu Oct 10 2024 6:36 AM
+- 🥷 [Docker 镜像重命名 不能加&quot;docker.io&quot;这个字符串吗](https://www.v2ex.com/t/1078874#reply3) | Thu Oct 10 2024 6:27 AM
+- 🐵 [Google Voice 失效了还能找回吗](https://www.v2ex.com/t/1078858#reply6) | Thu Oct 10 2024 5:53 AM<!-- v2ex:END -->
 
