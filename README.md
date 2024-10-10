@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [安卓手机音量键和电源键都在一侧，是优点还是缺点？](https://www.v2ex.com/t/1078848#reply0) | Thu Oct 10 2024 5:17 AM
-- 🤗 [求助:Mysql 数据文件夹如何被新安装的 Mysql 读取](https://www.v2ex.com/t/1078844#reply1) | Thu Oct 10 2024 4:59 AM
-- 🎭 [急，离线状态有无可以绕过企微登录界面的方法](https://www.v2ex.com/t/1078843#reply1) | Thu Oct 10 2024 4:56 AM
-- 🥷 [[出海记录] 开发新手做的第 7 个新站-flux 图片站](https://www.v2ex.com/t/1078840#reply0) | Thu Oct 10 2024 4:38 AM
-- 🐵 [问一个 ipv6 远程访问家里电脑的问题?](https://www.v2ex.com/t/1078838#reply7) | Thu Oct 10 2024 4:32 AM<!-- v2ex:END -->
+- 🥸 [Google Voice 失效了还能找回吗](https://www.v2ex.com/t/1078858#reply3) | Thu Oct 10 2024 5:53 AM
+- 🤗 [Waydroid 或者 Android Studio 的模拟器如何通过 SafetyNet 或者 Play Integrity 检测？](https://www.v2ex.com/t/1078852#reply0) | Thu Oct 10 2024 5:40 AM
+- 🎭 [安卓手机音量键和电源键都在一侧，是优点还是缺点？](https://www.v2ex.com/t/1078848#reply11) | Thu Oct 10 2024 5:17 AM
+- 🥷 [求助:Mysql 数据文件夹如何被新安装的 Mysql 读取](https://www.v2ex.com/t/1078844#reply1) | Thu Oct 10 2024 4:59 AM
+- 🐵 [[出海记录] 开发新手做的第 7 个新站-flux 图片站](https://www.v2ex.com/t/1078840#reply1) | Thu Oct 10 2024 4:38 AM<!-- v2ex:END -->
 
