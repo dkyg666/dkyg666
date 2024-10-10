@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [被裁程序员，第一次下海创业，希望大家支持一下，多多提意见！](https://www.v2ex.com/t/1078899#reply0) | Thu Oct 10 2024 7:11 AM
-- 🤗 [webstorm 创建文件后的模版内容如何修改](https://www.v2ex.com/t/1078888#reply6) | Thu Oct 10 2024 6:50 AM
-- 🎭 [关于 moviepilot 的使用问题](https://www.v2ex.com/t/1078878#reply1) | Thu Oct 10 2024 6:36 AM
-- 🥷 [Docker 镜像重命名 不能加&quot;docker.io&quot;这个字符串吗](https://www.v2ex.com/t/1078874#reply3) | Thu Oct 10 2024 6:27 AM
-- 🐵 [Google Voice 失效了还能找回吗](https://www.v2ex.com/t/1078858#reply6) | Thu Oct 10 2024 5:53 AM<!-- v2ex:END -->
+- 🥸 [10W+的技术文章能挣多少钱？](https://www.v2ex.com/t/1078915#reply13) | Thu Oct 10 2024 7:48 AM
+- 🤗 [[求助] 请教下如何找到这个攻击者](https://www.v2ex.com/t/1078914#reply4) | Thu Oct 10 2024 7:47 AM
+- 🎭 [跨平台文件名乱码问题](https://www.v2ex.com/t/1078905#reply1) | Thu Oct 10 2024 7:20 AM
+- 🥷 [被裁程序员，第一次下海创业，希望大家支持一下，多多提意见！](https://www.v2ex.com/t/1078899#reply16) | Thu Oct 10 2024 7:11 AM
+- 🐵 [webstorm 创建文件后的模版内容如何修改](https://www.v2ex.com/t/1078888#reply6) | Thu Oct 10 2024 6:50 AM<!-- v2ex:END -->
 
