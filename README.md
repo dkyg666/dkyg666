@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [到底哪个大聪明把 ORM 的 Migration 翻译成迁移的](https://www.v2ex.com/t/1078741#reply33) | Wed Oct 09 2024 11:04 PM
-- 🤗 [请问 pip 虚拟环境与--user 比有什么优势吗？](https://www.v2ex.com/t/1078725#reply5) | Wed Oct 09 2024 4:36 PM
-- 🎭 [腾讯云函数计算开启函数 URL 后有莫名奇妙的调用](https://www.v2ex.com/t/1078715#reply3) | Wed Oct 09 2024 3:30 PM
-- 🥷 [移动端 rive vs lottie](https://www.v2ex.com/t/1078714#reply1) | Wed Oct 09 2024 3:26 PM
-- 🐵 [Windows11 24H2 中的 explorer 强制 recall 作为 dependency](https://www.v2ex.com/t/1078706#reply8) | Wed Oct 09 2024 2:21 PM<!-- v2ex:END -->
+- 🥸 [[工作岗位讨论 对比] 自动驾驶系统开发工程师 互联网后端开发](https://www.v2ex.com/t/1078796#reply1) | Thu Oct 10 2024 2:45 AM
+- 🤗 [图床正式上线 xxx.zzz.xxx 不用登陆注册直接用](https://www.v2ex.com/t/1078790#reply3) | Thu Oct 10 2024 2:33 AM
+- 🎭 [NodeJS 如何代理 ws 协议的请求？](https://www.v2ex.com/t/1078777#reply4) | Thu Oct 10 2024 2:04 AM
+- 🥷 [同志们，有木有推荐几个有趣的 follow 订阅节点呀](https://www.v2ex.com/t/1078773#reply5) | Thu Oct 10 2024 1:57 AM
+- 🐵 [滴滴出行后端研发工程师内推](https://www.v2ex.com/t/1078772#reply2) | Thu Oct 10 2024 1:51 AM<!-- v2ex:END -->
 
