@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [有什么跨地组网+webdav 的好方案吗？](https://www.v2ex.com/t/1079341#reply3) | Fri Oct 11 2024 12:23 PM
-- 🤗 [Follow 订阅列表分享: AI Glimpse&lpar;高质量 AI 博客&rpar;](https://www.v2ex.com/t/1079319#reply4) | Fri Oct 11 2024 10:35 AM
-- 🎭 [[技术求教] 如何主动杀死一个 tcp 连接？请大家帮我分析分析。](https://www.v2ex.com/t/1079318#reply11) | Fri Oct 11 2024 10:33 AM
-- 🥷 [GooglePhoto 小小疑问](https://www.v2ex.com/t/1079310#reply1) | Fri Oct 11 2024 10:10 AM
-- 🐵 [bun 添加包感觉非常慢？](https://www.v2ex.com/t/1079307#reply4) | Fri Oct 11 2024 10:07 AM<!-- v2ex:END -->
+- 🥸 [机械硬盘当存储仓库应该如何选择文件存储方法？](https://www.v2ex.com/t/1079366#reply0) | Fri Oct 11 2024 2:13 PM
+- 🤗 [github 上 issue 被删](https://www.v2ex.com/t/1079365#reply1) | Fri Oct 11 2024 2:07 PM
+- 🎭 [关于 chrome 的问题](https://www.v2ex.com/t/1079361#reply5) | Fri Oct 11 2024 1:42 PM
+- 🥷 [有没有合适的大量数据（20T）临时存储服务呀？](https://www.v2ex.com/t/1079358#reply3) | Fri Oct 11 2024 1:37 PM
+- 🐵 [Win11 24H2 的遠端桌面似乎無法通過 UDP 傳輸？](https://www.v2ex.com/t/1079328#reply0) | Fri Oct 11 2024 11:29 AM<!-- v2ex:END -->
 
