@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [简单改造了一下阿里云的 oss2 模块，底层改用 httpx，支持异步和类型提示](https://www.v2ex.com/t/1079372#reply0) | Fri Oct 11 2024 2:44 PM
-- 🤗 [Java 模块化通信](https://www.v2ex.com/t/1079371#reply3) | Fri Oct 11 2024 2:42 PM
-- 🎭 [机械硬盘当存储仓库应该如何选择文件存储方法？](https://www.v2ex.com/t/1079366#reply6) | Fri Oct 11 2024 2:13 PM
-- 🥷 [github 上 issue 被删](https://www.v2ex.com/t/1079365#reply11) | Fri Oct 11 2024 2:07 PM
-- 🐵 [关于 chrome 的问题](https://www.v2ex.com/t/1079361#reply9) | Fri Oct 11 2024 1:42 PM<!-- v2ex:END -->
+- 🥸 [kotlin 没有受检异常真太难顶了。吐槽](https://www.v2ex.com/t/1079399#reply1) | Fri Oct 11 2024 5:28 PM
+- 🤗 [简单改造了一下阿里云的 oss2 模块，底层改用 httpx，支持异步和类型提示](https://www.v2ex.com/t/1079372#reply0) | Fri Oct 11 2024 2:44 PM
+- 🎭 [Java 模块化通信](https://www.v2ex.com/t/1079371#reply3) | Fri Oct 11 2024 2:42 PM
+- 🥷 [机械硬盘当存储仓库应该如何选择文件存储方法？](https://www.v2ex.com/t/1079366#reply6) | Fri Oct 11 2024 2:13 PM
+- 🐵 [github 上 issue 被删](https://www.v2ex.com/t/1079365#reply12) | Fri Oct 11 2024 2:07 PM<!-- v2ex:END -->
 
