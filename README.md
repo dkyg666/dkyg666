@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [群晖炒豆子声响怎么回事？](https://www.v2ex.com/t/1079125#reply0) | Fri Oct 11 2024 2:44 AM
-- 🤗 [如何增强自己的程序设计水平？](https://www.v2ex.com/t/1079123#reply1) | Fri Oct 11 2024 2:40 AM
-- 🎭 [分享 Follow 的 RSS 订阅列表&lpar;会持续更新&rpar;](https://www.v2ex.com/t/1079117#reply3) | Fri Oct 11 2024 2:27 AM
-- 🥷 [前后端协作开发遇到的 api 地址问题](https://www.v2ex.com/t/1079115#reply10) | Fri Oct 11 2024 2:24 AM
-- 🐵 [程序中 100 元钱， 3 人 aa 收款应该怎么分配金额最合理](https://www.v2ex.com/t/1079114#reply10) | Fri Oct 11 2024 2:24 AM<!-- v2ex:END -->
+- 🥸 [想给我爸换个手机，有没有推荐的](https://www.v2ex.com/t/1079150#reply1) | Fri Oct 11 2024 3:17 AM
+- 🤗 [follow 签到为什么这么慢？](https://www.v2ex.com/t/1079142#reply2) | Fri Oct 11 2024 3:10 AM
+- 🎭 [是不是支持 Win11 的迷你主机都带 TPM2.0？](https://www.v2ex.com/t/1079140#reply0) | Fri Oct 11 2024 3:07 AM
+- 🥷 [这两天把 chrome 升级到 129，内存泄露严重，有人遇到过？](https://www.v2ex.com/t/1079138#reply1) | Fri Oct 11 2024 3:05 AM
+- 🐵 [群晖炒豆子声响怎么回事？](https://www.v2ex.com/t/1079125#reply13) | Fri Oct 11 2024 2:44 AM<!-- v2ex:END -->
 
