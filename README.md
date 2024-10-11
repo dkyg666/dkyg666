@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [发现一种广告手机](https://www.v2ex.com/t/1079182#reply2) | Fri Oct 11 2024 5:00 AM
-- 🤗 [新注册的 gvoice 还能够转移吗？](https://www.v2ex.com/t/1079178#reply1) | Fri Oct 11 2024 4:44 AM
-- 🎭 [求推荐一些 Follow 订阅](https://www.v2ex.com/t/1079170#reply3) | Fri Oct 11 2024 4:13 AM
-- 🥷 [最近尝试了下 cursor 开发, 试着开发一个股票复盘小软件](https://www.v2ex.com/t/1079156#reply0) | Fri Oct 11 2024 3:25 AM
-- 🐵 [想给我爸换个手机，有没有推荐的](https://www.v2ex.com/t/1079150#reply6) | Fri Oct 11 2024 3:17 AM<!-- v2ex:END -->
+- 🥸 [chrome 129 在地址栏快速搜索的时候有概率触发](https://www.v2ex.com/t/1079202#reply0) | Fri Oct 11 2024 6:01 AM
+- 🤗 [想弄个 NAS，请教下各位前辈](https://www.v2ex.com/t/1079191#reply5) | Fri Oct 11 2024 5:28 AM
+- 🎭 [推荐一个可在国内使用的类似 Google fonts 但支持中文的网页字体服务](https://www.v2ex.com/t/1079189#reply7) | Fri Oct 11 2024 5:18 AM
+- 🥷 [发现一种广告手机](https://www.v2ex.com/t/1079182#reply4) | Fri Oct 11 2024 5:00 AM
+- 🐵 [新注册的 gvoice 还能够转移吗？](https://www.v2ex.com/t/1079178#reply1) | Fri Oct 11 2024 4:44 AM<!-- v2ex:END -->
 
