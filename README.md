@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [机械硬盘当存储仓库应该如何选择文件存储方法？](https://www.v2ex.com/t/1079366#reply0) | Fri Oct 11 2024 2:13 PM
-- 🤗 [github 上 issue 被删](https://www.v2ex.com/t/1079365#reply1) | Fri Oct 11 2024 2:07 PM
-- 🎭 [关于 chrome 的问题](https://www.v2ex.com/t/1079361#reply5) | Fri Oct 11 2024 1:42 PM
-- 🥷 [有没有合适的大量数据（20T）临时存储服务呀？](https://www.v2ex.com/t/1079358#reply3) | Fri Oct 11 2024 1:37 PM
-- 🐵 [Win11 24H2 的遠端桌面似乎無法通過 UDP 傳輸？](https://www.v2ex.com/t/1079328#reply0) | Fri Oct 11 2024 11:29 AM<!-- v2ex:END -->
+- 🥸 [简单改造了一下阿里云的 oss2 模块，底层改用 httpx，支持异步和类型提示](https://www.v2ex.com/t/1079372#reply0) | Fri Oct 11 2024 2:44 PM
+- 🤗 [Java 模块化通信](https://www.v2ex.com/t/1079371#reply2) | Fri Oct 11 2024 2:42 PM
+- 🎭 [机械硬盘当存储仓库应该如何选择文件存储方法？](https://www.v2ex.com/t/1079366#reply5) | Fri Oct 11 2024 2:13 PM
+- 🥷 [github 上 issue 被删](https://www.v2ex.com/t/1079365#reply5) | Fri Oct 11 2024 2:07 PM
+- 🐵 [关于 chrome 的问题](https://www.v2ex.com/t/1079361#reply7) | Fri Oct 11 2024 1:42 PM<!-- v2ex:END -->
 
