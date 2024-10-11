@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [想给我爸换个手机，有没有推荐的](https://www.v2ex.com/t/1079150#reply1) | Fri Oct 11 2024 3:17 AM
-- 🤗 [follow 签到为什么这么慢？](https://www.v2ex.com/t/1079142#reply2) | Fri Oct 11 2024 3:10 AM
-- 🎭 [是不是支持 Win11 的迷你主机都带 TPM2.0？](https://www.v2ex.com/t/1079140#reply0) | Fri Oct 11 2024 3:07 AM
-- 🥷 [这两天把 chrome 升级到 129，内存泄露严重，有人遇到过？](https://www.v2ex.com/t/1079138#reply1) | Fri Oct 11 2024 3:05 AM
-- 🐵 [群晖炒豆子声响怎么回事？](https://www.v2ex.com/t/1079125#reply13) | Fri Oct 11 2024 2:44 AM<!-- v2ex:END -->
+- 🥸 [求推荐一些 Follow 订阅](https://www.v2ex.com/t/1079170#reply1) | Fri Oct 11 2024 4:13 AM
+- 🤗 [最近尝试了下 cursor 开发, 试着开发一个股票复盘小软件](https://www.v2ex.com/t/1079156#reply0) | Fri Oct 11 2024 3:25 AM
+- 🎭 [想给我爸换个手机，有没有推荐的](https://www.v2ex.com/t/1079150#reply5) | Fri Oct 11 2024 3:17 AM
+- 🥷 [follow 签到为什么这么慢？](https://www.v2ex.com/t/1079142#reply5) | Fri Oct 11 2024 3:10 AM
+- 🐵 [是不是支持 Win11 的迷你主机都带 TPM2.0？](https://www.v2ex.com/t/1079140#reply2) | Fri Oct 11 2024 3:07 AM<!-- v2ex:END -->
 
