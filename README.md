@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [GooglePhoto 小小疑问](https://www.v2ex.com/t/1079310#reply0) | Fri Oct 11 2024 10:10 AM
-- 🤗 [bun 添加包感觉非常慢？](https://www.v2ex.com/t/1079307#reply2) | Fri Oct 11 2024 10:07 AM
-- 🎭 [Google fi 邀请链接，各得 60 美金](https://www.v2ex.com/t/1079304#reply0) | Fri Oct 11 2024 9:56 AM
-- 🥷 [如何学习一门新技术](https://www.v2ex.com/t/1079275#reply9) | Fri Oct 11 2024 9:00 AM
-- 🐵 [写了几篇垃圾收集器 G1 的博客，感兴趣的朋友可以看看。](https://www.v2ex.com/t/1079253#reply3) | Fri Oct 11 2024 8:10 AM<!-- v2ex:END -->
+- 🥸 [Follow 订阅列表分享: AI Glimpse&lpar;高质量 AI 博客&rpar;](https://www.v2ex.com/t/1079319#reply1) | Fri Oct 11 2024 10:35 AM
+- 🤗 [[技术求教] 如何主动杀死一个 tcp 连接？请大家帮我分析分析。](https://www.v2ex.com/t/1079318#reply3) | Fri Oct 11 2024 10:33 AM
+- 🎭 [GooglePhoto 小小疑问](https://www.v2ex.com/t/1079310#reply1) | Fri Oct 11 2024 10:10 AM
+- 🥷 [bun 添加包感觉非常慢？](https://www.v2ex.com/t/1079307#reply4) | Fri Oct 11 2024 10:07 AM
+- 🐵 [Google fi 邀请链接，各得 60 美金](https://www.v2ex.com/t/1079304#reply0) | Fri Oct 11 2024 9:56 AM<!-- v2ex:END -->
 
