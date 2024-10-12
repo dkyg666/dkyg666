@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [Follow 订阅列表-动漫向 new 之前的挂了](https://www.v2ex.com/t/1079579#reply0) | Sat Oct 12 2024 6:23 AM
-- 🤗 [没搞明白， follow.is 火的点是啥？](https://www.v2ex.com/t/1079577#reply0) | Sat Oct 12 2024 6:22 AM
-- 🎭 [VSCode 偶尔打不出中文](https://www.v2ex.com/t/1079574#reply3) | Sat Oct 12 2024 6:13 AM
-- 🥷 [开源了一个 discordbot 项目，结合青龙的 OpenAPI 实现在 discord 中用指令来新增和更新环境变量](https://www.v2ex.com/t/1079561#reply0) | Sat Oct 12 2024 5:51 AM
-- 🐵 [求助 OpenHarmony 认证](https://www.v2ex.com/t/1079556#reply1) | Sat Oct 12 2024 5:44 AM<!-- v2ex:END -->
+- 🥸 [有没有泉州的软件工程师，一起线下面基啊！](https://www.v2ex.com/t/1079604#reply1) | Sat Oct 12 2024 7:08 AM
+- 🤗 [VUE 拖拽生成前端，有点样子了嘿嘿](https://www.v2ex.com/t/1079598#reply0) | Sat Oct 12 2024 7:02 AM
+- 🎭 [使用 apifox 必须手动导出 openapi.json 文件吗？有没有简单一点的办法能在后端推送 apifox 文档的时候自动同步一份 openapi.json 配置供前端使用？有没有懂的大佬指导一二](https://www.v2ex.com/t/1079592#reply0) | Sat Oct 12 2024 6:57 AM
+- 🥷 [Follow 订阅列表-动漫向 new 之前的挂了](https://www.v2ex.com/t/1079579#reply1) | Sat Oct 12 2024 6:23 AM
+- 🐵 [没搞明白， follow.is 火的点是啥？](https://www.v2ex.com/t/1079577#reply1) | Sat Oct 12 2024 6:22 AM<!-- v2ex:END -->
 
