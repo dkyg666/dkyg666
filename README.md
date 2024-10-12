@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [对于初学者或者生手，是从 B 站开始学还是， CSDN 或者 GitHub](https://www.v2ex.com/t/1079546#reply0) | Sat Oct 12 2024 5:15 AM
-- 🤗 [Linux 系统崩溃卡死，但没有任何 dump 输出，该如何排查？](https://www.v2ex.com/t/1079519#reply0) | Sat Oct 12 2024 3:32 AM
-- 🎭 [go-carbon v2.4.0 发布，轻量级、语义化、对开发者友好的 golang 时间处理库](https://www.v2ex.com/t/1079518#reply0) | Sat Oct 12 2024 3:31 AM
-- 🥷 [我的开源项目 5K Star 啦～～](https://www.v2ex.com/t/1079516#reply11) | Sat Oct 12 2024 3:27 AM
-- 🐵 [Android Studio 中的 Gemini 有人用过吗? 和 github copilot 相比如何?](https://www.v2ex.com/t/1079505#reply2) | Sat Oct 12 2024 3:11 AM<!-- v2ex:END -->
+- 🥸 [Follow 订阅列表-动漫向 new 之前的挂了](https://www.v2ex.com/t/1079579#reply0) | Sat Oct 12 2024 6:23 AM
+- 🤗 [没搞明白， follow.is 火的点是啥？](https://www.v2ex.com/t/1079577#reply0) | Sat Oct 12 2024 6:22 AM
+- 🎭 [VSCode 偶尔打不出中文](https://www.v2ex.com/t/1079574#reply3) | Sat Oct 12 2024 6:13 AM
+- 🥷 [开源了一个 discordbot 项目，结合青龙的 OpenAPI 实现在 discord 中用指令来新增和更新环境变量](https://www.v2ex.com/t/1079561#reply0) | Sat Oct 12 2024 5:51 AM
+- 🐵 [求助 OpenHarmony 认证](https://www.v2ex.com/t/1079556#reply1) | Sat Oct 12 2024 5:44 AM<!-- v2ex:END -->
 
