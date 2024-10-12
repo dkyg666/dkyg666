@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [我的自制 follow 订阅，每天更新 cb 小姐姐（持续更新中）](https://www.v2ex.com/t/1079528#reply0) | Sat Oct 12 2024 3:51 AM
+- 🥸 [对于初学者或者生手，是从 B 站开始学还是， CSDN 或者 GitHub](https://www.v2ex.com/t/1079546#reply0) | Sat Oct 12 2024 5:15 AM
 - 🤗 [Linux 系统崩溃卡死，但没有任何 dump 输出，该如何排查？](https://www.v2ex.com/t/1079519#reply0) | Sat Oct 12 2024 3:32 AM
 - 🎭 [go-carbon v2.4.0 发布，轻量级、语义化、对开发者友好的 golang 时间处理库](https://www.v2ex.com/t/1079518#reply0) | Sat Oct 12 2024 3:31 AM
-- 🥷 [我的开源项目 5K Star 啦～～](https://www.v2ex.com/t/1079516#reply8) | Sat Oct 12 2024 3:27 AM
+- 🥷 [我的开源项目 5K Star 啦～～](https://www.v2ex.com/t/1079516#reply11) | Sat Oct 12 2024 3:27 AM
 - 🐵 [Android Studio 中的 Gemini 有人用过吗? 和 github copilot 相比如何?](https://www.v2ex.com/t/1079505#reply2) | Sat Oct 12 2024 3:11 AM<!-- v2ex:END -->
 
