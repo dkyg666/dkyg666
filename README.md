@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [Linux 下测试硬件稳定性有什么软件推荐？](https://www.v2ex.com/t/1079487#reply0) | Sat Oct 12 2024 2:43 AM
-- 🤗 [ipv6 远程访问 windows nas](https://www.v2ex.com/t/1079485#reply0) | Sat Oct 12 2024 2:40 AM
-- 🎭 [MIUI 锁屏后的消息列表，怎么设置的和 iOS 一样？](https://www.v2ex.com/t/1079476#reply0) | Sat Oct 12 2024 2:28 AM
-- 🥷 [安卓手机怎么删除广告偏好？](https://www.v2ex.com/t/1079475#reply0) | Sat Oct 12 2024 2:28 AM
-- 🐵 [swagger-ui, redoc 好像都快弃坑了， rapi 作者似乎却干劲十足， openapi-ui 作者躺平式更新，大家现在都在用什么 api 文档软件，经济下行，开源弃坑的好像越来越多？](https://www.v2ex.com/t/1079457#reply15) | Sat Oct 12 2024 2:00 AM<!-- v2ex:END -->
+- 🥸 [Android Studio 中的 Gemini 有人用过吗? 和 github copilot 相比如何?](https://www.v2ex.com/t/1079505#reply1) | Sat Oct 12 2024 3:11 AM
+- 🤗 [有做 Upwork 副业的同学么？我来帮你们开单了](https://www.v2ex.com/t/1079502#reply0) | Sat Oct 12 2024 3:10 AM
+- 🎭 [周末喜欢听歌，各位程序员大佬，电脑的外接音响有推荐的吗，预算 600 元以下](https://www.v2ex.com/t/1079496#reply4) | Sat Oct 12 2024 2:57 AM
+- 🥷 [关于 Linux 系统 uid、gid 及 mysql 部署的相关问题求解](https://www.v2ex.com/t/1079494#reply0) | Sat Oct 12 2024 2:54 AM
+- 🐵 [Element 主页的这个是咋实现的勒](https://www.v2ex.com/t/1079493#reply10) | Sat Oct 12 2024 2:49 AM<!-- v2ex:END -->
 
