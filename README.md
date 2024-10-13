@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [Windows on ARM 的现代待机体验太牛了](https://www.v2ex.com/t/1079795#reply1) | Sun Oct 13 2024 6:06 AM
-- 🤗 [AI 成本太高怎么办？](https://www.v2ex.com/t/1079788#reply5) | Sun Oct 13 2024 5:20 AM
-- 🎭 [有移动端可以语音识别使用的 ai 模型吗](https://www.v2ex.com/t/1079776#reply1) | Sun Oct 13 2024 3:29 AM
-- 🥷 [Chrome DOH 设置的诡异现象如何解决？](https://www.v2ex.com/t/1079773#reply0) | Sun Oct 13 2024 3:07 AM
-- 🐵 [LineageOS 等类原生 QPR2 后无法打开使用梆梆加固的应用的问题](https://www.v2ex.com/t/1079768#reply0) | Sun Oct 13 2024 2:43 AM<!-- v2ex:END -->
+- 🥸 [NotionNext 这个项目有点恐怖啊，在文档页面按 f12 会卡死电脑，这是合理的防御手段吗](https://www.v2ex.com/t/1079807#reply0) | Sun Oct 13 2024 7:10 AM
+- 🤗 [自学 Java 很容易忘怎么办](https://www.v2ex.com/t/1079806#reply0) | Sun Oct 13 2024 7:10 AM
+- 🎭 [评测/推荐 几款 rss 阅读器](https://www.v2ex.com/t/1079804#reply0) | Sun Oct 13 2024 6:49 AM
+- 🥷 [关于 Follow 订阅即刻用户问题](https://www.v2ex.com/t/1079800#reply2) | Sun Oct 13 2024 6:27 AM
+- 🐵 [Windows on ARM 的现代待机体验太牛了](https://www.v2ex.com/t/1079795#reply6) | Sun Oct 13 2024 6:06 AM<!-- v2ex:END -->
 
