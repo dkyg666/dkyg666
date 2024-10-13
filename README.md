@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [有移动端可以语音识别使用的 ai 模型吗](https://www.v2ex.com/t/1079776#reply1) | Sun Oct 13 2024 3:29 AM
-- 🤗 [Chrome DOH 设置的诡异现象如何解决？](https://www.v2ex.com/t/1079773#reply0) | Sun Oct 13 2024 3:07 AM
-- 🎭 [LineageOS 等类原生 QPR2 后无法打开使用梆梆加固的应用的问题](https://www.v2ex.com/t/1079768#reply0) | Sun Oct 13 2024 2:43 AM
-- 🥷 [推荐一个我自己写的 RSS 阅读器](https://www.v2ex.com/t/1079762#reply3) | Sun Oct 13 2024 2:05 AM
-- 🐵 [求问！ nodejs 中用 Axios 发送请求出现 ECONNRESET 一般是什么情况引起的？](https://www.v2ex.com/t/1079756#reply2) | Sun Oct 13 2024 1:38 AM<!-- v2ex:END -->
+- 🥸 [Windows on ARM 的现代待机体验太牛了](https://www.v2ex.com/t/1079795#reply1) | Sun Oct 13 2024 6:06 AM
+- 🤗 [AI 成本太高怎么办？](https://www.v2ex.com/t/1079788#reply5) | Sun Oct 13 2024 5:20 AM
+- 🎭 [有移动端可以语音识别使用的 ai 模型吗](https://www.v2ex.com/t/1079776#reply1) | Sun Oct 13 2024 3:29 AM
+- 🥷 [Chrome DOH 设置的诡异现象如何解决？](https://www.v2ex.com/t/1079773#reply0) | Sun Oct 13 2024 3:07 AM
+- 🐵 [LineageOS 等类原生 QPR2 后无法打开使用梆梆加固的应用的问题](https://www.v2ex.com/t/1079768#reply0) | Sun Oct 13 2024 2:43 AM<!-- v2ex:END -->
 
