@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [有使用 NextCloud 的朋友吗？ 问一下 [服务器端加密] 功能，是开了就自动加密，解密就是用户密码对吧？](https://www.v2ex.com/t/1079852#reply1) | Sun Oct 13 2024 11:21 AM
-- 🤗 [一个很老的话题，但还是想问问大家，后端搞前端怎么选](https://www.v2ex.com/t/1079848#reply10) | Sun Oct 13 2024 11:17 AM
-- 🎭 [麻烦问下 C 语言写的游戏，玩家在游戏中打出带颜色的字体用什么命令啊？](https://www.v2ex.com/t/1079845#reply2) | Sun Oct 13 2024 10:50 AM
-- 🥷 [mac vsc 在 tsx 文件的注释里复制文本的怪异行为](https://www.v2ex.com/t/1079842#reply0) | Sun Oct 13 2024 10:41 AM
-- 🐵 [后台定时任务可否根据客户端时区定时推送？](https://www.v2ex.com/t/1079832#reply3) | Sun Oct 13 2024 9:45 AM<!-- v2ex:END -->
+- 🥸 [鸿蒙的 helloworld 第一天就被劝退](https://www.v2ex.com/t/1079871#reply1) | Sun Oct 13 2024 1:14 PM
+- 🤗 [有使用 NextCloud 的朋友吗？ 问一下 [服务器端加密] 功能，是开了就自动加密，解密就是用户密码对吧？](https://www.v2ex.com/t/1079852#reply1) | Sun Oct 13 2024 11:21 AM
+- 🎭 [一个很老的话题，但还是想问问大家，后端搞前端怎么选](https://www.v2ex.com/t/1079848#reply10) | Sun Oct 13 2024 11:17 AM
+- 🥷 [麻烦问下 C 语言写的游戏，玩家在游戏中打出带颜色的字体用什么命令啊？](https://www.v2ex.com/t/1079845#reply3) | Sun Oct 13 2024 10:50 AM
+- 🐵 [mac vsc 在 tsx 文件的注释里复制文本的怪异行为](https://www.v2ex.com/t/1079842#reply0) | Sun Oct 13 2024 10:41 AM<!-- v2ex:END -->
 
