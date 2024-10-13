@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [Windows11 VSCode gopls 导入包卡顿](https://www.v2ex.com/t/1079825#reply0) | Sun Oct 13 2024 9:13 AM
-- 🤗 [哪里可以买到 Windows 11 LTSC？](https://www.v2ex.com/t/1079824#reply2) | Sun Oct 13 2024 9:09 AM
-- 🎭 [本地裸金属集群的 LoadBalancer 方案](https://www.v2ex.com/t/1079823#reply1) | Sun Oct 13 2024 8:53 AM
-- 🥷 [本地集群的 LoadBalancer 方案](https://www.v2ex.com/t/1079816#reply0) | Sun Oct 13 2024 7:55 AM
-- 🐵 [NotionNext 这个项目有点恐怖啊，在文档页面按 f12 会卡死电脑，这是合理的防御手段吗](https://www.v2ex.com/t/1079807#reply8) | Sun Oct 13 2024 7:10 AM<!-- v2ex:END -->
+- 🥸 [后台定时任务可否根据客户端时区定时推送？](https://www.v2ex.com/t/1079832#reply2) | Sun Oct 13 2024 9:45 AM
+- 🤗 [不想登录 Apifox，写了个简单的 self-host mock 服务](https://www.v2ex.com/t/1079831#reply0) | Sun Oct 13 2024 9:43 AM
+- 🎭 [Windows11 VSCode gopls 导入包卡顿](https://www.v2ex.com/t/1079825#reply0) | Sun Oct 13 2024 9:13 AM
+- 🥷 [哪里可以买到 Windows 11 LTSC？](https://www.v2ex.com/t/1079824#reply19) | Sun Oct 13 2024 9:09 AM
+- 🐵 [本地裸金属集群的 LoadBalancer 方案](https://www.v2ex.com/t/1079823#reply3) | Sun Oct 13 2024 8:53 AM<!-- v2ex:END -->
 
