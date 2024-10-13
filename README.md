@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [本地集群的 LoadBalancer 方案](https://www.v2ex.com/t/1079816#reply0) | Sun Oct 13 2024 7:55 AM
-- 🤗 [大佬求一个馒头的邀请](https://www.v2ex.com/t/1079808#reply1) | Sun Oct 13 2024 7:18 AM
-- 🎭 [NotionNext 这个项目有点恐怖啊，在文档页面按 f12 会卡死电脑，这是合理的防御手段吗](https://www.v2ex.com/t/1079807#reply6) | Sun Oct 13 2024 7:10 AM
-- 🥷 [自学 Java 很容易忘怎么办](https://www.v2ex.com/t/1079806#reply6) | Sun Oct 13 2024 7:10 AM
-- 🐵 [评测/推荐 几款 rss 阅读器](https://www.v2ex.com/t/1079804#reply6) | Sun Oct 13 2024 6:49 AM<!-- v2ex:END -->
+- 🥸 [Windows11 VSCode gopls 导入包卡顿](https://www.v2ex.com/t/1079825#reply0) | Sun Oct 13 2024 9:13 AM
+- 🤗 [哪里可以买到 Windows 11 LTSC？](https://www.v2ex.com/t/1079824#reply2) | Sun Oct 13 2024 9:09 AM
+- 🎭 [本地裸金属集群的 LoadBalancer 方案](https://www.v2ex.com/t/1079823#reply1) | Sun Oct 13 2024 8:53 AM
+- 🥷 [本地集群的 LoadBalancer 方案](https://www.v2ex.com/t/1079816#reply0) | Sun Oct 13 2024 7:55 AM
+- 🐵 [NotionNext 这个项目有点恐怖啊，在文档页面按 f12 会卡死电脑，这是合理的防御手段吗](https://www.v2ex.com/t/1079807#reply8) | Sun Oct 13 2024 7:10 AM<!-- v2ex:END -->
 
