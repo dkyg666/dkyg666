@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [让我看看哪些同学在长期坚持写原创博客和为爱发电迭代开源项目，留下自己的博客或者 github 主页观摩一波](https://www.v2ex.com/t/1079939#reply0) | Mon Oct 14 2024 1:35 AM
-- 🤗 [腾讯云 阿里云 公共 DNS 未使用期间每周都产生一条解析记录](https://www.v2ex.com/t/1079923#reply1) | Mon Oct 14 2024 1:09 AM
-- 🎭 [关注网络安全资讯的 follow list](https://www.v2ex.com/t/1079911#reply1) | Sun Oct 13 2024 11:33 PM
-- 🥷 [群晖 DS423+ NVME SSD 速度极慢！](https://www.v2ex.com/t/1079909#reply5) | Sun Oct 13 2024 9:44 PM
-- 🐵 [小 心 任 何 二 次 接 手 的 代 码](https://www.v2ex.com/t/1079893#reply65) | Sun Oct 13 2024 3:26 PM<!-- v2ex:END -->
+- 🥸 [分享 follow 源，并送出 power 所得邀请码。](https://www.v2ex.com/t/1079980#reply2) | Mon Oct 14 2024 2:34 AM
+- 🤗 [一个很奇怪，有意思的接口反爬策略](https://www.v2ex.com/t/1079960#reply13) | Mon Oct 14 2024 2:02 AM
+- 🎭 [如何预防上班导致的颈椎问题，软硬件推荐](https://www.v2ex.com/t/1079950#reply9) | Mon Oct 14 2024 1:55 AM
+- 🥷 [求助用 putty 远程登录 Linux](https://www.v2ex.com/t/1079943#reply8) | Mon Oct 14 2024 1:48 AM
+- 🐵 [follow 最近这么火，他支持 api 调用吗](https://www.v2ex.com/t/1079942#reply8) | Mon Oct 14 2024 1:47 AM<!-- v2ex:END -->
 
