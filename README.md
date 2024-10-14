@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [送 Follow 邀请码](https://www.v2ex.com/t/1080057#reply2) | Mon Oct 14 2024 5:08 AM
-- 🤗 [想找一个 pj 软件的技术 给改个软件 有的话留个联系方式 我](https://www.v2ex.com/t/1080028#reply12) | Mon Oct 14 2024 3:39 AM
-- 🎭 [obsidian 有预览 work execel 的插件吗， obsidian 目录中连.doc 文件都不显示，有点糟心啊](https://www.v2ex.com/t/1080004#reply2) | Mon Oct 14 2024 3:12 AM
-- 🥷 [硬盘推荐](https://www.v2ex.com/t/1079993#reply7) | Mon Oct 14 2024 2:56 AM
-- 🐵 [分享 follow 源，并送出 power 所得邀请码。](https://www.v2ex.com/t/1079980#reply18) | Mon Oct 14 2024 2:34 AM<!-- v2ex:END -->
+- 🥸 [国产的 PDF 文档格式 OFD 有知道的吗，写了一个 TypeScript 进行解析渲染 OFD 格式文档的库](https://www.v2ex.com/t/1080089#reply0) | Mon Oct 14 2024 6:23 AM
+- 🤗 [出自用 iphone15](https://www.v2ex.com/t/1080082#reply1) | Mon Oct 14 2024 6:06 AM
+- 🎭 [现在有点明白什么是技术债了](https://www.v2ex.com/t/1080071#reply5) | Mon Oct 14 2024 5:41 AM
+- 🥷 [想找一个 pj 软件的技术 给改个软件 有的话留个联系方式 我](https://www.v2ex.com/t/1080028#reply13) | Mon Oct 14 2024 3:39 AM
+- 🐵 [obsidian 有预览 work execel 的插件吗， obsidian 目录中连.doc 文件都不显示，有点糟心啊](https://www.v2ex.com/t/1080004#reply2) | Mon Oct 14 2024 3:12 AM<!-- v2ex:END -->
 
