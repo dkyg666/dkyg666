@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [单用户余额高并发支出收入有啥好方案？](https://www.v2ex.com/t/1080273#reply2) | Mon Oct 14 2024 4:12 PM
-- 🤗 [求助，如何在反向代理的基础上实现 IP 轮换？](https://www.v2ex.com/t/1080255#reply6) | Mon Oct 14 2024 2:00 PM
-- 🎭 [聊一聊个人遇到职场上的问题，欢迎各位老哥来一起探讨](https://www.v2ex.com/t/1080244#reply5) | Mon Oct 14 2024 1:12 PM
-- 🥷 [请教下有通信调度业务相关的 go 项目学习吗](https://www.v2ex.com/t/1080242#reply1) | Mon Oct 14 2024 1:00 PM
-- 🐵 [其实我经常好奇一件事, 为什么 Python 得 dict 没有 set 方法, 有人知道什么历史原因吗](https://www.v2ex.com/t/1080237#reply12) | Mon Oct 14 2024 12:46 PM<!-- v2ex:END -->
+- 🥸 [做了一个关于资源分享的站点 follow 源，欢迎大家关注。](https://www.v2ex.com/t/1080277#reply0) | Mon Oct 14 2024 4:48 PM
+- 🤗 [单用户余额高并发支出收入有啥好方案？](https://www.v2ex.com/t/1080273#reply3) | Mon Oct 14 2024 4:12 PM
+- 🎭 [求助，如何在反向代理的基础上实现 IP 轮换？](https://www.v2ex.com/t/1080255#reply7) | Mon Oct 14 2024 2:00 PM
+- 🥷 [聊一聊个人遇到职场上的问题，欢迎各位老哥来一起探讨](https://www.v2ex.com/t/1080244#reply5) | Mon Oct 14 2024 1:12 PM
+- 🐵 [请教下有通信调度业务相关的 go 项目学习吗](https://www.v2ex.com/t/1080242#reply1) | Mon Oct 14 2024 1:00 PM<!-- v2ex:END -->
 
