@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [在 bing 可以搜到我的截图库了](https://www.v2ex.com/t/1080113#reply1) | Mon Oct 14 2024 7:09 AM
-- 🤗 [独立开发周记 88： J2SE 5.0](https://www.v2ex.com/t/1080093#reply1) | Mon Oct 14 2024 6:30 AM
-- 🎭 [国产的 PDF 文档格式 OFD 有知道的吗，写了一个 TypeScript 进行解析渲染 OFD 格式文档的库](https://www.v2ex.com/t/1080089#reply2) | Mon Oct 14 2024 6:23 AM
-- 🥷 [出自用 iphone15](https://www.v2ex.com/t/1080082#reply4) | Mon Oct 14 2024 6:06 AM
-- 🐵 [现在有点明白什么是技术债了](https://www.v2ex.com/t/1080071#reply5) | Mon Oct 14 2024 5:41 AM<!-- v2ex:END -->
+- 🥸 [今天 SSH 远程所有的主机，都会卡在这里，但是远程 阿里云的可以](https://www.v2ex.com/t/1080157#reply1) | Mon Oct 14 2024 8:21 AM
+- 🤗 [用 Python 脚本在 windows 上自动购买货币基金](https://www.v2ex.com/t/1080134#reply4) | Mon Oct 14 2024 7:33 AM
+- 🎭 [为什么日本的工业这么发达， IT 技术比中国还落后很多？](https://www.v2ex.com/t/1080133#reply16) | Mon Oct 14 2024 7:31 AM
+- 🥷 [分享我的 follow 源。](https://www.v2ex.com/t/1080127#reply9) | Mon Oct 14 2024 7:23 AM
+- 🐵 [在 bing 可以搜到我的截图库了](https://www.v2ex.com/t/1080113#reply4) | Mon Oct 14 2024 7:09 AM<!-- v2ex:END -->
 
