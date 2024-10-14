@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [obsidian 有预览 work execel 的插件吗， obsidian 目录中连.doc 文件都不显示，有点糟心啊](https://www.v2ex.com/t/1080004#reply0) | Mon Oct 14 2024 3:12 AM
-- 🤗 [今天我老婆给我转发了一篇中医文章有感](https://www.v2ex.com/t/1079998#reply9) | Mon Oct 14 2024 3:08 AM
-- 🎭 [硬盘推荐](https://www.v2ex.com/t/1079993#reply2) | Mon Oct 14 2024 2:56 AM
-- 🥷 [分享 follow 源，并送出 power 所得邀请码。](https://www.v2ex.com/t/1079980#reply11) | Mon Oct 14 2024 2:34 AM
-- 🐵 [一个很奇怪，有意思的接口反爬策略](https://www.v2ex.com/t/1079960#reply13) | Mon Oct 14 2024 2:02 AM<!-- v2ex:END -->
+- 🥸 [想找一个 pj 软件的技术 给改个软件 有的话留个联系方式 我](https://www.v2ex.com/t/1080028#reply7) | Mon Oct 14 2024 3:39 AM
+- 🤗 [obsidian 有预览 work execel 的插件吗， obsidian 目录中连.doc 文件都不显示，有点糟心啊](https://www.v2ex.com/t/1080004#reply2) | Mon Oct 14 2024 3:12 AM
+- 🎭 [今天我老婆给我转发了一篇中医文章有感](https://www.v2ex.com/t/1079998#reply32) | Mon Oct 14 2024 3:08 AM
+- 🥷 [硬盘推荐](https://www.v2ex.com/t/1079993#reply6) | Mon Oct 14 2024 2:56 AM
+- 🐵 [分享 follow 源，并送出 power 所得邀请码。](https://www.v2ex.com/t/1079980#reply16) | Mon Oct 14 2024 2:34 AM<!-- v2ex:END -->
 
