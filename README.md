@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [评论区随机掉落两枚 Follow 邀请码](https://www.v2ex.com/t/1080352#reply30) | Tue Oct 15 2024 2:29 AM
-- 🤗 [mysql 5.7 升级 8.0 性能提升 or 下降](https://www.v2ex.com/t/1080349#reply4) | Tue Oct 15 2024 2:27 AM
-- 🎭 [求助使用一加手机并 Root 的大佬现身说法](https://www.v2ex.com/t/1080347#reply3) | Tue Oct 15 2024 2:23 AM
-- 🥷 [Follow, the app](https://www.v2ex.com/t/1080339#reply8) | Tue Oct 15 2024 2:08 AM
-- 🐵 [浏览器插件分享（1.tab 自动分组。2.favicon 图标下载）](https://www.v2ex.com/t/1080336#reply0) | Tue Oct 15 2024 2:06 AM<!-- v2ex:END -->
+- 🥸 [一个全新设计的 Java 脚手架，给你一种前所未有的使用体验 🎉 V2.1 Released](https://www.v2ex.com/t/1080391#reply0) | Tue Oct 15 2024 3:15 AM
+- 🤗 [尝试用 Windows 音乐浮层的专辑封面看视频](https://www.v2ex.com/t/1080389#reply0) | Tue Oct 15 2024 3:11 AM
+- 🎭 [临时邮箱 iOS 端 种子用户招募 免费送 CDKEY](https://www.v2ex.com/t/1080381#reply3) | Tue Oct 15 2024 3:01 AM
+- 🥷 [国内开发者会为什么产品买单呢](https://www.v2ex.com/t/1080377#reply5) | Tue Oct 15 2024 2:59 AM
+- 🐵 [评论区随机掉落两枚 Follow 邀请码](https://www.v2ex.com/t/1080352#reply104) | Tue Oct 15 2024 2:29 AM<!-- v2ex:END -->
 
