@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [Windows 上能不能把内存用作临时硬盘？](https://www.v2ex.com/t/1080501#reply5) | Tue Oct 15 2024 7:44 AM
-- 🤗 [2024 接近年尾了，你日常用百度地图还是高德地图？](https://www.v2ex.com/t/1080497#reply4) | Tue Oct 15 2024 7:39 AM
-- 🎭 [兄弟们使用番茄工作法能工作多久? 大多数我才 5 小时](https://www.v2ex.com/t/1080477#reply9) | Tue Oct 15 2024 7:01 AM
-- 🥷 [NAS 购买，决赛圈求建议](https://www.v2ex.com/t/1080470#reply37) | Tue Oct 15 2024 6:40 AM
-- 🐵 [为什么 moviepilot 网上几乎都没有视频教程](https://www.v2ex.com/t/1080466#reply17) | Tue Oct 15 2024 6:34 AM<!-- v2ex:END -->
+- 🥸 [一直在使用 Qi Reader 能蹲个 Follow 码吗？](https://www.v2ex.com/t/1080533#reply0) | Tue Oct 15 2024 8:52 AM
+- 🤗 [VSCode 远程开发时候 vscode 命令有时候会找不到](https://www.v2ex.com/t/1080529#reply0) | Tue Oct 15 2024 8:50 AM
+- 🎭 [大家一般用什么笔记软件](https://www.v2ex.com/t/1080521#reply21) | Tue Oct 15 2024 8:31 AM
+- 🥷 [Windows 上能不能把内存用作临时硬盘？](https://www.v2ex.com/t/1080501#reply9) | Tue Oct 15 2024 7:44 AM
+- 🐵 [2024 接近年尾了，你日常用百度地图还是高德地图？](https://www.v2ex.com/t/1080497#reply9) | Tue Oct 15 2024 7:39 AM<!-- v2ex:END -->
 
