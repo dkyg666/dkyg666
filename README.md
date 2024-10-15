@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [大家在📱里都有什么 AI APP:](https://www.v2ex.com/t/1080449#reply3) | Tue Oct 15 2024 5:47 AM
-- 🤗 [使用 Base64 保护隐私，真的是安全之选吗？](https://www.v2ex.com/t/1080435#reply47) | Tue Oct 15 2024 5:21 AM
-- 🎭 [换了三星手机，发现 play 商店的 1password 可以自动填充 edge，但是无法自动填充 chrome](https://www.v2ex.com/t/1080433#reply4) | Tue Oct 15 2024 4:55 AM
-- 🥷 [关于 MySQL 查询咨询](https://www.v2ex.com/t/1080432#reply0) | Tue Oct 15 2024 4:54 AM
-- 🐵 [Zustand 的文件组织?](https://www.v2ex.com/t/1080431#reply3) | Tue Oct 15 2024 4:52 AM<!-- v2ex:END -->
+- 🥸 [兄弟们使用番茄工作法能工作多久? 大多数我才 5 小时](https://www.v2ex.com/t/1080477#reply1) | Tue Oct 15 2024 7:01 AM
+- 🤗 [NAS 购买，决赛圈求建议](https://www.v2ex.com/t/1080470#reply5) | Tue Oct 15 2024 6:40 AM
+- 🎭 [为什么 moviepilot 网上几乎都没有视频教程](https://www.v2ex.com/t/1080466#reply2) | Tue Oct 15 2024 6:34 AM
+- 🥷 [关于代理软件的 TUN 模式求解答](https://www.v2ex.com/t/1080465#reply1) | Tue Oct 15 2024 6:33 AM
+- 🐵 [使用 Base64 保护隐私，真的是安全之选吗？](https://www.v2ex.com/t/1080435#reply64) | Tue Oct 15 2024 5:21 AM<!-- v2ex:END -->
 
