@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [早上醒来发现昨天发的 V2EX 原创博客和 github 交流贴太火，好像被移除首页了，不过我会仔细观摩大佬们的作品，并给予 star 支持](https://www.v2ex.com/t/1080407#reply0) | Tue Oct 15 2024 3:36 AM
-- 🤗 [一个全新设计的 Java 脚手架，给你一种前所未有的使用体验 🎉 V2.1 Released](https://www.v2ex.com/t/1080391#reply0) | Tue Oct 15 2024 3:15 AM
-- 🎭 [尝试用 Windows 音乐浮层的专辑封面看视频](https://www.v2ex.com/t/1080389#reply1) | Tue Oct 15 2024 3:11 AM
-- 🥷 [临时邮箱 iOS 端 种子用户招募 免费送 CDKEY](https://www.v2ex.com/t/1080381#reply4) | Tue Oct 15 2024 3:01 AM
-- 🐵 [国内开发者会为什么产品买单呢](https://www.v2ex.com/t/1080377#reply7) | Tue Oct 15 2024 2:59 AM<!-- v2ex:END -->
+- 🥸 [换了三星手机，发现 play 商店的 1password 可以自动填充 edge，但是无法自动填充 chrome](https://www.v2ex.com/t/1080433#reply0) | Tue Oct 15 2024 4:55 AM
+- 🤗 [关于 MySQL 查询咨询](https://www.v2ex.com/t/1080432#reply0) | Tue Oct 15 2024 4:54 AM
+- 🎭 [Zustand 的文件组织?](https://www.v2ex.com/t/1080431#reply3) | Tue Oct 15 2024 4:52 AM
+- 🥷 [小米 15pro，荣耀 magic7pro， iqoo13 选哪个，从系统方面](https://www.v2ex.com/t/1080423#reply5) | Tue Oct 15 2024 4:27 AM
+- 🐵 [一个全新设计的 Java 脚手架，给你一种前所未有的使用体验 🎉 V2.1 Released](https://www.v2ex.com/t/1080391#reply0) | Tue Oct 15 2024 3:15 AM<!-- v2ex:END -->
 
