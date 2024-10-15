@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [换了三星手机，发现 play 商店的 1password 可以自动填充 edge，但是无法自动填充 chrome](https://www.v2ex.com/t/1080433#reply0) | Tue Oct 15 2024 4:55 AM
-- 🤗 [关于 MySQL 查询咨询](https://www.v2ex.com/t/1080432#reply0) | Tue Oct 15 2024 4:54 AM
-- 🎭 [Zustand 的文件组织?](https://www.v2ex.com/t/1080431#reply3) | Tue Oct 15 2024 4:52 AM
-- 🥷 [小米 15pro，荣耀 magic7pro， iqoo13 选哪个，从系统方面](https://www.v2ex.com/t/1080423#reply5) | Tue Oct 15 2024 4:27 AM
-- 🐵 [一个全新设计的 Java 脚手架，给你一种前所未有的使用体验 🎉 V2.1 Released](https://www.v2ex.com/t/1080391#reply0) | Tue Oct 15 2024 3:15 AM<!-- v2ex:END -->
+- 🥸 [大家在📱里都有什么 AI APP:](https://www.v2ex.com/t/1080449#reply3) | Tue Oct 15 2024 5:47 AM
+- 🤗 [使用 Base64 保护隐私，真的是安全之选吗？](https://www.v2ex.com/t/1080435#reply47) | Tue Oct 15 2024 5:21 AM
+- 🎭 [换了三星手机，发现 play 商店的 1password 可以自动填充 edge，但是无法自动填充 chrome](https://www.v2ex.com/t/1080433#reply4) | Tue Oct 15 2024 4:55 AM
+- 🥷 [关于 MySQL 查询咨询](https://www.v2ex.com/t/1080432#reply0) | Tue Oct 15 2024 4:54 AM
+- 🐵 [Zustand 的文件组织?](https://www.v2ex.com/t/1080431#reply3) | Tue Oct 15 2024 4:52 AM<!-- v2ex:END -->
 
