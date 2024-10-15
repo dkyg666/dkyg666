@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [分享我的 follow 订阅源 曹贼主题](https://www.v2ex.com/t/1080316#reply1) | Tue Oct 15 2024 1:31 AM
-- 🤗 [勇敢的人先享受世界,求一个 follow 码](https://www.v2ex.com/t/1080313#reply0) | Tue Oct 15 2024 1:28 AM
-- 🎭 [做开发和做逆向安全哪个有前途](https://www.v2ex.com/t/1080312#reply2) | Tue Oct 15 2024 1:26 AM
-- 🥷 [[有偿] 实现淘宝商品到货提醒](https://www.v2ex.com/t/1080297#reply4) | Tue Oct 15 2024 1:01 AM
-- 🐵 [帮别人办事额外请事假扣除的工资需要对方承担吗？](https://www.v2ex.com/t/1080291#reply31) | Tue Oct 15 2024 12:42 AM<!-- v2ex:END -->
+- 🥸 [评论区随机掉落两枚 Follow 邀请码](https://www.v2ex.com/t/1080352#reply30) | Tue Oct 15 2024 2:29 AM
+- 🤗 [mysql 5.7 升级 8.0 性能提升 or 下降](https://www.v2ex.com/t/1080349#reply4) | Tue Oct 15 2024 2:27 AM
+- 🎭 [求助使用一加手机并 Root 的大佬现身说法](https://www.v2ex.com/t/1080347#reply3) | Tue Oct 15 2024 2:23 AM
+- 🥷 [Follow, the app](https://www.v2ex.com/t/1080339#reply8) | Tue Oct 15 2024 2:08 AM
+- 🐵 [浏览器插件分享（1.tab 自动分组。2.favicon 图标下载）](https://www.v2ex.com/t/1080336#reply0) | Tue Oct 15 2024 2:06 AM<!-- v2ex:END -->
 
