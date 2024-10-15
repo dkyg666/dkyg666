@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [联想 thinkbook 在 Linux 下风扇不转正常吗](https://www.v2ex.com/t/1080544#reply4) | Tue Oct 15 2024 9:28 AM
-- 🤗 [一直在使用 Qi Reader 能蹲个 Follow 码吗？](https://www.v2ex.com/t/1080533#reply1) | Tue Oct 15 2024 8:52 AM
-- 🎭 [VSCode 远程开发时候 vscode 命令有时候会找不到](https://www.v2ex.com/t/1080529#reply0) | Tue Oct 15 2024 8:50 AM
-- 🥷 [大家一般用什么笔记软件](https://www.v2ex.com/t/1080521#reply38) | Tue Oct 15 2024 8:31 AM
-- 🐵 [Windows 上能不能把内存用作临时硬盘？](https://www.v2ex.com/t/1080501#reply9) | Tue Oct 15 2024 7:44 AM<!-- v2ex:END -->
+- 🥸 [好奇现在一款安卓手机的系统能维护几年](https://www.v2ex.com/t/1080577#reply0) | Tue Oct 15 2024 11:13 AM
+- 🤗 [有人用 Win Server22 做 nas 的吗？付费请指教使用姿势问题](https://www.v2ex.com/t/1080568#reply1) | Tue Oct 15 2024 10:37 AM
+- 🎭 [厚着脸皮求一个 Follow 邀请码](https://www.v2ex.com/t/1080562#reply2) | Tue Oct 15 2024 10:17 AM
+- 🥷 [联想 thinkbook 在 Linux 下风扇不转正常吗](https://www.v2ex.com/t/1080544#reply4) | Tue Oct 15 2024 9:28 AM
+- 🐵 [一直在使用 Qi Reader 能蹲个 Follow 码吗？](https://www.v2ex.com/t/1080533#reply3) | Tue Oct 15 2024 8:52 AM<!-- v2ex:END -->
 
