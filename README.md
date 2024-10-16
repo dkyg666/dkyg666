@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [不用 CDN，希望服务器能 LRU 的 cache 住文件，怎么搞比较好？（k8s 内）](https://www.v2ex.com/t/1080944#reply0) | Wed Oct 16 2024 12:22 PM
-- 🤗 [商品池根据多种属性进行动态排序，有什么好的技术实现方式吗？](https://www.v2ex.com/t/1080937#reply2) | Wed Oct 16 2024 11:50 AM
-- 🎭 [求解 nginx 反代某堡垒机 443 页面出现问题](https://www.v2ex.com/t/1080932#reply3) | Wed Oct 16 2024 11:29 AM
-- 🥷 [[技术求助] 关于双向流式的音频传输](https://www.v2ex.com/t/1080913#reply4) | Wed Oct 16 2024 10:15 AM
-- 🐵 [rewrite browser engine in rust](https://www.v2ex.com/t/1080910#reply0) | Wed Oct 16 2024 10:01 AM<!-- v2ex:END -->
+- 🥸 [[教程] 不注册 gmail 看油管](https://www.v2ex.com/t/1080959#reply0) | Wed Oct 16 2024 1:24 PM
+- 🤗 [不用 CDN，希望服务器能 LRU 的 cache 住文件，怎么搞比较好？（k8s 内）](https://www.v2ex.com/t/1080944#reply2) | Wed Oct 16 2024 12:22 PM
+- 🎭 [商品池根据多种属性进行动态排序，有什么好的技术实现方式吗？](https://www.v2ex.com/t/1080937#reply2) | Wed Oct 16 2024 11:50 AM
+- 🥷 [求解 nginx 反代某堡垒机 443 页面出现问题](https://www.v2ex.com/t/1080932#reply3) | Wed Oct 16 2024 11:29 AM
+- 🐵 [[技术求助] 关于双向流式的音频传输](https://www.v2ex.com/t/1080913#reply9) | Wed Oct 16 2024 10:15 AM<!-- v2ex:END -->
 
