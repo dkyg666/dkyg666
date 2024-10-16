@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [Android15 更新了吗？](https://www.v2ex.com/t/1080763#reply0) | Wed Oct 16 2024 5:18 AM
-- 🤗 [小米不适合做 55 寸商显电视，还有其它选择吗？](https://www.v2ex.com/t/1080761#reply1) | Wed Oct 16 2024 5:11 AM
-- 🎭 [Excelize 开源基础库 2.9.0 版本正式发布](https://www.v2ex.com/t/1080758#reply0) | Wed Oct 16 2024 4:55 AM
-- 🥷 [对只用一台 EC2 最多搭配个云数据库的中小型企业，下云是不是能省钱也没什么影响？可以在预算接近的情况下硬盘 IO 性能翻几倍](https://www.v2ex.com/t/1080748#reply6) | Wed Oct 16 2024 4:30 AM
-- 🐵 [成品 NAS 二选一](https://www.v2ex.com/t/1080740#reply9) | Wed Oct 16 2024 4:06 AM<!-- v2ex:END -->
+- 🥸 [[西安] SAP Labs China 招聘后端开发工程师](https://www.v2ex.com/t/1080799#reply0) | Wed Oct 16 2024 6:24 AM
+- 🤗 [请教 PostgreSQL 和 PostGIS 使用问题](https://www.v2ex.com/t/1080792#reply0) | Wed Oct 16 2024 6:15 AM
+- 🎭 [go 的内存优势在部分场景比想象中多](https://www.v2ex.com/t/1080790#reply4) | Wed Oct 16 2024 6:12 AM
+- 🥷 [大佬们推荐几个工具类的前端网站模板吧](https://www.v2ex.com/t/1080785#reply1) | Wed Oct 16 2024 5:59 AM
+- 🐵 [有佬注册过公司吗，怎样解决经营地址问题](https://www.v2ex.com/t/1080784#reply2) | Wed Oct 16 2024 5:59 AM<!-- v2ex:END -->
 
