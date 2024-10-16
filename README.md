@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [follow 订阅 rss 怎么延迟这么大](https://www.v2ex.com/t/1080702#reply0) | Wed Oct 16 2024 2:50 AM
-- 🤗 [makefile 里的 sed 命令，里面的$*是 makefile 的一个自动变量吗](https://www.v2ex.com/t/1080696#reply3) | Wed Oct 16 2024 2:36 AM
-- 🎭 [google play store 里有啥值得买的 app 推荐？](https://www.v2ex.com/t/1080695#reply0) | Wed Oct 16 2024 2:32 AM
-- 🥷 [闻所未闻的倒计时思路。。。。。](https://www.v2ex.com/t/1080694#reply21) | Wed Oct 16 2024 2:31 AM
-- 🐵 [新版的 google tv streamer 4k 有人搞了吗？](https://www.v2ex.com/t/1080687#reply3) | Wed Oct 16 2024 2:12 AM<!-- v2ex:END -->
+- 🥸 [云文档是如何实现复制粘贴格式的](https://www.v2ex.com/t/1080717#reply0) | Wed Oct 16 2024 3:26 AM
+- 🤗 [请教 git 管理的一个问题](https://www.v2ex.com/t/1080703#reply11) | Wed Oct 16 2024 2:55 AM
+- 🎭 [follow 订阅 rss 怎么延迟这么大](https://www.v2ex.com/t/1080702#reply3) | Wed Oct 16 2024 2:50 AM
+- 🥷 [makefile 里的 sed 命令，里面的$*是 makefile 的一个自动变量吗](https://www.v2ex.com/t/1080696#reply7) | Wed Oct 16 2024 2:36 AM
+- 🐵 [google play store 里有啥值得买的 app 推荐？](https://www.v2ex.com/t/1080695#reply3) | Wed Oct 16 2024 2:32 AM<!-- v2ex:END -->
 
