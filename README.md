@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [云文档是如何实现复制粘贴格式的](https://www.v2ex.com/t/1080717#reply0) | Wed Oct 16 2024 3:26 AM
-- 🤗 [请教 git 管理的一个问题](https://www.v2ex.com/t/1080703#reply11) | Wed Oct 16 2024 2:55 AM
-- 🎭 [follow 订阅 rss 怎么延迟这么大](https://www.v2ex.com/t/1080702#reply3) | Wed Oct 16 2024 2:50 AM
-- 🥷 [makefile 里的 sed 命令，里面的$*是 makefile 的一个自动变量吗](https://www.v2ex.com/t/1080696#reply7) | Wed Oct 16 2024 2:36 AM
-- 🐵 [google play store 里有啥值得买的 app 推荐？](https://www.v2ex.com/t/1080695#reply3) | Wed Oct 16 2024 2:32 AM<!-- v2ex:END -->
+- 🥸 [成品 NAS 二选一](https://www.v2ex.com/t/1080740#reply1) | Wed Oct 16 2024 4:06 AM
+- 🤗 [PyQt/PySide 界面布局的选择与建议](https://www.v2ex.com/t/1080739#reply1) | Wed Oct 16 2024 4:04 AM
+- 🎭 [双十一，大家买服务器选择哪个？](https://www.v2ex.com/t/1080724#reply5) | Wed Oct 16 2024 3:31 AM
+- 🥷 [有没有搞信创的老哥，能否讲讲 C86 架构和 ARM 架构的麒麟 Linux 系统有什么区别？信创的路线要求是怎样的](https://www.v2ex.com/t/1080720#reply4) | Wed Oct 16 2024 3:28 AM
+- 🐵 [有什么开源的安卓工具箱集合推荐](https://www.v2ex.com/t/1080719#reply0) | Wed Oct 16 2024 3:27 AM<!-- v2ex:END -->
 
