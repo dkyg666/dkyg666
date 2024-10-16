@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [手持小米 14（16+512）和 IQOO Z9 Turbo+（16+256），有必要卖掉它们换 vivo X200 Pro 吗？](https://www.v2ex.com/t/1080856#reply0) | Wed Oct 16 2024 8:21 AM
-- 🤗 [阿里云 COM 域名续费 90 元一年了，请问各位大佬有什么渠道可以 85 折续费吗](https://www.v2ex.com/t/1080855#reply2) | Wed Oct 16 2024 8:21 AM
-- 🎭 [求助大佬们，本人双 11 想买个 nas,考虑预算目前打算买一个极空间 z4pro，但是不知道自己想要的功能能否实现，请教下大佬们](https://www.v2ex.com/t/1080851#reply0) | Wed Oct 16 2024 8:15 AM
-- 🥷 [什么情况, 据说 QQ 得 API 协议暴露了?](https://www.v2ex.com/t/1080847#reply0) | Wed Oct 16 2024 8:08 AM
-- 🐵 [免费的工单系统有没有推荐的呢？](https://www.v2ex.com/t/1080836#reply2) | Wed Oct 16 2024 7:55 AM<!-- v2ex:END -->
+- 🥸 [请问现在前端流行 vue 还是 react 呀 ，新手入门~~](https://www.v2ex.com/t/1080881#reply2) | Wed Oct 16 2024 9:13 AM
+- 🤗 [为什么 ChatGPT 和 Claude 的网页版都使用了 React，还做了 SSR？这种用户交互前没内容的工具类服务完全用不上 SSR 吧？传输初始 DOM 会不会导致弱网环境加载更慢？为什么不用 Angular 写？](https://www.v2ex.com/t/1080870#reply2) | Wed Oct 16 2024 8:52 AM
+- 🎭 [吐槽下昨天听到的某国际机构的项目管理直播](https://www.v2ex.com/t/1080868#reply0) | Wed Oct 16 2024 8:52 AM
+- 🥷 [手持小米 14（16+512）和 IQOO Z9 Turbo+（16+256），有必要卖掉它们换 vivo X200 Pro 吗？](https://www.v2ex.com/t/1080856#reply4) | Wed Oct 16 2024 8:21 AM
+- 🐵 [阿里云 COM 域名续费 90 元一年了，请问各位大佬有什么渠道可以 85 折续费吗](https://www.v2ex.com/t/1080855#reply6) | Wed Oct 16 2024 8:21 AM<!-- v2ex:END -->
 
