@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [求问， openai 的状态页是基于什么模版的](https://www.v2ex.com/t/1080994#reply2) | Wed Oct 16 2024 4:29 PM
-- 🤗 [求科普，这是淘宝的锅吗？](https://www.v2ex.com/t/1080992#reply0) | Wed Oct 16 2024 3:57 PM
-- 🎭 [来 v2 挂个小 idc 老板](https://www.v2ex.com/t/1080975#reply15) | Wed Oct 16 2024 2:46 PM
-- 🥷 [Java 疑惑](https://www.v2ex.com/t/1080974#reply3) | Wed Oct 16 2024 2:43 PM
-- 🐵 [Google 从 Android 15 开始有意破坏所有手表、手环、通知记录类 App 的基础功能，然而我们无能为力](https://www.v2ex.com/t/1080973#reply11) | Wed Oct 16 2024 2:43 PM<!-- v2ex:END -->
+- 🥸 [Mini iPad 到底要买 6 还是刚出来的 7？ 主要是港版 esim 国内使用问题](https://www.v2ex.com/t/1081002#reply0) | Wed Oct 16 2024 5:47 PM
+- 🤗 [有什么提升编程的办法吗？](https://www.v2ex.com/t/1081000#reply5) | Wed Oct 16 2024 5:24 PM
+- 🎭 [求问， openai 的状态页是基于什么模版的](https://www.v2ex.com/t/1080994#reply2) | Wed Oct 16 2024 4:29 PM
+- 🥷 [求科普，这是淘宝的锅吗？](https://www.v2ex.com/t/1080992#reply0) | Wed Oct 16 2024 3:57 PM
+- 🐵 [来 v2 挂个小 idc 老板](https://www.v2ex.com/t/1080975#reply17) | Wed Oct 16 2024 2:46 PM<!-- v2ex:END -->
 
