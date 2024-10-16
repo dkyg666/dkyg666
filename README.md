@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [[西安] SAP Labs China 招聘后端开发工程师](https://www.v2ex.com/t/1080799#reply0) | Wed Oct 16 2024 6:24 AM
+- 🥸 [‌Elasticsearch 怎么检索 oss 里面的文件](https://www.v2ex.com/t/1080810#reply2) | Wed Oct 16 2024 6:49 AM
 - 🤗 [请教 PostgreSQL 和 PostGIS 使用问题](https://www.v2ex.com/t/1080792#reply0) | Wed Oct 16 2024 6:15 AM
-- 🎭 [go 的内存优势在部分场景比想象中多](https://www.v2ex.com/t/1080790#reply4) | Wed Oct 16 2024 6:12 AM
+- 🎭 [go 的内存优势在部分场景比想象中多](https://www.v2ex.com/t/1080790#reply13) | Wed Oct 16 2024 6:12 AM
 - 🥷 [大佬们推荐几个工具类的前端网站模板吧](https://www.v2ex.com/t/1080785#reply1) | Wed Oct 16 2024 5:59 AM
-- 🐵 [有佬注册过公司吗，怎样解决经营地址问题](https://www.v2ex.com/t/1080784#reply2) | Wed Oct 16 2024 5:59 AM<!-- v2ex:END -->
+- 🐵 [nas 开启科学上网方案+ddns](https://www.v2ex.com/t/1080775#reply6) | Wed Oct 16 2024 5:45 AM<!-- v2ex:END -->
 
