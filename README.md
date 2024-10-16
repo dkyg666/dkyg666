@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [有没有支持广电 5g 的平板电脑或电话手表](https://www.v2ex.com/t/1080657#reply1) | Wed Oct 16 2024 1:00 AM
-- 🤗 [iPad mini7 升级了个寂寞，酷比魔方掌玩 mini2 更香了](https://www.v2ex.com/t/1080633#reply32) | Tue Oct 15 2024 3:57 PM
-- 🎭 [inoreader 突然改版 UI 了](https://www.v2ex.com/t/1080609#reply11) | Tue Oct 15 2024 2:10 PM
-- 🥷 [为什么明明卸载了 teamviewer,设置里还是有这个选项？](https://www.v2ex.com/t/1080605#reply1) | Tue Oct 15 2024 1:54 PM
-- 🐵 [spring cloud 项目是否已经不再活跃？](https://www.v2ex.com/t/1080593#reply7) | Tue Oct 15 2024 12:33 PM<!-- v2ex:END -->
+- 🥸 [follow 订阅 rss 怎么延迟这么大](https://www.v2ex.com/t/1080702#reply0) | Wed Oct 16 2024 2:50 AM
+- 🤗 [makefile 里的 sed 命令，里面的$*是 makefile 的一个自动变量吗](https://www.v2ex.com/t/1080696#reply3) | Wed Oct 16 2024 2:36 AM
+- 🎭 [google play store 里有啥值得买的 app 推荐？](https://www.v2ex.com/t/1080695#reply0) | Wed Oct 16 2024 2:32 AM
+- 🥷 [闻所未闻的倒计时思路。。。。。](https://www.v2ex.com/t/1080694#reply21) | Wed Oct 16 2024 2:31 AM
+- 🐵 [新版的 google tv streamer 4k 有人搞了吗？](https://www.v2ex.com/t/1080687#reply3) | Wed Oct 16 2024 2:12 AM<!-- v2ex:END -->
 
