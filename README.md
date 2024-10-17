@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [deno 2.0 发布](https://www.v2ex.com/t/1081279#reply0) | Thu Oct 17 2024 10:09 AM
-- 🤗 [求教！ VSCode 扩展开发！](https://www.v2ex.com/t/1081270#reply0) | Thu Oct 17 2024 9:43 AM
-- 🎭 [请教 Java OOM 及 JVM 相关的问题](https://www.v2ex.com/t/1081255#reply8) | Thu Oct 17 2024 9:22 AM
-- 🥷 [求助： IOS 18 无法安装 Cisco anyconnect 怎么办](https://www.v2ex.com/t/1081249#reply1) | Thu Oct 17 2024 9:14 AM
-- 🐵 [大家 copy 来的项目会同步原项目的更新吗？](https://www.v2ex.com/t/1081239#reply0) | Thu Oct 17 2024 8:54 AM<!-- v2ex:END -->
+- 🥸 [找人开发一些 Kepler.gl 的插件](https://www.v2ex.com/t/1081285#reply0) | Thu Oct 17 2024 10:45 AM
+- 🤗 [iOS 18 暗黑模式的图标怎么做到自动变黑的](https://www.v2ex.com/t/1081283#reply1) | Thu Oct 17 2024 10:35 AM
+- 🎭 [deno 2.0 发布](https://www.v2ex.com/t/1081279#reply1) | Thu Oct 17 2024 10:09 AM
+- 🥷 [求教！ VSCode 扩展开发！](https://www.v2ex.com/t/1081270#reply1) | Thu Oct 17 2024 9:43 AM
+- 🐵 [请教 Java OOM 及 JVM 相关的问题](https://www.v2ex.com/t/1081255#reply13) | Thu Oct 17 2024 9:22 AM<!-- v2ex:END -->
 
