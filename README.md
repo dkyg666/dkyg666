@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [moto x50 ultra 怎么刷 global rom？](https://www.v2ex.com/t/1081041#reply0) | Thu Oct 17 2024 1:34 AM
-- 🤗 [想学习以太坊开发 有机会吗](https://www.v2ex.com/t/1081033#reply3) | Thu Oct 17 2024 1:15 AM
-- 🎭 [请教下微服务间大批量数据获取一般是如何处理的](https://www.v2ex.com/t/1081015#reply13) | Thu Oct 17 2024 12:24 AM
-- 🥷 [failed to load response data: no resource with given identifier found](https://www.v2ex.com/t/1081013#reply4) | Thu Oct 17 2024 12:14 AM
-- 🐵 [Mini iPad 到底要买 6 还是刚出来的 7？ 主要是港版 esim 国内使用问题](https://www.v2ex.com/t/1081002#reply8) | Wed Oct 16 2024 5:47 PM<!-- v2ex:END -->
+- 🥸 [各位老师，这本书有中文翻译吗《System Design Interview: Volume 2》](https://www.v2ex.com/t/1081098#reply0) | Thu Oct 17 2024 2:49 AM
+- 🤗 [500M N100 想看真 1080P，求影视类 PT 邀请或开注站点推荐](https://www.v2ex.com/t/1081093#reply0) | Thu Oct 17 2024 2:44 AM
+- 🎭 [用腾讯云的云函数做 Webhook 有什么风险？](https://www.v2ex.com/t/1081088#reply0) | Thu Oct 17 2024 2:36 AM
+- 🥷 [想知道各位苹果手机用户的充电器在哪买的](https://www.v2ex.com/t/1081067#reply19) | Thu Oct 17 2024 2:06 AM
+- 🐵 [求教 cors 问题](https://www.v2ex.com/t/1081056#reply3) | Thu Oct 17 2024 1:55 AM<!-- v2ex:END -->
 
