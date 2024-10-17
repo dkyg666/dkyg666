@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ### v2ex-全站热点
 <!-- v2ex:START -->
 - 🥸 [当面试官问为什么选择 Kafka/RabbitMQ/RocketMQ 时，他到底想问什么？](https://www.v2ex.com/t/1081344#reply2) | Thu Oct 17 2024 5:20 PM
-- 🤗 [半夜了，诉苦一下吧，希望大家见谅](https://www.v2ex.com/t/1081341#reply10) | Thu Oct 17 2024 4:48 PM
+- 🤗 [半夜了，诉苦一下吧，希望大家见谅](https://www.v2ex.com/t/1081341#reply11) | Thu Oct 17 2024 4:48 PM
 - 🎭 [mod_security 中的 SecUnicodeMapFile unicode.mapping](https://www.v2ex.com/t/1081323#reply0) | Thu Oct 17 2024 2:01 PM
 - 🥷 [买了一个华强北 S29 智能手表（听群友说这是老爷机，灰常老）。然后刷成砖了。这种会有原厂系统吗？](https://www.v2ex.com/t/1081317#reply0) | Thu Oct 17 2024 1:36 PM
 - 🐵 [整理了一份 VictoriaMetrics 中文文档](https://www.v2ex.com/t/1081313#reply1) | Thu Oct 17 2024 1:29 PM<!-- v2ex:END -->
