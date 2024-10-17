@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [Mini iPad 到底要买 6 还是刚出来的 7？ 主要是港版 esim 国内使用问题](https://www.v2ex.com/t/1081002#reply0) | Wed Oct 16 2024 5:47 PM
-- 🤗 [有什么提升编程的办法吗？](https://www.v2ex.com/t/1081000#reply6) | Wed Oct 16 2024 5:24 PM
-- 🎭 [求问， openai 的状态页是基于什么模版的](https://www.v2ex.com/t/1080994#reply2) | Wed Oct 16 2024 4:29 PM
-- 🥷 [求科普，这是淘宝的锅吗？](https://www.v2ex.com/t/1080992#reply0) | Wed Oct 16 2024 3:57 PM
-- 🐵 [来 v2 挂个小 idc 老板](https://www.v2ex.com/t/1080975#reply17) | Wed Oct 16 2024 2:46 PM<!-- v2ex:END -->
+- 🥸 [moto x50 ultra 怎么刷 global rom？](https://www.v2ex.com/t/1081041#reply0) | Thu Oct 17 2024 1:34 AM
+- 🤗 [想学习以太坊开发 有机会吗](https://www.v2ex.com/t/1081033#reply3) | Thu Oct 17 2024 1:15 AM
+- 🎭 [请教下微服务间大批量数据获取一般是如何处理的](https://www.v2ex.com/t/1081015#reply13) | Thu Oct 17 2024 12:24 AM
+- 🥷 [failed to load response data: no resource with given identifier found](https://www.v2ex.com/t/1081013#reply4) | Thu Oct 17 2024 12:14 AM
+- 🐵 [Mini iPad 到底要买 6 还是刚出来的 7？ 主要是港版 esim 国内使用问题](https://www.v2ex.com/t/1081002#reply8) | Wed Oct 16 2024 5:47 PM<!-- v2ex:END -->
 
