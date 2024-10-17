@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [关于在 Java 项目里，一些依赖的方法比如过期了，如何快速找到当前版本的调用方法呢？](https://www.v2ex.com/t/1081144#reply4) | Thu Oct 17 2024 3:55 AM
-- 🤗 [用 Python 开发 sass 项目都用什么技术栈](https://www.v2ex.com/t/1081128#reply3) | Thu Oct 17 2024 3:36 AM
-- 🎭 [现在前端开发者还能做什么？](https://www.v2ex.com/t/1081122#reply5) | Thu Oct 17 2024 3:20 AM
-- 🥷 [昨天买了保利和万科](https://www.v2ex.com/t/1081102#reply9) | Thu Oct 17 2024 2:57 AM
-- 🐵 [各位老师，这本书有中文翻译吗《System Design Interview: Volume 2》](https://www.v2ex.com/t/1081098#reply8) | Thu Oct 17 2024 2:49 AM<!-- v2ex:END -->
+- 🥸 [注册 Developer Program 的时候先别用 macOS 的 Developer APP](https://www.v2ex.com/t/1081161#reply0) | Thu Oct 17 2024 5:16 AM
+- 🤗 [想组个 nas，大佬们给点建议](https://www.v2ex.com/t/1081154#reply5) | Thu Oct 17 2024 4:33 AM
+- 🎭 [我老人家翻译的《Kotlin 语言参考文档》中文版，已经迁移到了新的 Writerside 环境](https://www.v2ex.com/t/1081150#reply0) | Thu Oct 17 2024 4:26 AM
+- 🥷 [关于在 Java 项目里，一些依赖的方法比如过期了，如何快速找到当前版本的调用方法呢？](https://www.v2ex.com/t/1081144#reply6) | Thu Oct 17 2024 3:55 AM
+- 🐵 [用 Python 开发 sass 项目都用什么技术栈](https://www.v2ex.com/t/1081128#reply4) | Thu Oct 17 2024 3:36 AM<!-- v2ex:END -->
 
