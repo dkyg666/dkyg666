@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [看看我这配置 NAS](https://www.v2ex.com/t/1081184#reply14) | Thu Oct 17 2024 6:33 AM
-- 🤗 [电脑文件夹及层级很多，有没有什么辅助软件可以快速定位到所需的文件夹](https://www.v2ex.com/t/1081174#reply13) | Thu Oct 17 2024 6:00 AM
-- 🎭 [AI 辅助编程思考](https://www.v2ex.com/t/1081166#reply0) | Thu Oct 17 2024 5:32 AM
-- 🥷 [注册 Developer Program 的时候先别用 macOS 的 Developer APP](https://www.v2ex.com/t/1081161#reply6) | Thu Oct 17 2024 5:16 AM
-- 🐵 [想组个 nas，大佬们给点建议](https://www.v2ex.com/t/1081154#reply10) | Thu Oct 17 2024 4:33 AM<!-- v2ex:END -->
+- 🥸 [求助： IOS 18 无法安装 Cisco anyconnect 怎么办](https://www.v2ex.com/t/1081249#reply1) | Thu Oct 17 2024 9:14 AM
+- 🤗 [大家 copy 来的项目会同步原项目的更新吗？](https://www.v2ex.com/t/1081239#reply0) | Thu Oct 17 2024 8:54 AM
+- 🎭 [看看我这配置 NAS](https://www.v2ex.com/t/1081184#reply19) | Thu Oct 17 2024 6:33 AM
+- 🥷 [电脑文件夹及层级很多，有没有什么辅助软件可以快速定位到所需的文件夹](https://www.v2ex.com/t/1081174#reply18) | Thu Oct 17 2024 6:00 AM
+- 🐵 [AI 辅助编程思考](https://www.v2ex.com/t/1081166#reply0) | Thu Oct 17 2024 5:32 AM<!-- v2ex:END -->
 
