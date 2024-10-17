@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [Obsidian 前段时间突然用 icloud 非常卡，请问有什么替代的跨端同步方案](https://www.v2ex.com/t/1081299#reply0) | Thu Oct 17 2024 12:17 PM
-- 🤗 [搭建了一个工单系统的演示环境](https://www.v2ex.com/t/1081291#reply0) | Thu Oct 17 2024 11:26 AM
-- 🎭 [找人开发一些 Kepler.gl 的插件](https://www.v2ex.com/t/1081285#reply0) | Thu Oct 17 2024 10:45 AM
-- 🥷 [iOS 18 暗黑模式的图标怎么做到自动变黑的](https://www.v2ex.com/t/1081283#reply3) | Thu Oct 17 2024 10:35 AM
-- 🐵 [deno 2.0 发布](https://www.v2ex.com/t/1081279#reply2) | Thu Oct 17 2024 10:09 AM<!-- v2ex:END -->
+- 🥸 [Tbase 数据库的语法和 PostgreSQL 有区别吗](https://www.v2ex.com/t/1081312#reply0) | Thu Oct 17 2024 1:21 PM
+- 🤗 [freshrss 的 Image Proxy extension 插件到底咋用？](https://www.v2ex.com/t/1081311#reply0) | Thu Oct 17 2024 1:14 PM
+- 🎭 [腾讯云孟买区结束运营，配合转区，过程舒服](https://www.v2ex.com/t/1081307#reply2) | Thu Oct 17 2024 12:58 PM
+- 🥷 [IDX 最近打开项目一直自动刷新，你们遇到了吗？去哪里报 bug 啊](https://www.v2ex.com/t/1081304#reply0) | Thu Oct 17 2024 12:41 PM
+- 🐵 [Obsidian 前段时间突然用 icloud 非常卡，请问有什么替代的跨端同步方案](https://www.v2ex.com/t/1081299#reply2) | Thu Oct 17 2024 12:17 PM<!-- v2ex:END -->
 
