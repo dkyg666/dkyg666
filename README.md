@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [现在前端开发者还能做什么？](https://www.v2ex.com/t/1081122#reply0) | Thu Oct 17 2024 3:20 AM
-- 🤗 [昨天买了保利和万科](https://www.v2ex.com/t/1081102#reply5) | Thu Oct 17 2024 2:57 AM
-- 🎭 [各位老师，这本书有中文翻译吗《System Design Interview: Volume 2》](https://www.v2ex.com/t/1081098#reply3) | Thu Oct 17 2024 2:49 AM
-- 🥷 [500M N100 想看真 1080P，求影视类 PT 邀请或开注站点推荐](https://www.v2ex.com/t/1081093#reply5) | Thu Oct 17 2024 2:44 AM
-- 🐵 [用腾讯云的云函数做 Webhook 有什么风险？](https://www.v2ex.com/t/1081088#reply3) | Thu Oct 17 2024 2:36 AM<!-- v2ex:END -->
+- 🥸 [关于在 Java 项目里，一些依赖的方法比如过期了，如何快速找到当前版本的调用方法呢？](https://www.v2ex.com/t/1081144#reply4) | Thu Oct 17 2024 3:55 AM
+- 🤗 [用 Python 开发 sass 项目都用什么技术栈](https://www.v2ex.com/t/1081128#reply3) | Thu Oct 17 2024 3:36 AM
+- 🎭 [现在前端开发者还能做什么？](https://www.v2ex.com/t/1081122#reply5) | Thu Oct 17 2024 3:20 AM
+- 🥷 [昨天买了保利和万科](https://www.v2ex.com/t/1081102#reply9) | Thu Oct 17 2024 2:57 AM
+- 🐵 [各位老师，这本书有中文翻译吗《System Design Interview: Volume 2》](https://www.v2ex.com/t/1081098#reply8) | Thu Oct 17 2024 2:49 AM<!-- v2ex:END -->
 
