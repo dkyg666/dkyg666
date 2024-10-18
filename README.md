@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [一种快速编程的方法，推荐给大伙。](https://www.v2ex.com/t/1081537#reply11) | Fri Oct 18 2024 7:35 AM
-- 🤗 [整了台 威联通, 有什么从群晖迁移的好办法吗](https://www.v2ex.com/t/1081529#reply1) | Fri Oct 18 2024 7:15 AM
-- 🎭 [这样的头像小程序还有搞头吗？](https://www.v2ex.com/t/1081522#reply10) | Fri Oct 18 2024 6:57 AM
-- 🥷 [国内做 OFD 渲染开发的人多么](https://www.v2ex.com/t/1081521#reply4) | Fri Oct 18 2024 6:54 AM
-- 🐵 [C++项目分布式存储上的编译问题](https://www.v2ex.com/t/1081515#reply0) | Fri Oct 18 2024 6:44 AM<!-- v2ex:END -->
+- 🥸 [cloudfare 拦截了我的 trojan-go 代理流量](https://www.v2ex.com/t/1081565#reply1) | Fri Oct 18 2024 8:41 AM
+- 🤗 [两道 PHP 题目，都是求 flag 值](https://www.v2ex.com/t/1081563#reply1) | Fri Oct 18 2024 8:36 AM
+- 🎭 [有几台闲置 4080 PC 可以干什么](https://www.v2ex.com/t/1081560#reply9) | Fri Oct 18 2024 8:33 AM
+- 🥷 [万分紧急，卸载软件，不小心把微信卸载了，新装如何恢复？](https://www.v2ex.com/t/1081557#reply8) | Fri Oct 18 2024 8:28 AM
+- 🐵 [一种快速编程的方法，推荐给大伙。](https://www.v2ex.com/t/1081537#reply18) | Fri Oct 18 2024 7:35 AM<!-- v2ex:END -->
 
