@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [整了台 威联通, 有什么从群晖迁移的好办法吗](https://www.v2ex.com/t/1081529#reply0) | Fri Oct 18 2024 7:15 AM
-- 🤗 [这样的头像小程序还有搞头吗？](https://www.v2ex.com/t/1081522#reply1) | Fri Oct 18 2024 6:57 AM
-- 🎭 [国内做 OFD 渲染开发的人多么](https://www.v2ex.com/t/1081521#reply0) | Fri Oct 18 2024 6:54 AM
-- 🥷 [C++项目分布式存储上的编译问题](https://www.v2ex.com/t/1081515#reply0) | Fri Oct 18 2024 6:44 AM
-- 🐵 [win11 iot LTSC 字体显示异常](https://www.v2ex.com/t/1081509#reply1) | Fri Oct 18 2024 6:35 AM<!-- v2ex:END -->
+- 🥸 [一种快速编程的方法，推荐给大伙。](https://www.v2ex.com/t/1081537#reply11) | Fri Oct 18 2024 7:35 AM
+- 🤗 [整了台 威联通, 有什么从群晖迁移的好办法吗](https://www.v2ex.com/t/1081529#reply1) | Fri Oct 18 2024 7:15 AM
+- 🎭 [这样的头像小程序还有搞头吗？](https://www.v2ex.com/t/1081522#reply10) | Fri Oct 18 2024 6:57 AM
+- 🥷 [国内做 OFD 渲染开发的人多么](https://www.v2ex.com/t/1081521#reply4) | Fri Oct 18 2024 6:54 AM
+- 🐵 [C++项目分布式存储上的编译问题](https://www.v2ex.com/t/1081515#reply0) | Fri Oct 18 2024 6:44 AM<!-- v2ex:END -->
 
