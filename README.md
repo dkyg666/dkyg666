@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [记录对 pm2 的操作误解](https://www.v2ex.com/t/1081646#reply0) | Fri Oct 18 2024 5:03 PM
-- 🤗 [ipv6 访问慢](https://www.v2ex.com/t/1081639#reply3) | Fri Oct 18 2024 3:57 PM
-- 🎭 [如何禁止 Windows11 ,自动安全扫描后,弹出的提示](https://www.v2ex.com/t/1081637#reply1) | Fri Oct 18 2024 3:25 PM
-- 🥷 [阿里云 HK 的 DNS 解析 google 地址不正确](https://www.v2ex.com/t/1081627#reply1) | Fri Oct 18 2024 2:21 PM
-- 🐵 [这个优道省电助手怎么删除](https://www.v2ex.com/t/1081623#reply14) | Fri Oct 18 2024 1:43 PM<!-- v2ex:END -->
+- 🥸 [鸿蒙 next 的 app，积累的屎山都没了](https://www.v2ex.com/t/1081651#reply0) | Fri Oct 18 2024 7:52 PM
+- 🤗 [记录对 pm2 的操作误解](https://www.v2ex.com/t/1081646#reply0) | Fri Oct 18 2024 5:03 PM
+- 🎭 [ipv6 访问慢](https://www.v2ex.com/t/1081639#reply3) | Fri Oct 18 2024 3:57 PM
+- 🥷 [如何禁止 Windows11 ,自动安全扫描后,弹出的提示](https://www.v2ex.com/t/1081637#reply1) | Fri Oct 18 2024 3:25 PM
+- 🐵 [阿里云 HK 的 DNS 解析 google 地址不正确](https://www.v2ex.com/t/1081627#reply1) | Fri Oct 18 2024 2:21 PM<!-- v2ex:END -->
 
