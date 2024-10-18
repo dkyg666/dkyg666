@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 ### v2ex-全站热点
 <!-- v2ex:START -->
 - 🥸 [cloudfare 拦截了我的 trojan-go 代理流量](https://www.v2ex.com/t/1081565#reply1) | Fri Oct 18 2024 8:41 AM
-- 🤗 [两道 PHP 题目，都是求 flag 值](https://www.v2ex.com/t/1081563#reply1) | Fri Oct 18 2024 8:36 AM
+- 🤗 [两道 PHP 题目，都是求 flag 值](https://www.v2ex.com/t/1081563#reply5) | Fri Oct 18 2024 8:36 AM
 - 🎭 [有几台闲置 4080 PC 可以干什么](https://www.v2ex.com/t/1081560#reply9) | Fri Oct 18 2024 8:33 AM
-- 🥷 [万分紧急，卸载软件，不小心把微信卸载了，新装如何恢复？](https://www.v2ex.com/t/1081557#reply8) | Fri Oct 18 2024 8:28 AM
-- 🐵 [一种快速编程的方法，推荐给大伙。](https://www.v2ex.com/t/1081537#reply18) | Fri Oct 18 2024 7:35 AM<!-- v2ex:END -->
+- 🥷 [万分紧急，卸载软件，不小心把微信卸载了，新装如何恢复？](https://www.v2ex.com/t/1081557#reply10) | Fri Oct 18 2024 8:28 AM
+- 🐵 [一种快速编程的方法，推荐给大伙。](https://www.v2ex.com/t/1081537#reply26) | Fri Oct 18 2024 7:35 AM<!-- v2ex:END -->
 
