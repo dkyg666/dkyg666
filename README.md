@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [阿里云 HK 的 DNS 解析 google 地址不正确](https://www.v2ex.com/t/1081627#reply1) | Fri Oct 18 2024 2:21 PM
-- 🤗 [这个优道省电助手怎么删除](https://www.v2ex.com/t/1081623#reply12) | Fri Oct 18 2024 1:43 PM
-- 🎭 [安卓系统容易中病毒吗？](https://www.v2ex.com/t/1081618#reply10) | Fri Oct 18 2024 12:56 PM
-- 🥷 [C++ 新手想问下关于 Linux 下如何实现类似 Windows 的 Pause 功能的问题](https://www.v2ex.com/t/1081614#reply8) | Fri Oct 18 2024 12:17 PM
-- 🐵 [同样功能界面，是不是 H5 开发比 iOS 原生开发速度快](https://www.v2ex.com/t/1081606#reply13) | Fri Oct 18 2024 11:27 AM<!-- v2ex:END -->
+- 🥸 [ipv6 访问慢](https://www.v2ex.com/t/1081639#reply1) | Fri Oct 18 2024 3:57 PM
+- 🤗 [如何禁止 Windows11 ,自动安全扫描后,弹出的提示](https://www.v2ex.com/t/1081637#reply1) | Fri Oct 18 2024 3:25 PM
+- 🎭 [阿里云 HK 的 DNS 解析 google 地址不正确](https://www.v2ex.com/t/1081627#reply1) | Fri Oct 18 2024 2:21 PM
+- 🥷 [这个优道省电助手怎么删除](https://www.v2ex.com/t/1081623#reply13) | Fri Oct 18 2024 1:43 PM
+- 🐵 [安卓系统容易中病毒吗？](https://www.v2ex.com/t/1081618#reply11) | Fri Oct 18 2024 12:56 PM<!-- v2ex:END -->
 
