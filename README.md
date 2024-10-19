@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [国内 CDN 如何做选择？七牛云/阿里云/腾讯云/百度云，想听听有经验的大佬的建议，最近网站的静态文件部署服务上加载都很慢，打算上一下 CDN，免费 CDN cloudflare 效果试了下不太好，可能因为在国内的原因](https://www.v2ex.com/t/1081756#reply9) | Sat Oct 19 2024 9:54 AM
+- 🥸 [国内 CDN 如何做选择？七牛云/阿里云/腾讯云/百度云，想听听有经验的大佬的建议，最近网站的静态文件部署服务上加载都很慢，打算上一下 CDN，免费 CDN cloudflare 效果试了下不太好，可能因为在国内的原因](https://www.v2ex.com/t/1081756#reply10) | Sat Oct 19 2024 9:54 AM
 - 🤗 [求推荐一款性价比高的电视盒子](https://www.v2ex.com/t/1081754#reply2) | Sat Oct 19 2024 9:53 AM
 - 🎭 [Safari App Extension 中调用相机的可能性？](https://www.v2ex.com/t/1081737#reply0) | Sat Oct 19 2024 8:14 AM
 - 🥷 [上了外网但谷歌推荐都是中文](https://www.v2ex.com/t/1081728#reply27) | Sat Oct 19 2024 7:31 AM
