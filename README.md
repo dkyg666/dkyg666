@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 - 🤗 [问题求助：极空间，无法连接到设备](https://www.v2ex.com/t/1081900#reply0) | Sun Oct 20 2024 6:43 AM
 - 🎭 [简历问题，我这种能自称全栈吗？](https://www.v2ex.com/t/1081894#reply13) | Sun Oct 20 2024 6:09 AM
 - 🥷 [打算配个 deskmini x600 装 Linux 做主力开发](https://www.v2ex.com/t/1081893#reply6) | Sun Oct 20 2024 6:04 AM
-- 🐵 [用 wails 做了个 ES 的桌面客户端，安装包 3.8mb](https://www.v2ex.com/t/1081878#reply12) | Sun Oct 20 2024 3:59 AM<!-- v2ex:END -->
+- 🐵 [用 wails 做了个 ES 的桌面客户端，安装包 3.8mb](https://www.v2ex.com/t/1081878#reply13) | Sun Oct 20 2024 3:59 AM<!-- v2ex:END -->
 
