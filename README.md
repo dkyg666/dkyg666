@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [[选型求助] 国内做跨平台开发应该选 react 还是 vue](https://www.v2ex.com/t/1081954#reply1) | Sun Oct 20 2024 10:19 AM
-- 🤗 [atomic&lt;shared_ptr&lt;T&gt;&gt;在 GCC 和 Clang 的受支持程度真是一言难尽](https://www.v2ex.com/t/1081936#reply2) | Sun Oct 20 2024 8:50 AM
-- 🎭 [问题求助：极空间，无法连接到设备](https://www.v2ex.com/t/1081900#reply0) | Sun Oct 20 2024 6:43 AM
-- 🥷 [简历问题，我这种能自称全栈吗？](https://www.v2ex.com/t/1081894#reply15) | Sun Oct 20 2024 6:09 AM
-- 🐵 [打算配个 deskmini x600 装 Linux 做主力开发](https://www.v2ex.com/t/1081893#reply7) | Sun Oct 20 2024 6:04 AM<!-- v2ex:END -->
+- 🥸 [macos 是不是开启了壁纸审查？！](https://www.v2ex.com/t/1081984#reply0) | Sun Oct 20 2024 12:29 PM
+- 🤗 [垃圾 win11](https://www.v2ex.com/t/1081982#reply1) | Sun Oct 20 2024 12:26 PM
+- 🎭 [在设计一个 node 的插件化框架，学习 obsidian 插件但是有一些代码没看懂，请指教](https://www.v2ex.com/t/1081973#reply1) | Sun Oct 20 2024 11:55 AM
+- 🥷 [请问类似实验楼 www.shiyanlou.com（现在叫蓝桥云）中在线 Linux 平台如何实现的](https://www.v2ex.com/t/1081968#reply2) | Sun Oct 20 2024 11:22 AM
+- 🐵 [[选型求助] 国内做跨平台开发应该选 react 还是 vue](https://www.v2ex.com/t/1081954#reply6) | Sun Oct 20 2024 10:19 AM<!-- v2ex:END -->
 
