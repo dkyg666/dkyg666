@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [简历问题，我这种能自称全栈吗？](https://www.v2ex.com/t/1081894#reply5) | Sun Oct 20 2024 6:09 AM
-- 🤗 [打算配个 deskmini x600 装 Linux 做主力开发](https://www.v2ex.com/t/1081893#reply0) | Sun Oct 20 2024 6:04 AM
-- 🎭 [用 wails 做了个 ES 的桌面客户端，安装包 3.8mb](https://www.v2ex.com/t/1081878#reply4) | Sun Oct 20 2024 3:59 AM
-- 🥷 [请问微信 api 中有多少个 token 叫做 access token？](https://www.v2ex.com/t/1081860#reply3) | Sun Oct 20 2024 2:18 AM
-- 🐵 [用户要求提升，需要在语音识别时，区分不同的人，有什么好的方案？](https://www.v2ex.com/t/1081852#reply3) | Sun Oct 20 2024 1:48 AM<!-- v2ex:END -->
+- 🥸 [从 iPhone 迁移到小米, App 是不是没办法&quot;迁移&quot;](https://www.v2ex.com/t/1081901#reply4) | Sun Oct 20 2024 6:45 AM
+- 🤗 [问题求助：极空间，无法连接到设备](https://www.v2ex.com/t/1081900#reply0) | Sun Oct 20 2024 6:43 AM
+- 🎭 [简历问题，我这种能自称全栈吗？](https://www.v2ex.com/t/1081894#reply9) | Sun Oct 20 2024 6:09 AM
+- 🥷 [打算配个 deskmini x600 装 Linux 做主力开发](https://www.v2ex.com/t/1081893#reply2) | Sun Oct 20 2024 6:04 AM
+- 🐵 [用 wails 做了个 ES 的桌面客户端，安装包 3.8mb](https://www.v2ex.com/t/1081878#reply6) | Sun Oct 20 2024 3:59 AM<!-- v2ex:END -->
 
