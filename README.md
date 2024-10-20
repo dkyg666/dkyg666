@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 ### v2ex-全站热点
 <!-- v2ex:START -->
 - 🥸 [朋友手机被偷了，收到了钓鱼短信，有没有大佬给他一点教训](https://www.v2ex.com/t/1081986#reply1) | Sun Oct 20 2024 12:42 PM
-- 🤗 [macos 是不是开启了壁纸审查？！](https://www.v2ex.com/t/1081984#reply4) | Sun Oct 20 2024 12:29 PM
-- 🎭 [垃圾 win11](https://www.v2ex.com/t/1081982#reply3) | Sun Oct 20 2024 12:26 PM
-- 🥷 [在设计一个 node 的插件化框架，学习 obsidian 插件但是有一些代码没看懂，请指教](https://www.v2ex.com/t/1081973#reply1) | Sun Oct 20 2024 11:55 AM
+- 🤗 [macos 是不是开启了壁纸审查？！](https://www.v2ex.com/t/1081984#reply7) | Sun Oct 20 2024 12:29 PM
+- 🎭 [垃圾 win11](https://www.v2ex.com/t/1081982#reply4) | Sun Oct 20 2024 12:26 PM
+- 🥷 [在设计一个 node 的插件化框架，学习 obsidian 插件但是有一些代码没看懂，请指教](https://www.v2ex.com/t/1081973#reply2) | Sun Oct 20 2024 11:55 AM
 - 🐵 [请问类似实验楼 www.shiyanlou.com（现在叫蓝桥云）中在线 Linux 平台如何实现的](https://www.v2ex.com/t/1081968#reply7) | Sun Oct 20 2024 11:22 AM<!-- v2ex:END -->
 
