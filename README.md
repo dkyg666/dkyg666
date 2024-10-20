@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [问题求助：极空间，无法连接到设备](https://www.v2ex.com/t/1081900#reply0) | Sun Oct 20 2024 6:43 AM
-- 🤗 [简历问题，我这种能自称全栈吗？](https://www.v2ex.com/t/1081894#reply10) | Sun Oct 20 2024 6:09 AM
-- 🎭 [打算配个 deskmini x600 装 Linux 做主力开发](https://www.v2ex.com/t/1081893#reply5) | Sun Oct 20 2024 6:04 AM
-- 🥷 [用 wails 做了个 ES 的桌面客户端，安装包 3.8mb](https://www.v2ex.com/t/1081878#reply11) | Sun Oct 20 2024 3:59 AM
-- 🐵 [请问微信 api 中有多少个 token 叫做 access token？](https://www.v2ex.com/t/1081860#reply4) | Sun Oct 20 2024 2:18 AM<!-- v2ex:END -->
+- 🥸 [atomic&lt;shared_ptr&lt;T&gt;&gt;在 GCC 和 Clang 的受支持程度真是一言难尽](https://www.v2ex.com/t/1081936#reply0) | Sun Oct 20 2024 8:50 AM
+- 🤗 [问题求助：极空间，无法连接到设备](https://www.v2ex.com/t/1081900#reply0) | Sun Oct 20 2024 6:43 AM
+- 🎭 [简历问题，我这种能自称全栈吗？](https://www.v2ex.com/t/1081894#reply13) | Sun Oct 20 2024 6:09 AM
+- 🥷 [打算配个 deskmini x600 装 Linux 做主力开发](https://www.v2ex.com/t/1081893#reply6) | Sun Oct 20 2024 6:04 AM
+- 🐵 [用 wails 做了个 ES 的桌面客户端，安装包 3.8mb](https://www.v2ex.com/t/1081878#reply12) | Sun Oct 20 2024 3:59 AM<!-- v2ex:END -->
 
