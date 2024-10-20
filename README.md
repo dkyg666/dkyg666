@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [用 wails 做了个 ES 的桌面客户端，安装包 3.8mb](https://www.v2ex.com/t/1081878#reply2) | Sun Oct 20 2024 3:59 AM
+- 🥸 [用 wails 做了个 ES 的桌面客户端，安装包 3.8mb](https://www.v2ex.com/t/1081878#reply4) | Sun Oct 20 2024 3:59 AM
 - 🤗 [请问微信 api 中有多少个 token 叫做 access token？](https://www.v2ex.com/t/1081860#reply2) | Sun Oct 20 2024 2:18 AM
 - 🎭 [用户要求提升，需要在语音识别时，区分不同的人，有什么好的方案？](https://www.v2ex.com/t/1081852#reply3) | Sun Oct 20 2024 1:48 AM
 - 🥷 [xmind 的动态思维导图那个图形是通过什么前端技术和算法实现的？](https://www.v2ex.com/t/1081851#reply0) | Sun Oct 20 2024 1:46 AM
