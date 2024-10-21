@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [似乎 Worktile 官网正在使用大量 AIGC 污染 SEO](https://www.v2ex.com/t/1082211#reply2) | Mon Oct 21 2024 7:13 AM
-- 🤗 [一个信道数据传输率的疑问。](https://www.v2ex.com/t/1082207#reply0) | Mon Oct 21 2024 6:56 AM
-- 🎭 [C++ 新手问下有没有办法链式定义一个类](https://www.v2ex.com/t/1082201#reply2) | Mon Oct 21 2024 6:38 AM
-- 🥷 [2024 年 10 月五年前端找工作半个月总结](https://www.v2ex.com/t/1082196#reply9) | Mon Oct 21 2024 6:32 AM
-- 🐵 [安卓有什么好用的支持 smb 的文件夹 app 吗？](https://www.v2ex.com/t/1082192#reply6) | Mon Oct 21 2024 6:30 AM<!-- v2ex:END -->
+- 🥸 [有开发 MS office 的人在么](https://www.v2ex.com/t/1082226#reply1) | Mon Oct 21 2024 7:47 AM
+- 🤗 [开发这样一个小程序要多少个人/月](https://www.v2ex.com/t/1082223#reply28) | Mon Oct 21 2024 7:40 AM
+- 🎭 [独立开发周记 89：解决了一个多年的困扰](https://www.v2ex.com/t/1082216#reply2) | Mon Oct 21 2024 7:23 AM
+- 🥷 [似乎 Worktile 官网正在使用大量 AIGC 污染 SEO](https://www.v2ex.com/t/1082211#reply2) | Mon Oct 21 2024 7:13 AM
+- 🐵 [一个信道数据传输率的疑问。](https://www.v2ex.com/t/1082207#reply1) | Mon Oct 21 2024 6:56 AM<!-- v2ex:END -->
 
