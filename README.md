@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [继上次的请教， nas 最终方案来了](https://www.v2ex.com/t/1082149#reply0) | Mon Oct 21 2024 4:14 AM
-- 🤗 [NFC 读取身份证并且获取到身份证的信息](https://www.v2ex.com/t/1082137#reply8) | Mon Oct 21 2024 3:46 AM
-- 🎭 [为什么 Win11 连任务栏位置都不支持修改了](https://www.v2ex.com/t/1082126#reply0) | Mon Oct 21 2024 3:30 AM
-- 🥷 [在 2024 年，装 windows 用什么镜像， PE](https://www.v2ex.com/t/1082106#reply21) | Mon Oct 21 2024 2:57 AM
+- 🥸 [继上次的请教， nas 最终方案来了](https://www.v2ex.com/t/1082149#reply3) | Mon Oct 21 2024 4:14 AM
+- 🤗 [NFC 读取身份证并且获取到身份证的信息](https://www.v2ex.com/t/1082137#reply14) | Mon Oct 21 2024 3:46 AM
+- 🎭 [为什么 Win11 连任务栏位置都不支持修改了](https://www.v2ex.com/t/1082126#reply2) | Mon Oct 21 2024 3:30 AM
+- 🥷 [在 2024 年，装 windows 用什么镜像， PE](https://www.v2ex.com/t/1082106#reply24) | Mon Oct 21 2024 2:57 AM
 - 🐵 [Webrtc 卡顿问题](https://www.v2ex.com/t/1082102#reply3) | Mon Oct 21 2024 2:54 AM<!-- v2ex:END -->
 
