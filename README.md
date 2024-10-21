@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [在 2024 年，装 windows 用什么镜像， PE](https://www.v2ex.com/t/1082106#reply15) | Mon Oct 21 2024 2:57 AM
-- 🤗 [200 米档路由器推荐](https://www.v2ex.com/t/1082103#reply7) | Mon Oct 21 2024 2:55 AM
-- 🎭 [Webrtc 卡顿问题](https://www.v2ex.com/t/1082102#reply3) | Mon Oct 21 2024 2:54 AM
-- 🥷 [求分享跟随电脑亮屏速度快的显示器，避雷亮屏速度慢的显示器。现在评测根本不评测这一点，无语😓](https://www.v2ex.com/t/1082080#reply17) | Mon Oct 21 2024 2:16 AM
-- 🐵 [4 年经验 Java 程序员，想回成都发展，有什么建议吗](https://www.v2ex.com/t/1082056#reply13) | Mon Oct 21 2024 1:29 AM<!-- v2ex:END -->
+- 🥸 [继上次的请教， nas 最终方案来了](https://www.v2ex.com/t/1082149#reply0) | Mon Oct 21 2024 4:14 AM
+- 🤗 [NFC 读取身份证并且获取到身份证的信息](https://www.v2ex.com/t/1082137#reply8) | Mon Oct 21 2024 3:46 AM
+- 🎭 [为什么 Win11 连任务栏位置都不支持修改了](https://www.v2ex.com/t/1082126#reply0) | Mon Oct 21 2024 3:30 AM
+- 🥷 [在 2024 年，装 windows 用什么镜像， PE](https://www.v2ex.com/t/1082106#reply21) | Mon Oct 21 2024 2:57 AM
+- 🐵 [Webrtc 卡顿问题](https://www.v2ex.com/t/1082102#reply3) | Mon Oct 21 2024 2:54 AM<!-- v2ex:END -->
 
