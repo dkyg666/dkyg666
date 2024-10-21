@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [上周五面试到一家需要出差东南亚的公司，感觉是一个诈骗公司。问问大家有没有过相似的经历](https://www.v2ex.com/t/1082320#reply0) | Mon Oct 21 2024 12:37 PM
-- 🤗 [哪种 NAS 系统能支持 Explorer 原生的回收站功能?](https://www.v2ex.com/t/1082310#reply4) | Mon Oct 21 2024 11:50 AM
-- 🎭 [网上买了一个迷你键鼠，发现播放暂停小米手机和 lg wing 都可以，然而前进和后退只有小米手机可以， lg wing 却不可以，可以破吗？](https://www.v2ex.com/t/1082299#reply1) | Mon Oct 21 2024 10:57 AM
-- 🥷 [各位 Windows 轻薄本用户用 Intel 的集显带多屏高分卡吗？](https://www.v2ex.com/t/1082289#reply2) | Mon Oct 21 2024 10:31 AM
-- 🐵 [正式项目的 kratos 如何规划目录以及生成代码](https://www.v2ex.com/t/1082282#reply0) | Mon Oct 21 2024 10:00 AM<!-- v2ex:END -->
+- 🥸 [21 元 diy 了一个钢结构的 NAS 机箱，旧笔记本电脑发挥余热！](https://www.v2ex.com/t/1082332#reply1) | Mon Oct 21 2024 1:23 PM
+- 🤗 [[网站加速] Sheas Cealer 新进展 [开发近况分享]](https://www.v2ex.com/t/1082329#reply0) | Mon Oct 21 2024 1:15 PM
+- 🎭 [上周五面试到一家需要出差东南亚的公司，感觉是一个诈骗公司。问问大家有没有过相似的经历](https://www.v2ex.com/t/1082320#reply5) | Mon Oct 21 2024 12:37 PM
+- 🥷 [哪种 NAS 系统能支持 Explorer 原生的回收站功能?](https://www.v2ex.com/t/1082310#reply5) | Mon Oct 21 2024 11:50 AM
+- 🐵 [网上买了一个迷你键鼠，发现播放暂停小米手机和 lg wing 都可以，然而前进和后退只有小米手机可以， lg wing 却不可以，可以破吗？](https://www.v2ex.com/t/1082299#reply1) | Mon Oct 21 2024 10:57 AM<!-- v2ex:END -->
 
