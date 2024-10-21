@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [急！ Win Server22 帐户自动锁定是什么情况？](https://www.v2ex.com/t/1082362#reply0) | Mon Oct 21 2024 4:00 PM
-- 🤗 [微服务到底在哪个方面让开发、维护简单了？怎么看都是变复杂了，原本配置一次数据库就能跑，现在要配置八九个容器和数据库，更新一次要配置好几个服务](https://www.v2ex.com/t/1082359#reply2) | Mon Oct 21 2024 3:41 PM
-- 🎭 [用 cursor 开发了一个语义化搜索书签的 chrome 插件，已开源](https://www.v2ex.com/t/1082357#reply0) | Mon Oct 21 2024 3:34 PM
-- 🥷 [个人向的 vivo X200 Pro 优缺点总结](https://www.v2ex.com/t/1082351#reply9) | Mon Oct 21 2024 3:11 PM
-- 🐵 [收 unraid plus 或者 pro 版](https://www.v2ex.com/t/1082349#reply0) | Mon Oct 21 2024 3:04 PM<!-- v2ex:END -->
+- 🥸 [有没有用 wails 做桌面客户端播放视频全屏只能窗口全屏问题的？](https://www.v2ex.com/t/1082367#reply0) | Mon Oct 21 2024 4:58 PM
+- 🤗 [请问海钓的论坛有吗？](https://www.v2ex.com/t/1082366#reply0) | Mon Oct 21 2024 4:51 PM
+- 🎭 [[出海记录]开发新手的第八个站点上线](https://www.v2ex.com/t/1082364#reply0) | Mon Oct 21 2024 4:31 PM
+- 🥷 [急！ Win Server22 帐户自动锁定是什么情况？](https://www.v2ex.com/t/1082362#reply2) | Mon Oct 21 2024 4:00 PM
+- 🐵 [微服务到底在哪个方面让开发、维护简单了？怎么看都是变复杂了，原本配置一次数据库就能跑，现在要配置八九个容器和数据库，更新一次要配置好几个服务](https://www.v2ex.com/t/1082359#reply2) | Mon Oct 21 2024 3:41 PM<!-- v2ex:END -->
 
