@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [21 元 diy 了一个钢结构的 NAS 机箱，旧笔记本电脑发挥余热！](https://www.v2ex.com/t/1082332#reply1) | Mon Oct 21 2024 1:23 PM
-- 🤗 [[网站加速] Sheas Cealer 新进展 [开发近况分享]](https://www.v2ex.com/t/1082329#reply0) | Mon Oct 21 2024 1:15 PM
-- 🎭 [上周五面试到一家需要出差东南亚的公司，感觉是一个诈骗公司。问问大家有没有过相似的经历](https://www.v2ex.com/t/1082320#reply5) | Mon Oct 21 2024 12:37 PM
-- 🥷 [哪种 NAS 系统能支持 Explorer 原生的回收站功能?](https://www.v2ex.com/t/1082310#reply5) | Mon Oct 21 2024 11:50 AM
-- 🐵 [网上买了一个迷你键鼠，发现播放暂停小米手机和 lg wing 都可以，然而前进和后退只有小米手机可以， lg wing 却不可以，可以破吗？](https://www.v2ex.com/t/1082299#reply1) | Mon Oct 21 2024 10:57 AM<!-- v2ex:END -->
+- 🥸 [我想把 GitHub 上看到的一个好用的、MIT 授权的、只有 CLI 的软件包装成一个完整的商业软件订阅制销售，以下做法违反 MIT 协议吗？](https://www.v2ex.com/t/1082340#reply0) | Mon Oct 21 2024 2:10 PM
+- 🤗 [小米对 Bootloader &lpar;BL&rpar; 跨区解锁权限施加了新限制](https://www.v2ex.com/t/1082338#reply1) | Mon Oct 21 2024 1:40 PM
+- 🎭 [21 元 diy 了一个钢结构的 NAS 机箱，旧笔记本电脑发挥余热！](https://www.v2ex.com/t/1082332#reply7) | Mon Oct 21 2024 1:23 PM
+- 🥷 [[网站加速] Sheas Cealer 新进展 [开发近况分享]](https://www.v2ex.com/t/1082329#reply1) | Mon Oct 21 2024 1:15 PM
+- 🐵 [上周五面试到一家需要出差东南亚的公司，感觉是一个诈骗公司。问问大家有没有过相似的经历](https://www.v2ex.com/t/1082320#reply7) | Mon Oct 21 2024 12:37 PM<!-- v2ex:END -->
 
