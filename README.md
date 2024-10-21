@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [网上买了一个迷你键鼠，发现播放暂停小米手机和 lg wing 都可以，然而前进和后退只有小米手机可以， lg wing 却不可以，可以破吗？](https://www.v2ex.com/t/1082299#reply1) | Mon Oct 21 2024 10:57 AM
-- 🤗 [各位 Windows 轻薄本用户用 Intel 的集显带多屏高分卡吗？](https://www.v2ex.com/t/1082289#reply0) | Mon Oct 21 2024 10:31 AM
-- 🎭 [正式项目的 kratos 如何规划目录以及生成代码](https://www.v2ex.com/t/1082282#reply0) | Mon Oct 21 2024 10:00 AM
-- 🥷 [有没有更加节省空间的 Python 环境管理器](https://www.v2ex.com/t/1082279#reply10) | Mon Oct 21 2024 9:51 AM
-- 🐵 [cursor 写小玩意挺好的，写大项目基本没用，想付费的老哥慎重](https://www.v2ex.com/t/1082278#reply8) | Mon Oct 21 2024 9:49 AM<!-- v2ex:END -->
+- 🥸 [上周五面试到一家需要出差东南亚的公司，感觉是一个诈骗公司。问问大家有没有过相似的经历](https://www.v2ex.com/t/1082320#reply0) | Mon Oct 21 2024 12:37 PM
+- 🤗 [哪种 NAS 系统能支持 Explorer 原生的回收站功能?](https://www.v2ex.com/t/1082310#reply4) | Mon Oct 21 2024 11:50 AM
+- 🎭 [网上买了一个迷你键鼠，发现播放暂停小米手机和 lg wing 都可以，然而前进和后退只有小米手机可以， lg wing 却不可以，可以破吗？](https://www.v2ex.com/t/1082299#reply1) | Mon Oct 21 2024 10:57 AM
+- 🥷 [各位 Windows 轻薄本用户用 Intel 的集显带多屏高分卡吗？](https://www.v2ex.com/t/1082289#reply2) | Mon Oct 21 2024 10:31 AM
+- 🐵 [正式项目的 kratos 如何规划目录以及生成代码](https://www.v2ex.com/t/1082282#reply0) | Mon Oct 21 2024 10:00 AM<!-- v2ex:END -->
 
