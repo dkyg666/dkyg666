@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 - 🤗 [请问海钓的论坛有吗？](https://www.v2ex.com/t/1082366#reply0) | Mon Oct 21 2024 4:51 PM
 - 🎭 [[出海记录]开发新手的第八个站点上线](https://www.v2ex.com/t/1082364#reply0) | Mon Oct 21 2024 4:31 PM
 - 🥷 [急！ Win Server22 帐户自动锁定是什么情况？](https://www.v2ex.com/t/1082362#reply2) | Mon Oct 21 2024 4:00 PM
-- 🐵 [微服务到底在哪个方面让开发、维护简单了？怎么看都是变复杂了，原本配置一次数据库就能跑，现在要配置八九个容器和数据库，更新一次要配置好几个服务](https://www.v2ex.com/t/1082359#reply2) | Mon Oct 21 2024 3:41 PM<!-- v2ex:END -->
+- 🐵 [微服务到底在哪个方面让开发、维护简单了？怎么看都是变复杂了，原本配置一次数据库就能跑，现在要配置八九个容器和数据库，更新一次要配置好几个服务](https://www.v2ex.com/t/1082359#reply4) | Mon Oct 21 2024 3:41 PM<!-- v2ex:END -->
 
