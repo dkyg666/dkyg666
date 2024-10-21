@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [继上次的请教， nas 最终方案来了](https://www.v2ex.com/t/1082149#reply3) | Mon Oct 21 2024 4:14 AM
-- 🤗 [NFC 读取身份证并且获取到身份证的信息](https://www.v2ex.com/t/1082137#reply14) | Mon Oct 21 2024 3:46 AM
-- 🎭 [为什么 Win11 连任务栏位置都不支持修改了](https://www.v2ex.com/t/1082126#reply2) | Mon Oct 21 2024 3:30 AM
-- 🥷 [在 2024 年，装 windows 用什么镜像， PE](https://www.v2ex.com/t/1082106#reply24) | Mon Oct 21 2024 2:57 AM
-- 🐵 [Webrtc 卡顿问题](https://www.v2ex.com/t/1082102#reply3) | Mon Oct 21 2024 2:54 AM<!-- v2ex:END -->
+- 🥸 [.NET build 到 wasm 后怎么看错误代码在哪个 .cs 文件的哪个位置？ DevTools 和那个 Debug URL 里都只能看到 e.Message](https://www.v2ex.com/t/1082187#reply0) | Mon Oct 21 2024 6:27 AM
+- 🤗 [如何实现当点击 NavigationLink 进入子视图的时候，键盘会自动收起，并且返回主视图时，键盘也不再自动弹出](https://www.v2ex.com/t/1082186#reply0) | Mon Oct 21 2024 6:24 AM
+- 🎭 [网络开发方向发展，求大佬指引](https://www.v2ex.com/t/1082182#reply2) | Mon Oct 21 2024 6:16 AM
+- 🥷 [macOS 单用户环境 dotnet 装在 ~/.dotnet/ 还是 /usr/local/share/dotnet/ 更好？ Rider 默认是前者，官网下载的 .pkg 默认是后者](https://www.v2ex.com/t/1082172#reply1) | Mon Oct 21 2024 5:56 AM
+- 🐵 [继上次的请教， nas 最终方案来了](https://www.v2ex.com/t/1082149#reply12) | Mon Oct 21 2024 4:14 AM<!-- v2ex:END -->
 
