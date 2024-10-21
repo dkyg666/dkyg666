@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [有开发 MS office 的人在么](https://www.v2ex.com/t/1082226#reply1) | Mon Oct 21 2024 7:47 AM
-- 🤗 [开发这样一个小程序要多少个人/月](https://www.v2ex.com/t/1082223#reply28) | Mon Oct 21 2024 7:40 AM
-- 🎭 [独立开发周记 89：解决了一个多年的困扰](https://www.v2ex.com/t/1082216#reply2) | Mon Oct 21 2024 7:23 AM
-- 🥷 [似乎 Worktile 官网正在使用大量 AIGC 污染 SEO](https://www.v2ex.com/t/1082211#reply2) | Mon Oct 21 2024 7:13 AM
-- 🐵 [一个信道数据传输率的疑问。](https://www.v2ex.com/t/1082207#reply1) | Mon Oct 21 2024 6:56 AM<!-- v2ex:END -->
+- 🥸 [Python joblib 在 n_jobs 大于 8 后几乎没有性能增益](https://www.v2ex.com/t/1082262#reply0) | Mon Oct 21 2024 9:18 AM
+- 🤗 [极空间 z4pro 扩容怎么买硬盘比较好呢](https://www.v2ex.com/t/1082259#reply1) | Mon Oct 21 2024 9:11 AM
+- 🎭 [编译 Python 性能分析器 py-spy - 支持 x86_64, aarch64, and 龙芯 &lpar;mips64le&rpar;](https://www.v2ex.com/t/1082246#reply0) | Mon Oct 21 2024 8:41 AM
+- 🥷 [有开发 MS office 的人在么](https://www.v2ex.com/t/1082226#reply1) | Mon Oct 21 2024 7:47 AM
+- 🐵 [独立开发周记 89：解决了一个多年的困扰](https://www.v2ex.com/t/1082216#reply5) | Mon Oct 21 2024 7:23 AM<!-- v2ex:END -->
 
