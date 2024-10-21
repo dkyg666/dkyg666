@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [Python joblib 在 n_jobs 大于 8 后几乎没有性能增益](https://www.v2ex.com/t/1082262#reply0) | Mon Oct 21 2024 9:18 AM
-- 🤗 [极空间 z4pro 扩容怎么买硬盘比较好呢](https://www.v2ex.com/t/1082259#reply1) | Mon Oct 21 2024 9:11 AM
-- 🎭 [编译 Python 性能分析器 py-spy - 支持 x86_64, aarch64, and 龙芯 &lpar;mips64le&rpar;](https://www.v2ex.com/t/1082246#reply0) | Mon Oct 21 2024 8:41 AM
-- 🥷 [有开发 MS office 的人在么](https://www.v2ex.com/t/1082226#reply1) | Mon Oct 21 2024 7:47 AM
-- 🐵 [独立开发周记 89：解决了一个多年的困扰](https://www.v2ex.com/t/1082216#reply5) | Mon Oct 21 2024 7:23 AM<!-- v2ex:END -->
+- 🥸 [正式项目的 kratos 如何规划目录以及生成代码](https://www.v2ex.com/t/1082282#reply0) | Mon Oct 21 2024 10:00 AM
+- 🤗 [有没有更加节省空间的 Python 环境管理器](https://www.v2ex.com/t/1082279#reply6) | Mon Oct 21 2024 9:51 AM
+- 🎭 [cursor 写小玩意挺好的，写大项目基本没用，想付费的老哥慎重](https://www.v2ex.com/t/1082278#reply5) | Mon Oct 21 2024 9:49 AM
+- 🥷 [似乎再也遇不到 toplanguage 这样的社区了](https://www.v2ex.com/t/1082277#reply0) | Mon Oct 21 2024 9:43 AM
+- 🐵 [咨询下, 现在还有什么方案可以将网页 chatgpt 包装成 api 吗](https://www.v2ex.com/t/1082272#reply1) | Mon Oct 21 2024 9:38 AM<!-- v2ex:END -->
 
