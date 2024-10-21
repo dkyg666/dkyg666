@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [.NET build 到 wasm 后怎么看错误代码在哪个 .cs 文件的哪个位置？ DevTools 和那个 Debug URL 里都只能看到 e.Message](https://www.v2ex.com/t/1082187#reply0) | Mon Oct 21 2024 6:27 AM
-- 🤗 [如何实现当点击 NavigationLink 进入子视图的时候，键盘会自动收起，并且返回主视图时，键盘也不再自动弹出](https://www.v2ex.com/t/1082186#reply0) | Mon Oct 21 2024 6:24 AM
-- 🎭 [网络开发方向发展，求大佬指引](https://www.v2ex.com/t/1082182#reply2) | Mon Oct 21 2024 6:16 AM
-- 🥷 [macOS 单用户环境 dotnet 装在 ~/.dotnet/ 还是 /usr/local/share/dotnet/ 更好？ Rider 默认是前者，官网下载的 .pkg 默认是后者](https://www.v2ex.com/t/1082172#reply1) | Mon Oct 21 2024 5:56 AM
-- 🐵 [继上次的请教， nas 最终方案来了](https://www.v2ex.com/t/1082149#reply12) | Mon Oct 21 2024 4:14 AM<!-- v2ex:END -->
+- 🥸 [似乎 Worktile 官网正在使用大量 AIGC 污染 SEO](https://www.v2ex.com/t/1082211#reply2) | Mon Oct 21 2024 7:13 AM
+- 🤗 [一个信道数据传输率的疑问。](https://www.v2ex.com/t/1082207#reply0) | Mon Oct 21 2024 6:56 AM
+- 🎭 [C++ 新手问下有没有办法链式定义一个类](https://www.v2ex.com/t/1082201#reply2) | Mon Oct 21 2024 6:38 AM
+- 🥷 [2024 年 10 月五年前端找工作半个月总结](https://www.v2ex.com/t/1082196#reply9) | Mon Oct 21 2024 6:32 AM
+- 🐵 [安卓有什么好用的支持 smb 的文件夹 app 吗？](https://www.v2ex.com/t/1082192#reply6) | Mon Oct 21 2024 6:30 AM<!-- v2ex:END -->
 
