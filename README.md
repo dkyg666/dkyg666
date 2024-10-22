@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [XR 钉子户今年想换个过渡安得猴机](https://www.v2ex.com/t/1082621#reply5) | Tue Oct 22 2024 8:48 AM
-- 🤗 [不是夸张, 前端可能真要被取代了](https://www.v2ex.com/t/1082619#reply0) | Tue Oct 22 2024 8:39 AM
-- 🎭 [TypeScript 项目打包发布到 npm，如何给方法和接口添加 dts](https://www.v2ex.com/t/1082613#reply3) | Tue Oct 22 2024 8:22 AM
-- 🥷 [请问现在有啥工具可以替代 postman 吗](https://www.v2ex.com/t/1082604#reply28) | Tue Oct 22 2024 7:58 AM
-- 🐵 [双非研二在读，求 C++嵌入式方向学习经验以便找工作](https://www.v2ex.com/t/1082599#reply0) | Tue Oct 22 2024 7:45 AM<!-- v2ex:END -->
+- 🥸 [基于 Dopamine 越狱环境开发的 XcodeAnyDebugRootless 插件，让你能够使用 Xcode 调试任意 iOS 应用。修复一些问题](https://www.v2ex.com/t/1082632#reply0) | Tue Oct 22 2024 9:24 AM
+- 🤗 [企业里面暴露内网服务到公网怎么做安全？](https://www.v2ex.com/t/1082624#reply10) | Tue Oct 22 2024 8:56 AM
+- 🎭 [XR 钉子户今年想换个过渡安得猴机](https://www.v2ex.com/t/1082621#reply5) | Tue Oct 22 2024 8:48 AM
+- 🥷 [不是夸张, 前端可能真要被取代了](https://www.v2ex.com/t/1082619#reply0) | Tue Oct 22 2024 8:39 AM
+- 🐵 [TypeScript 项目打包发布到 npm，如何给方法和接口添加 dts](https://www.v2ex.com/t/1082613#reply4) | Tue Oct 22 2024 8:22 AM<!-- v2ex:END -->
 
