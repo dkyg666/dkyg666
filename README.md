@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [TypeScript 项目打包发布到 npm，如何给方法和接口添加 dts](https://www.v2ex.com/t/1082613#reply0) | Tue Oct 22 2024 8:22 AM
-- 🤗 [请问现在有啥工具可以替代 postman 吗](https://www.v2ex.com/t/1082604#reply8) | Tue Oct 22 2024 7:58 AM
-- 🎭 [双非研二在读，求 C++嵌入式方向学习经验以便找工作](https://www.v2ex.com/t/1082599#reply0) | Tue Oct 22 2024 7:45 AM
-- 🥷 [请教一下 oracle 协议解析](https://www.v2ex.com/t/1082597#reply5) | Tue Oct 22 2024 7:43 AM
-- 🐵 [收购 adsnese 账户 国家不限！](https://www.v2ex.com/t/1082589#reply2) | Tue Oct 22 2024 7:32 AM<!-- v2ex:END -->
+- 🥸 [XR 钉子户今年想换个过渡安得猴机](https://www.v2ex.com/t/1082621#reply5) | Tue Oct 22 2024 8:48 AM
+- 🤗 [不是夸张, 前端可能真要被取代了](https://www.v2ex.com/t/1082619#reply0) | Tue Oct 22 2024 8:39 AM
+- 🎭 [TypeScript 项目打包发布到 npm，如何给方法和接口添加 dts](https://www.v2ex.com/t/1082613#reply3) | Tue Oct 22 2024 8:22 AM
+- 🥷 [请问现在有啥工具可以替代 postman 吗](https://www.v2ex.com/t/1082604#reply28) | Tue Oct 22 2024 7:58 AM
+- 🐵 [双非研二在读，求 C++嵌入式方向学习经验以便找工作](https://www.v2ex.com/t/1082599#reply0) | Tue Oct 22 2024 7:45 AM<!-- v2ex:END -->
 
