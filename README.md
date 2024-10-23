@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [PVE 数据卷挂了有什么思路拯救](https://www.v2ex.com/t/1083020#reply0) | Wed Oct 23 2024 12:35 PM
-- 🤗 [把 virtualbox 虚拟硬盘文件放在 nfs 上就是恶梦](https://www.v2ex.com/t/1082982#reply0) | Wed Oct 23 2024 9:40 AM
-- 🎭 [centos 上有没有好用的流量监控工具？](https://www.v2ex.com/t/1082974#reply3) | Wed Oct 23 2024 9:18 AM
-- 🥷 [cursor 全局 CrossWall 无效？](https://www.v2ex.com/t/1082972#reply1) | Wed Oct 23 2024 9:04 AM
-- 🐵 [腾讯云 TDSQL PostgreSQL 版 无法创建唯一索引问题](https://www.v2ex.com/t/1082970#reply5) | Wed Oct 23 2024 8:55 AM<!-- v2ex:END -->
+- 🥸 [手机一加 12 还是小米 14pro 还是小米 13u](https://www.v2ex.com/t/1083028#reply3) | Wed Oct 23 2024 1:15 PM
+- 🤗 [Mac app codesign 签名问题请教，使用 QtWebEngine](https://www.v2ex.com/t/1083024#reply0) | Wed Oct 23 2024 12:48 PM
+- 🎭 [PVE 数据卷挂了有什么思路拯救](https://www.v2ex.com/t/1083020#reply0) | Wed Oct 23 2024 12:35 PM
+- 🥷 [把 virtualbox 虚拟硬盘文件放在 nfs 上就是恶梦](https://www.v2ex.com/t/1082982#reply1) | Wed Oct 23 2024 9:40 AM
+- 🐵 [centos 上有没有好用的流量监控工具？](https://www.v2ex.com/t/1082974#reply3) | Wed Oct 23 2024 9:18 AM<!-- v2ex:END -->
 
