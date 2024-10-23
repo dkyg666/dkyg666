@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 - 🥸 [把 virtualbox 虚拟硬盘文件放在 nfs 上就是恶梦](https://www.v2ex.com/t/1082982#reply0) | Wed Oct 23 2024 9:40 AM
 - 🤗 [centos 上有没有好用的流量监控工具？](https://www.v2ex.com/t/1082974#reply1) | Wed Oct 23 2024 9:18 AM
 - 🎭 [cursor 全局 CrossWall 无效？](https://www.v2ex.com/t/1082972#reply1) | Wed Oct 23 2024 9:04 AM
-- 🥷 [腾讯云 TDSQL PostgreSQL 版 无法创建唯一索引问题](https://www.v2ex.com/t/1082970#reply4) | Wed Oct 23 2024 8:55 AM
-- 🐵 [Several Linux Kernel Driver Maintainers Removed Due To Their Association To Russia](https://www.v2ex.com/t/1082957#reply22) | Wed Oct 23 2024 8:19 AM<!-- v2ex:END -->
+- 🥷 [腾讯云 TDSQL PostgreSQL 版 无法创建唯一索引问题](https://www.v2ex.com/t/1082970#reply5) | Wed Oct 23 2024 8:55 AM
+- 🐵 [遇到一个 Redis 跨 VPC 读取的问题](https://www.v2ex.com/t/1082949#reply17) | Wed Oct 23 2024 8:09 AM<!-- v2ex:END -->
 
