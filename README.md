@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [北漂十年，何去何从~！](https://www.v2ex.com/t/1082905#reply18) | Wed Oct 23 2024 6:25 AM
-- 🤗 [问一个疑难杂症问题，关于 win 7 的网络共享。](https://www.v2ex.com/t/1082876#reply4) | Wed Oct 23 2024 5:35 AM
-- 🎭 [为什么最近新发布的手机不搞屏下摄像头了](https://www.v2ex.com/t/1082871#reply3) | Wed Oct 23 2024 5:31 AM
-- 🥷 [服务端开发错了，客户端就应该错着适配](https://www.v2ex.com/t/1082855#reply32) | Wed Oct 23 2024 4:34 AM
-- 🐵 [请问现在有啥接口自动化工具推荐呢](https://www.v2ex.com/t/1082844#reply1) | Wed Oct 23 2024 3:51 AM<!-- v2ex:END -->
+- 🥸 [Several Linux Kernel Driver Maintainers Removed Due To Their Association To Russia](https://www.v2ex.com/t/1082957#reply1) | Wed Oct 23 2024 8:19 AM
+- 🤗 [遇到一个 Redis 跨 VPC 读取的问题](https://www.v2ex.com/t/1082949#reply0) | Wed Oct 23 2024 8:09 AM
+- 🎭 [我想搞个广告三级分销的小程序。不知道会不会有人用？](https://www.v2ex.com/t/1082947#reply1) | Wed Oct 23 2024 8:07 AM
+- 🥷 [一加 ace pro 3 怎么解锁 BL](https://www.v2ex.com/t/1082945#reply3) | Wed Oct 23 2024 8:06 AM
+- 🐵 [请问一下，有没有直接适配知乎的 typora 主题](https://www.v2ex.com/t/1082942#reply0) | Wed Oct 23 2024 8:05 AM<!-- v2ex:END -->
 
