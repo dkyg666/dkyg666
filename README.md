@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [退坑出惠普 hp ProLiant MicroServer gen8 服务器](https://www.v2ex.com/t/1083071#reply0) | Wed Oct 23 2024 10:03 PM
-- 🤗 [今天是 1024。](https://www.v2ex.com/t/1083063#reply7) | Wed Oct 23 2024 4:40 PM
-- 🎭 [android 应用是不是自动添加开机启动权限？](https://www.v2ex.com/t/1083057#reply0) | Wed Oct 23 2024 3:39 PM
-- 🥷 [emby 安卓版播放 hdr 电影是不是有问题？](https://www.v2ex.com/t/1083055#reply0) | Wed Oct 23 2024 3:20 PM
-- 🐵 [有老哥逆向分析过小米解锁 bl 的 mi unlock 吗？](https://www.v2ex.com/t/1083051#reply10) | Wed Oct 23 2024 3:13 PM<!-- v2ex:END -->
+- 🥸 [pixel 7 root 和安装面具之后，有办法无损升级么？](https://www.v2ex.com/t/1083072#reply1) | Wed Oct 23 2024 10:21 PM
+- 🤗 [退坑出惠普 hp ProLiant MicroServer gen8 服务器](https://www.v2ex.com/t/1083071#reply2) | Wed Oct 23 2024 10:03 PM
+- 🎭 [今天是 1024。](https://www.v2ex.com/t/1083063#reply7) | Wed Oct 23 2024 4:40 PM
+- 🥷 [android 应用是不是自动添加开机启动权限？](https://www.v2ex.com/t/1083057#reply0) | Wed Oct 23 2024 3:39 PM
+- 🐵 [emby 安卓版播放 hdr 电影是不是有问题？](https://www.v2ex.com/t/1083055#reply0) | Wed Oct 23 2024 3:20 PM<!-- v2ex:END -->
 
