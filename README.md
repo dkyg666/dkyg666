@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [除了写代码和输入框问答大家还会怎么用 AI 😅太多 AI 资讯了搞得我很焦虑](https://www.v2ex.com/t/1082796#reply2) | Wed Oct 23 2024 2:39 AM
-- 🤗 [本来要丢掉的域名卖了个“高价”](https://www.v2ex.com/t/1082791#reply2) | Wed Oct 23 2024 2:32 AM
-- 🎭 [现在用 mysql 的多 还是 mariadb 的多](https://www.v2ex.com/t/1082775#reply10) | Wed Oct 23 2024 2:05 AM
-- 🥷 [Github 中文排行榜删库了？](https://www.v2ex.com/t/1082771#reply2) | Wed Oct 23 2024 1:59 AM
-- 🐵 [九号 MZmix 第一次远足](https://www.v2ex.com/t/1082728#reply32) | Tue Oct 22 2024 9:54 PM<!-- v2ex:END -->
+- 🥸 [潜伏在 Chrome 应用商店的恶意扩展](https://www.v2ex.com/t/1082819#reply1) | Wed Oct 23 2024 3:13 AM
+- 🤗 [Spring 异步线程池传递线程上下文](https://www.v2ex.com/t/1082816#reply0) | Wed Oct 23 2024 3:08 AM
+- 🎭 [为什么车子大修过后很容易跑偏](https://www.v2ex.com/t/1082807#reply4) | Wed Oct 23 2024 2:52 AM
+- 🥷 [除了写代码和输入框问答大家还会怎么用 AI 😅太多 AI 资讯了搞得我很焦虑](https://www.v2ex.com/t/1082796#reply8) | Wed Oct 23 2024 2:39 AM
+- 🐵 [本来要丢掉的域名卖了个“高价”](https://www.v2ex.com/t/1082791#reply2) | Wed Oct 23 2024 2:32 AM<!-- v2ex:END -->
 
