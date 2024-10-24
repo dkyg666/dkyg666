@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [自建 NAS 现在服务器什么行情？](https://www.v2ex.com/t/1083403#reply12) | Thu Oct 24 2024 3:59 PM
-- 🤗 [在 Windows 11 23H2 下慎用 Shadow Defender, 疑似存在数据丢失问题.](https://www.v2ex.com/t/1083402#reply0) | Thu Oct 24 2024 3:56 PM
-- 🎭 [gRPC 和普通 HTTP API 哪个更适合 APP 客户端与服务器通信？为什么大部分 APP 都还在使用传统 HTTP API？](https://www.v2ex.com/t/1083393#reply7) | Thu Oct 24 2024 2:46 PM
-- 🥷 [问一个 vscode 下 flake8 的小白问题](https://www.v2ex.com/t/1083380#reply0) | Thu Oct 24 2024 1:58 PM
-- 🐵 [好家伙这果味，真有点心动了 OPPO Find X8](https://www.v2ex.com/t/1083375#reply9) | Thu Oct 24 2024 1:42 PM<!-- v2ex:END -->
+- 🥸 [感觉最近出现了一股攻击 Java 程序员的风气](https://www.v2ex.com/t/1083415#reply0) | Thu Oct 24 2024 6:25 PM
+- 🤗 [自建 NAS 现在服务器什么行情？](https://www.v2ex.com/t/1083403#reply13) | Thu Oct 24 2024 3:59 PM
+- 🎭 [在 Windows 11 23H2 下慎用 Shadow Defender, 疑似存在数据丢失问题.](https://www.v2ex.com/t/1083402#reply0) | Thu Oct 24 2024 3:56 PM
+- 🥷 [gRPC 和普通 HTTP API 哪个更适合 APP 客户端与服务器通信？为什么大部分 APP 都还在使用传统 HTTP API？](https://www.v2ex.com/t/1083393#reply9) | Thu Oct 24 2024 2:46 PM
+- 🐵 [问一个 vscode 下 flake8 的小白问题](https://www.v2ex.com/t/1083380#reply0) | Thu Oct 24 2024 1:58 PM<!-- v2ex:END -->
 
