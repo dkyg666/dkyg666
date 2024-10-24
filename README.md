@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### v2ex-全站热点
 <!-- v2ex:START -->
-- 🥸 [pixel 7 root 和安装面具之后，有办法无损升级么？](https://www.v2ex.com/t/1083072#reply1) | Wed Oct 23 2024 10:21 PM
-- 🤗 [退坑出惠普 hp ProLiant MicroServer gen8 服务器](https://www.v2ex.com/t/1083071#reply2) | Wed Oct 23 2024 10:03 PM
-- 🎭 [今天是 1024。](https://www.v2ex.com/t/1083063#reply7) | Wed Oct 23 2024 4:40 PM
-- 🥷 [android 应用是不是自动添加开机启动权限？](https://www.v2ex.com/t/1083057#reply0) | Wed Oct 23 2024 3:39 PM
-- 🐵 [emby 安卓版播放 hdr 电影是不是有问题？](https://www.v2ex.com/t/1083055#reply0) | Wed Oct 23 2024 3:20 PM<!-- v2ex:END -->
+- 🥸 [[求助] 求教 Spring 商业版的使用经验](https://www.v2ex.com/t/1083108#reply0) | Thu Oct 24 2024 1:32 AM
+- 🤗 [Linux 移除了和老毛子有关的程序员的权限](https://www.v2ex.com/t/1083098#reply6) | Thu Oct 24 2024 1:16 AM
+- 🎭 [祝愿各位程序员们 1024 节日快乐，多金多爱+事业不卷+健康幸福~](https://www.v2ex.com/t/1083090#reply2) | Thu Oct 24 2024 12:59 AM
+- 🥷 [1024 自己给自己过个节#程序猿#](https://www.v2ex.com/t/1083083#reply10) | Thu Oct 24 2024 12:49 AM
+- 🐵 [为什么拘泥于让摄像头和屏幕抢位置呢？](https://www.v2ex.com/t/1083078#reply23) | Thu Oct 24 2024 12:41 AM<!-- v2ex:END -->
 
